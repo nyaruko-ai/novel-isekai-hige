@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-083",
+  "title": "第八十一話　灰鐘の下の長机",
+  "chapterTitle": "第十七章　灰鐘会議――最終門を開くか、閉ざすか編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:41:49.310Z",
+  "output": "docs/images/episodes/scene-083.webp",
+  "rawOutput": "docs/images/episodes/scene-083.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十七章　灰鐘会議――最終門を開くか、閉ざすか編. Episode title: 第八十一話　灰鐘の下の長机. Episode summary: 灰鐘院の夜は、静かだった。だがその静けさは、安らぎというより、嵐の前に一度だけ世界が息を止める静けさに近かった。 Beat excerpt: 灰鐘院の夜は、静かだった。 だがその静けさは、安らぎというより、嵐の前に一度だけ世界が息を止める静けさに近かった。 地下鐘堂の上にある古い会議室。石造りの壁。高い天井。中央には長い木の机。机の上には灰鐘院が灯したランプと、ラグナ・ベルから持ち帰った記録石板、そして最低限の水と食事。 サトーは、こういう場があまり好きではなかった。 戦うほうがまだ楽だ。戦いは目の前の敵がはっきりしている。だが話し合いは違う。相手が何を本当に望んでいるのか、何を隠しているのか、何を言わずに飲み込んでいるのかを見なければならない。 しかも今回は、相手が全員ややこしい。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

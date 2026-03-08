@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-086",
+  "title": "第八十四話　最終門へ行く条件",
+  "chapterTitle": "第十七章　灰鐘会議――最終門を開くか、閉ざすか編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T15:10:25.328Z",
+  "output": "docs/images/episodes/scene-086.webp",
+  "rawOutput": "docs/images/episodes/scene-086.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/celestia.png",
+    "docs/images/characters/izel.png",
+    "docs/images/characters/legius.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "celestia",
+    "izel",
+    "legius"
+  ],
+  "continuityNotes": [
+    "Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十七章　灰鐘会議――最終門を開くか、閉ざすか編. Episode title: 第八十四話　最終門へ行く条件. Episode summary: 「では」とマグダレナが言った。「ここまでの話を踏まえて、次を決めようか」灰鐘院の長机の上に、ラグナ・ベルから持ち帰った記録石板と、灰鐘の古い… Beat excerpt: 「では」とマグダレナが言った。「ここまでの話を踏まえて、次を決めようか」 灰鐘院の長机の上に、ラグナ・ベルから持ち帰った記録石板と、灰鐘の古い地図が並べられる。 中央座標。王都地下。最終門。そしてそれに繋がる各座標の補助線。 セレスティアが整理するように言う。 「今、最終門権限は仮開放中。つまり三鍵と継承列が揃えば、中央座標へ接続できる状態です」 イゼルが続ける。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, celestia, izel, legius. The composition must clearly show izel and legius in frame as identifiable midground or foreground subjects. Do not omit them, turn them into tiny background figures, or replace them with unrelated designs. Continuity notes: Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise.",
+  "responseTexts": []
+}

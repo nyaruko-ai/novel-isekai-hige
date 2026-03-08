@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-076",
+  "title": "第七十五話　第二鍵は誰のものか",
+  "chapterTitle": "第十五章　第二鍵の涙と、三勢力激突編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:50:33.161Z",
+  "output": "docs/images/episodes/scene-076.webp",
+  "rawOutput": "docs/images/episodes/scene-076.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十五章　第二鍵の涙と、三勢力激突編. Episode title: 第七十五話　第二鍵は誰のものか. Episode summary: 最初の衝突は、完全な乱戦だった。王都側の封鎖術式が部屋の左右を塞ぎ、追跡者の突進経路を絞る。その隙を突いてレギウスの部下が紫の楔を打ち込む。… Beat excerpt: 最初の衝突は、完全な乱戦だった。 王都側の封鎖術式が部屋の左右を塞ぎ、追跡者の突進経路を絞る。その隙を突いてレギウスの部下が紫の楔を打ち込む。だが追跡者の上位個体は、楔ごと空間をずらして無効化してくる。 サトーは第三鍵を抜いた。 「ニャル子！　第二鍵から離れるな！」 「はいにゃ！」 しろたまが二人の間を走る。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

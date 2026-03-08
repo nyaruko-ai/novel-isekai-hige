@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-047",
+  "title": "第四十七話　外に出るか、地下へ降りるか",
+  "chapterTitle": "第十章　灰鐘院防衛戦と、地下鐘堂の記憶編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:41:43.698Z",
+  "output": "docs/images/episodes/scene-047.webp",
+  "rawOutput": "docs/images/episodes/scene-047.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十章　灰鐘院防衛戦と、地下鐘堂の記憶編. Episode title: 第四十七話　外に出るか、地下へ降りるか. Episode summary: 灰鐘の修道院、応接室。外から響く鐘の音は、さっきまでとは明らかに違っていた。あれは時を告げる鐘じゃない。敵の接近を告げる鐘だ。 Beat excerpt: 灰鐘の修道院、応接室。 外から響く鐘の音は、さっきまでとは明らかに違っていた。あれは時を告げる鐘じゃない。敵の接近を告げる鐘だ。 ごぉん――ごぉん―― 低く、重く、胸の奥をざらつかせるような音。 若い修道士はまだ息を切らしていた。 「東の霧域に王都の偵察騎、少なくとも八騎！　さらにその上空に黒影！　監視塔では追跡者群と判断しています！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

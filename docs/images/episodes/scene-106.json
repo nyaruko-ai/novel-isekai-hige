@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-106",
+  "title": "第百四話　開く前の約束",
+  "chapterTitle": "第二十一章　最終確認者と、最後の問い編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:46:01.748Z",
+  "output": "docs/images/episodes/scene-106.webp",
+  "rawOutput": "docs/images/episodes/scene-106.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二十一章　最終確認者と、最後の問い編. Episode title: 第百四話　開く前の約束. Episode summary: 最終確認者の背後で、円環がゆっくり回転し始めた。最終門。まだ開いてはいない。だが、もう閉じたままでもない。 Beat excerpt: 最終確認者の背後で、円環がゆっくり回転し始めた。 最終門。まだ開いてはいない。だが、もう閉じたままでもない。 中央座標へ繋がる最後の門は、継承列が最後に踏み込むのを待っている。 「これより先、最終門の内側では、外からの補助はさらに薄れる」と最終確認者は言った。「王都も、灰鐘も、第三勢力も、追跡者も。最終的には、継承列が自分たちで決めることになる」 サトーは後ろを振り返った。 前室の入口側では、イゼル、セレスティア、レギウスたちがこちらを見ている。ここから先は本当に、三人の領域なのだろう。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

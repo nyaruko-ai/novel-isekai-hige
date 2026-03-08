@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-067",
+  "title": "第六十六話　青い縦穴へ",
+  "chapterTitle": "第十四章　水底回廊と、第二鍵の守り手編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:43:31.214Z",
+  "output": "docs/images/episodes/scene-067.webp",
+  "rawOutput": "docs/images/episodes/scene-067.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十四章　水底回廊と、第二鍵の守り手編. Episode title: 第六十六話　青い縦穴へ. Episode summary: 沈都ラグナ・ベル中央広場。崩れた噴水跡の下に現れた、青白く光る巨大な縦穴。その縁に立った瞬間、サトーは思った。 Beat excerpt: 沈都ラグナ・ベル中央広場。崩れた噴水跡の下に現れた、青白く光る巨大な縦穴。 その縁に立った瞬間、サトーは思った。 「……毎回だけど、ほんとに入るのかこれ」 「入るしかないですにゃ」 ニャル子はそう言いながらも、さすがに少し顔が引きつっている。セレスティアも冷静な顔を崩してはいないが、目だけは完全に警戒モードだ。しろたまは、縁から中をのぞきこんで耳をぴくぴく動かしていた。 「もふ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

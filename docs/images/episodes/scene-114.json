@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-114",
+  "title": "第百十二話　ヒゲ魔法のサトー、のんびり異世界生活へ",
+  "chapterTitle": "最終章　中央座標と、サトーたちが選ぶ終わり編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:52:22.650Z",
+  "output": "docs/images/episodes/scene-114.webp",
+  "rawOutput": "docs/images/episodes/scene-114.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 最終章　中央座標と、サトーたちが選ぶ終わり編. Episode title: 第百十二話　ヒゲ魔法のサトー、のんびり異世界生活へ. Episode summary: それから少し時間が飛ぶ。王都は混乱した。当然だ。 Beat excerpt: それから少し時間が飛ぶ。 王都は混乱した。当然だ。 三鍵が揃った。中央座標が再設計された。旧継承列制度が終わった。記録は分散された。王都だけでは独占できなくなった。 だが、その混乱は破局にはならなかった。 イゼルとセレスティアが王都側をまとめ、灰鐘院が外部保全域の一つとして記録保全を引き受け、レギウスたちも“全部壊す”ではなく、“監視して偏りを防ぐ側”へ少しずつ回った。 追跡者たちは、完全には消えていない。だが中央の命令系統へ一気に戻る道は失われ、以前のような大規模な回収行動は起こしにくくなった。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

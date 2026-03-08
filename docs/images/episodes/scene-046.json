@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-046",
+  "title": "第四十六話　鈴の系譜",
+  "chapterTitle": "第九章　灰鐘の修道院と、鈴の系譜編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:41:03.383Z",
+  "output": "docs/images/episodes/scene-046.webp",
+  "rawOutput": "docs/images/episodes/scene-046.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第九章　灰鐘の修道院と、鈴の系譜編. Episode title: 第四十六話　鈴の系譜. Episode summary: 中庭を抜けた先の応接室は、思ったより質素だった。長机。石壁。古い聖画。けれど、そこに描かれているものは王都の神殿にあるような意匠とは違う。人… Beat excerpt: 中庭を抜けた先の応接室は、思ったより質素だった。 長机。石壁。古い聖画。けれど、そこに描かれているものは王都の神殿にあるような意匠とは違う。人が門を守り、鈴が道を示し、小さな獣が星の流れを読む――そんな場面がさりげなく混ざっていた。 老修道女は、自らを灰鐘院の守り手、マグダレナと名乗った。 「正式には廃絶。実際には細々と残っている。そういう場所さ」 「率直ですね」とセレスティア。 「王都の者に遠慮する気はないよ。向こうだって、うちを消しきれなかった負い目がある」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

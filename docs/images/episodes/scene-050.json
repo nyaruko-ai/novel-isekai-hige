@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-050",
+  "title": "第五十話　鈴の記憶",
+  "chapterTitle": "第十章　灰鐘院防衛戦と、地下鐘堂の記憶編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:43:45.134Z",
+  "output": "docs/images/episodes/scene-050.webp",
+  "rawOutput": "docs/images/episodes/scene-050.raw.png",
+  "referenceImages": [
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png",
+    "docs/images/characters/magdalena.png"
+  ],
+  "referenceCharacterIds": [
+    "nyaruko",
+    "shirotama",
+    "celestia",
+    "magdalena"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十章　灰鐘院防衛戦と、地下鐘堂の記憶編. Episode title: 第五十話　鈴の記憶. Episode summary: 最初に見えたのは、雪だった。冷たい風。白い景色。まだ幼い自分の手。 Beat excerpt: 最初に見えたのは、雪だった。 冷たい風。白い景色。まだ幼い自分の手。 ニャル子は、記憶の中で、小さかった。今よりずっと幼い。そして、誰かに抱かれている。 見上げると、女の人がいた。顔はよく見えない。でも、猫耳がある。優しい声で何かを言っている。 『……この子は、こっちに残せない』 別の声。男とも女ともつかない低い声。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of nyaruko, shirotama, celestia, magdalena. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

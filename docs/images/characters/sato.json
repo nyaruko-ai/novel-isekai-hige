@@ -1,0 +1,18 @@
+{
+  "characterId": "sato",
+  "name": "サトー",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:25:26.227Z",
+  "output": "docs/images/characters/sato.png",
+  "rawOutput": "docs/images/characters/sato.raw.jpg",
+  "referenceImage": null,
+  "fixedSize": {
+    "width": 1080,
+    "height": 2304
+  },
+  "prompt": "Photorealistic fantasy novel insert art, cinematic natural light, realistic skin texture, high detail fabric, high detail hair, believable proportions, clean background separation, vertical full-body or 3/4 portrait, centered composition with headroom and footroom, premium live-action look.\nCreate a photorealistic portrait of Sato, a Japanese man in his late 30s to early 40s, calm and grounded, slightly long dark hair, refined rugged features, intelligent tired eyes, and a well-kept dark beard that subtly floats with magical life. Dress him in a stylish fantasy-world outfit that feels practical but clearly more striking than a plain shirt: layered dark earth-tone tunic, fitted vest or coat, subtle leather details, tasteful belts or shoulder elements, and the aura of a quiet hero who became important without trying. The outfit should feel cool, mature, and visually memorable within a rustic fantasy world, without becoming flashy armor or noble courtwear. Expression should feel gentle, dry-humored, and dependable rather than arrogant. Add a faint supernatural presence around the beard, as if individual beard strands respond to his will. Background: warm rustic inn room or soft fantasy village light. Real-person fantasy illustration, serious novel insert art.\nCenter the subject and leave generous margin on both left and right sides for a later narrow crop.\nKeep the whole character visible within frame when possible, especially head, key costume details, hands, silhouette, and signature accessories.\nFinal delivery will be cropped to 1080x2304, so compose safely.\nNegative prompt: anime, manga, cel shading, chibi, cartoon, deformed anatomy, extra limbs, extra fingers, low detail face, flat lighting, text, logo, watermark, frame, collage, duplicated ears, duplicated tail, blurry eyes, comedic beard tentacles, exaggerated superhero pose, teenage face, modern business clothes, plain peasant shirt only, gaudy king costume, heavy full plate armor",
+  "sourceRefs": [
+    "hige-mahou-story.md:42"
+  ],
+  "responseTexts": []
+}

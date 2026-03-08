@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" role="img" aria-labelledby="scene-005-title scene-005-desc">
+  <title id="scene-005-title">第五話　ニャル子、当然のように同居する</title>
+  <desc id="scene-005-desc">第一章　はじまりの第五話　ニャル子、当然のように同居するをイメージしたビジュアルカード</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8d7a8" />
+      <stop offset="100%" stop-color="#f29158" />
+    </linearGradient>
+    <linearGradient id="veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.32" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="url(#bg)" />
+  <rect width="1200" height="1800" fill="url(#veil)" />
+  
+        <circle cx="930" cy="300" r="170" fill="#fff3d8" opacity="0.19" />
+        <path d="M180 1120 L340 900 L520 1090" stroke="#fff9ef" stroke-width="22" stroke-linecap="round" opacity="0.18" fill="none" />
+        <path d="M430 1250 L630 980 L860 1260" stroke="#fff9ef" stroke-width="18" stroke-linecap="round" opacity="0.16" fill="none" />
+        <path d="M740 1150 L920 930 L1080 1130" stroke="#fff9ef" stroke-width="14" stroke-linecap="round" opacity="0.16" fill="none" />
+        <path d="M0 1500 C280 1400 540 1420 780 1510 C980 1580 1100 1600 1200 1570 L1200 1800 L0 1800 Z" fill="#7a422a" opacity="0.24" />
+      
+  <g opacity="0.08">
+    <circle cx="120" cy="120" r="2" fill="#ffffff" />
+    <circle cx="240" cy="210" r="1.8" fill="#ffffff" />
+    <circle cx="340" cy="180" r="1.6" fill="#ffffff" />
+    <circle cx="960" cy="170" r="2" fill="#ffffff" />
+    <circle cx="1030" cy="230" r="1.8" fill="#ffffff" />
+    <circle cx="870" cy="260" r="1.5" fill="#ffffff" />
+  </g>
+  <text x="88" y="1290" font-size="28" font-weight="700" letter-spacing="8" fill="#fff9ef" opacity="0.92" font-family="'Avenir Next', 'Hiragino Sans', sans-serif">第1章</text>
+  <text x="88" y="1348" font-size="42" font-weight="500" letter-spacing="2" fill="#fff9ef" opacity="0.88" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第一章　はじまり</tspan></text>
+  <text x="88" y="1496" font-size="74" font-weight="700" letter-spacing="2" fill="#ffffff" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第五話　ニャル子、当然のよう</tspan><tspan x="88" dy="88">に同居する</tspan></text>
+  <rect x="88" y="1600" width="280" height="2" fill="#fff9ef" opacity="0.85" />
+</svg>

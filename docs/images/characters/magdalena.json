@@ -1,0 +1,21 @@
+{
+  "characterId": "magdalena",
+  "name": "マグダレナ",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T12:45:51.974Z",
+  "output": "docs/images/characters/magdalena.png",
+  "rawOutput": "docs/images/characters/magdalena.raw.png",
+  "referenceImage": null,
+  "fixedSize": {
+    "width": 1080,
+    "height": 2304
+  },
+  "prompt": "Photorealistic fantasy novel insert art, cinematic natural light, realistic skin texture, high detail fabric, high detail hair, believable proportions, clean background separation, vertical full-body or 3/4 portrait, centered composition with headroom and footroom, premium live-action look.\nCreate a photorealistic portrait of Magdalena, an elderly one-eyed nun and keeper of the Gray Bell convent. She stands with a worn staff, wrapped in heavy gray monastic robes. Her visible eye is sharp despite age; her face is lined, severe, and deeply compassionate under the hardness. She should feel like someone who has guarded forbidden memories for decades. Setting: dim stone convent courtyard with mist and old bells. Tone: austere, sacred, tired, and unyielding.\nCenter the subject and leave generous margin on both left and right sides for a later narrow crop.\nKeep the whole character visible within frame when possible, especially head, key costume details, hands, silhouette, and signature accessories.\nFinal delivery will be cropped to 1080x2304, so compose safely.\nNegative prompt: anime, manga, cel shading, chibi, cartoon, deformed anatomy, extra limbs, extra fingers, low detail face, flat lighting, text, logo, watermark, frame, collage, duplicated ears, duplicated tail, blurry eyes, evil witch cliché, horror zombie face, glamorous young nun, bright cheerful palette",
+  "sourceRefs": [
+    "hige-mahou-story.md:6311",
+    "hige-mahou-story.md:6339",
+    "hige-mahou-story.md:6341",
+    "hige-mahou-story.md:6383"
+  ],
+  "responseTexts": []
+}

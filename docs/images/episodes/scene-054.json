@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-054",
+  "title": "第五十四話　共鳴",
+  "chapterTitle": "第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:46:43.722Z",
+  "output": "docs/images/episodes/scene-054.webp",
+  "rawOutput": "docs/images/episodes/scene-054.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編. Episode title: 第五十四話　共鳴. Episode summary: 外壁の上で、サトーはそれを感じた。突然、胸の奥に柔らかな線が通る。しろたまと繋がるときの感覚に似ている。でももっと静かで、もっと芯に触れる感… Beat excerpt: 外壁の上で、サトーはそれを感じた。 突然、胸の奥に柔らかな線が通る。しろたまと繋がるときの感覚に似ている。でももっと静かで、もっと芯に触れる感じ。 「……来た」 《天穿の杖槍》の柄に、金の光が走る。その周囲へ、鈴の音に似た淡い銀色の波紋が重なる。 ヒゲまでもがふわりと浮き、一本一本が細く震えた。 上空の白線仮面が、初めて露骨に反応した。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

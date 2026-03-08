@@ -1,0 +1,18 @@
+{
+  "episodeId": "scene-048",
+  "title": "第四十八話　灰鐘院防衛戦",
+  "chapterTitle": "第十章　灰鐘院防衛戦と、地下鐘堂の記憶編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:42:25.427Z",
+  "output": "docs/images/episodes/scene-048.webp",
+  "rawOutput": "docs/images/episodes/scene-048.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png"
+  ],
+  "referenceCharacterIds": [
+    "sato"
+  ],
+  "continuityNotes": [],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十章　灰鐘院防衛戦と、地下鐘堂の記憶編. Episode title: 第四十八話　灰鐘院防衛戦. Episode summary: サトーが中庭へ出るころには、修道院の空気は完全に戦時のものへ変わっていた。灰色の修道服を着た者たちが、実はただの祈る人々ではないことがよく分… Beat excerpt: サトーが中庭へ出るころには、修道院の空気は完全に戦時のものへ変わっていた。 灰色の修道服を着た者たちが、実はただの祈る人々ではないことがよく分かる。壁上へ弓を運ぶ者。鐘楼へ上がる者。石畳の目地へ粉を撒く者。門の内側に鎖を追加する者。 「……すごいな」 隣にいた壮年の修道士が、淡々と答える。 「ここは何度も消されかけてきましたので」 「慣れたくない経験だな」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato.",
+  "responseTexts": []
+}

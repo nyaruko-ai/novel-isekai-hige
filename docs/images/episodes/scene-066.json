@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-066",
+  "title": "第六十五話　水底へ続く口",
+  "chapterTitle": "第十三章　沈都包囲戦と、半面の仮面編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:42:47.255Z",
+  "output": "docs/images/episodes/scene-066.webp",
+  "rawOutput": "docs/images/episodes/scene-066.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十三章　沈都包囲戦と、半面の仮面編. Episode title: 第六十五話　水底へ続く口. Episode summary: 右の守護個体は強かった。長槍の間合いが異様に広く、しかも水面を滑るように動く。サトーがヒゲで距離を詰めようとすると、水の膜のような障壁で軌道… Beat excerpt: 右の守護個体は強かった。 長槍の間合いが異様に広く、しかも水面を滑るように動く。サトーがヒゲで距離を詰めようとすると、水の膜のような障壁で軌道を逸らされる。 「くそっ、相性悪いな！」 ニャル子が横から入る。 「鈴で揺らしますにゃ！」 ちりん！ Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

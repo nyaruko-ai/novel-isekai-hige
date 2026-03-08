@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-022",
+  "title": "第二十二話　しろたまの導き",
+  "chapterTitle": "第五章　古道の地下遺構と、空から来る追跡者編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:50:18.644Z",
+  "output": "docs/images/episodes/scene-022.webp",
+  "rawOutput": "docs/images/episodes/scene-022.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第五章　古道の地下遺構と、空から来る追跡者編. Episode title: 第二十二話　しろたまの導き. Episode summary: 機兵は動きそのものは鈍重だった。だが一撃が重い。しかも、青白い光を帯びるたびに次の動作が変わる。知らずに戦えば、初見殺しの連続だ。だがこちら… Beat excerpt: 機兵は動きそのものは鈍重だった。だが一撃が重い。しかも、青白い光を帯びるたびに次の動作が変わる。知らずに戦えば、初見殺しの連続だ。 だがこちらには、しろたまがいる。 「もふ！」 ――した、あぶない。――まえ、だめ。――うしろ、あいてる。 サトーの頭へ感覚が流れ込む。もはや断片ではなく、戦闘の中で“地図”のようなものが浮かぶ感覚だった。 「……すごいな、お前」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

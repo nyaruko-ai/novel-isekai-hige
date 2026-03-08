@@ -1,0 +1,27 @@
+{
+  "episodeId": "scene-075",
+  "title": "第七十四話　レギウスの本音",
+  "chapterTitle": "第十五章　第二鍵の涙と、三勢力激突編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T15:09:26.696Z",
+  "output": "docs/images/episodes/scene-075.webp",
+  "rawOutput": "docs/images/episodes/scene-075.raw.png",
+  "referenceImages": [
+    "docs/images/characters/legius.png",
+    "docs/images/characters/sato.png",
+    "docs/images/characters/izel.png",
+    "docs/images/characters/nyaruko.png"
+  ],
+  "referenceCharacterIds": [
+    "legius",
+    "sato",
+    "izel",
+    "nyaruko"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+    "Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十五章　第二鍵の涙と、三勢力激突編. Episode title: 第七十四話　レギウスの本音. Episode summary: 戦闘が始まる直前だった。レギウスが、ふいに低く言った。 Beat excerpt: 戦闘が始まる直前だった。 レギウスが、ふいに低く言った。 「サトー」 「なんだ」 「ひとつだけ、本音を言う」 「今かよ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of legius, sato, izel, nyaruko. The composition must clearly show legius in frame as identifiable midground or foreground subjects. Do not omit them, turn them into tiny background figures, or replace them with unrelated designs. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark. Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise.",
+  "responseTexts": []
+}

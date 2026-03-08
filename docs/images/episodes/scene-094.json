@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-094",
+  "title": "第九十二話　最後の旅の朝",
+  "chapterTitle": "第十九章　沈黙路と、王都地下潜入編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:57:31.738Z",
+  "output": "docs/images/episodes/scene-094.webp",
+  "rawOutput": "docs/images/episodes/scene-094.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十九章　沈黙路と、王都地下潜入編. Episode title: 第九十二話　最後の旅の朝. Episode summary: 灰鐘院の朝は冷たかった。鐘は鳴らない。修道士たちも、見送りの言葉を大きくは口にしない。ただ、誰もが今日が普通の出立ではないと知っている顔をし… Beat excerpt: 灰鐘院の朝は冷たかった。 鐘は鳴らない。修道士たちも、見送りの言葉を大きくは口にしない。ただ、誰もが今日が普通の出立ではないと知っている顔をしていた。 中庭には、必要最低限の装備だけが並べられていた。 サトーの背には第三鍵《天穿の杖槍》。ニャル子の胸には第二鍵《水哭の涙》と導鈴。しろたまは小さな革ポーチを首から下げている。セレスティアは短杖と記録具。レギウスは半面の仮面をつけ直し、黒い短杖といくつかの紫の楔を腰へ。イゼルは王都へ戻るのではなく、あくまで“ここから先も見る”側として軽装備に替えていた。 サトーがその姿を見て言う。 「……ほんとに来るのか」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

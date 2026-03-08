@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-055",
+  "title": "第五十五話　髭と鈴のあいだ",
+  "chapterTitle": "第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:47:39.084Z",
+  "output": "docs/images/episodes/scene-055.webp",
+  "rawOutput": "docs/images/episodes/scene-055.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編. Episode title: 第五十五話　髭と鈴のあいだ. Episode summary: 地下鐘堂では、裂け目がさらに広がっていた。ニャル子の鈴で止めたはずの“監査者”が、今度は鐘堂そのものを逆用しようとしている。灰鐘の響きに、自… Beat excerpt: 地下鐘堂では、裂け目がさらに広がっていた。 ニャル子の鈴で止めたはずの“監査者”が、今度は鐘堂そのものを逆用しようとしている。灰鐘の響きに、自分の無音の命令を重ねてきているのだ。 マグダレナが歯を食いしばる。 「まずいね……！　鐘を“奪う”気だよ！」 セレスティアが魔法陣を展開する。 「拘束式を重ねます！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-035",
+  "title": "第三十五話　選ぶのは自分たちだ",
+  "chapterTitle": "第七章　青の記録――世界の構造と、王都が隠していること編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:45:28.857Z",
+  "output": "docs/images/episodes/scene-035.webp",
+  "rawOutput": "docs/images/episodes/scene-035.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第七章　青の記録――世界の構造と、王都が隠していること編. Episode title: 第三十五話　選ぶのは自分たちだ. Episode summary: 誰もしばらく口を開かなかった。白の記録は過去だった。そこには先代の影があった。だが青の記録は、もっと直接的だった。 Beat excerpt: 誰もしばらく口を開かなかった。 白の記録は過去だった。そこには先代の影があった。だが青の記録は、もっと直接的だった。 世界はひとつではない。門は封印ではなく選別装置でもある。三つの鍵があり、継承列がいる。王都は何かを知っているが全部は明かしていない。追跡者は暴走した管理群で、鍵を狙っている。そして第三鍵はすでにどこかへ動いている。 情報が多すぎる。 最初に口を開いたのはサトーだった。 「……整理しよう」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

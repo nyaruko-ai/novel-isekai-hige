@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-073",
+  "title": "第七十二話　第二鍵の涙",
+  "chapterTitle": "第十五章　第二鍵の涙と、三勢力激突編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:47:32.321Z",
+  "output": "docs/images/episodes/scene-073.webp",
+  "rawOutput": "docs/images/episodes/scene-073.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十五章　第二鍵の涙と、三勢力激突編. Episode title: 第七十二話　第二鍵の涙. Episode summary: 門の向こうは、広い部屋ではなかった。それは、ひとつの水の間だった。 Beat excerpt: 門の向こうは、広い部屋ではなかった。 それは、ひとつの水の間だった。 天井も壁も床も、青白い透光石でできている。部屋の中央には、ごく浅い水盤。その上に、たったひとつだけ、雫のような結晶が浮かんでいた。 拳ほどの大きさ。透明に近い青。だがその中には、ひどく深い色が沈んでいる。見ているだけで、胸の奥が静かに締めつけられるような感覚があった。 「……これが、第二鍵」 セレスティアがほとんど囁くように言う。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

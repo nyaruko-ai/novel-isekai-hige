@@ -1,0 +1,18 @@
+{
+  "episodeId": "scene-001",
+  "title": "第一話　目覚めたら、ヒゲが最強だった",
+  "chapterTitle": "第一章　はじまり",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:26:16.114Z",
+  "output": "docs/images/episodes/scene-001.webp",
+  "rawOutput": "docs/images/episodes/scene-001.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png"
+  ],
+  "referenceCharacterIds": [
+    "sato"
+  ],
+  "continuityNotes": [],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第一章　はじまり. Episode title: 第一話　目覚めたら、ヒゲが最強だった. Episode summary: サトーが目を覚ましたとき、最初に思ったのは、「……ここ、どこだ？」 Beat excerpt: サトーが目を覚ましたとき、最初に思ったのは、 「……ここ、どこだ？」 だった。 天井は木造だった。見たことのない梁が走り、薄い琥珀色の光が窓から差し込んでいる。身体を起こすと、ふかふかのベッドが軋んだ。病院でもホテルでもない。もっと素朴で、温かみのある部屋だ。 そして次に思ったのは、 「なんか、めちゃくちゃヒゲの調子がいいな……」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato.",
+  "responseTexts": []
+}

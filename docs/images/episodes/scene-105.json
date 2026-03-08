@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-105",
+  "title": "第百三話　責任の置き場",
+  "chapterTitle": "第二十一章　最終確認者と、最後の問い編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:45:10.363Z",
+  "output": "docs/images/episodes/scene-105.webp",
+  "rawOutput": "docs/images/episodes/scene-105.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二十一章　最終確認者と、最後の問い編. Episode title: 第百三話　責任の置き場. Episode summary: その問いに、今度はすぐに答えが出なかった。空気が張る。 Beat excerpt: その問いに、今度はすぐに答えが出なかった。 空気が張る。 サトーは、直感でこれが一番難しい問いだと思った。 仕組みを変える。継承列を“勝手に選ばれて壊れる役目”から変える。それはいい。 だが、変えたあと、誰が責任を持つのか。 王都か。灰鐘院か。第三勢力か。あるいは、新しい継承列か。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-081",
+  "title": "第八十話　終わりの前の帰還",
+  "chapterTitle": "第十六章　帰還か、最終門か――継承列の選択編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:40:14.227Z",
+  "output": "docs/images/episodes/scene-081.webp",
+  "rawOutput": "docs/images/episodes/scene-081.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十六章　帰還か、最終門か――継承列の選択編. Episode title: 第八十話　終わりの前の帰還. Episode summary: 転位は、ラグナ・ベルへ来たときより静かだった。まるで水の中を長く潜ってから、ようやく水面へ顔を出すときみたいな感覚。息が詰まり、次に世界がほ… Beat excerpt: 転位は、ラグナ・ベルへ来たときより静かだった。 まるで水の中を長く潜ってから、ようやく水面へ顔を出すときみたいな感覚。息が詰まり、次に世界がほどける。 気づけば、灰鐘院の地下鐘堂だった。 巨大な灰鐘。見慣れた灰色の石。そして、ずっと“帰ってきた”とわかる空気。 ニャル子がほっと息を漏らす。 「……戻ってきたですにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

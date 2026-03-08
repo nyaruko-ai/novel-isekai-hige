@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-023",
+  "title": "第二十三話　地下へ続く古道",
+  "chapterTitle": "第五章　古道の地下遺構と、空から来る追跡者編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:51:03.519Z",
+  "output": "docs/images/episodes/scene-023.webp",
+  "rawOutput": "docs/images/episodes/scene-023.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第五章　古道の地下遺構と、空から来る追跡者編. Episode title: 第二十三話　地下へ続く古道. Episode summary: 戦闘が終わると、機兵の半身は完全停止はしなかった。むしろゆっくりと膝をつき、まるで道を譲るように片側へ退いた。その足元で、地面の紋様が再び光… Beat excerpt: 戦闘が終わると、機兵の半身は完全停止はしなかった。むしろゆっくりと膝をつき、まるで道を譲るように片側へ退いた。 その足元で、地面の紋様が再び光り始める。 「また何か出るのか！？」 護衛たちが身構える。だが今度は攻撃ではなかった。 ごごごご、と低い音とともに石畳が左右へ開き、地下へ続く階段が現れたのだ。 「……うわぁ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

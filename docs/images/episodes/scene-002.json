@@ -1,0 +1,22 @@
+{
+  "episodeId": "scene-002",
+  "title": "第二話　猫耳メイドニャル子、仕える",
+  "chapterTitle": "第一章　はじまり",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:33:00.849Z",
+  "output": "docs/images/episodes/scene-002.webp",
+  "rawOutput": "docs/images/episodes/scene-002.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第一章　はじまり. Episode title: 第二話　猫耳メイドニャル子、仕える. Episode summary: 少女は自らをニャル子と名乗った。「わたし、ニャル子ですにゃ！　猫耳族の見習いメイド兼、専属案内人兼、生活サポート兼、ご主人様観察係ですにゃ！… Beat excerpt: 少女は自らをニャル子と名乗った。 「わたし、ニャル子ですにゃ！　猫耳族の見習いメイド兼、専属案内人兼、生活サポート兼、ご主人様観察係ですにゃ！」 「最後の役職ちょっと嫌だな」 「ご安心くださいにゃ。観察は愛ですにゃ」 「不安が増したんだが」 ニャル子の話によれば、サトーは森の外れにある古い祠の前で倒れていたらしい。空から落ちてきたわけでも、光の柱とともに現れたわけでもなく、気づいたらそこにいたという。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

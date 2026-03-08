@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-104",
+  "title": "第百二話　残すか、終わらせるか",
+  "chapterTitle": "第二十一章　最終確認者と、最後の問い編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:44:23.707Z",
+  "output": "docs/images/episodes/scene-104.webp",
+  "rawOutput": "docs/images/episodes/scene-104.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二十一章　最終確認者と、最後の問い編. Episode title: 第百二話　残すか、終わらせるか. Episode summary: 最終確認者の前に、三つの光景が浮かび上がった。ひとつ目。門も鍵も座標も、すべてが静かに閉じられていく世界。遺構は眠り、追跡者は動力を失い、継… Beat excerpt: 最終確認者の前に、三つの光景が浮かび上がった。 ひとつ目。門も鍵も座標も、すべてが静かに閉じられていく世界。遺構は眠り、追跡者は動力を失い、継承列という仕組みそのものが消えていく。代わりに、多くの接続は固定されたまま二度と開き直されない。 ふたつ目。門は残る。鍵も残る。だが継承列は、“選ばれる役目”ではなく、意志ある複数者による管理体系へ変わる。国家ではなく、一つの家系でもなく、外から決められない新しい枠組み。 みっつ目。今までの延長。継承列は続き、鍵は受け継がれ、門は時代ごとに再び問われる。もっとも見慣れた形。だが、また誰かが選ばれる可能性も残る。 ニャル子が顔をしかめる。 「……三択ですにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-082",
+  "title": "幕間　帰る場所の夕食",
+  "chapterTitle": "第十六章　帰還か、最終門か――継承列の選択編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:40:52.310Z",
+  "output": "docs/images/episodes/scene-082.webp",
+  "rawOutput": "docs/images/episodes/scene-082.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十六章　帰還か、最終門か――継承列の選択編. Episode title: 幕間　帰る場所の夕食. Episode summary: 一時帰還点に設定された小部屋は、驚くほど質素だった。石の壁。低い机。寝台が三つ。それだけだ。 Beat excerpt: 一時帰還点に設定された小部屋は、驚くほど質素だった。 石の壁。低い机。寝台が三つ。それだけだ。 だがサトーは、部屋へ入った瞬間に少しだけ安心した。戦うための場所ではなく、戻るための場所だと、ひと目でわかったからだ。 「……狭いけど、悪くないな」 「ご主人様、それ前の家を決めたときも言ってましたにゃ」 「俺の基準、わかりやすいだろ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

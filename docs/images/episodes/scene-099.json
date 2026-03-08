@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-099",
+  "title": "第九十七話　拾い屋たちの正体",
+  "chapterTitle": "第二十章　地下水路の拾い屋たちと、中央座標の番兵編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:40:22.375Z",
+  "output": "docs/images/episodes/scene-099.webp",
+  "rawOutput": "docs/images/episodes/scene-099.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二十章　地下水路の拾い屋たちと、中央座標の番兵編. Episode title: 第九十七話　拾い屋たちの正体. Episode summary: 旧排水路の薄暗い水気の中、三人の灰色外套が道を塞いでいた。目元を覆う布。短剣。細い銃のような道具。そして腕の三日月と裂け目の紋。 Beat excerpt: 旧排水路の薄暗い水気の中、三人の灰色外套が道を塞いでいた。 目元を覆う布。短剣。細い銃のような道具。そして腕の三日月と裂け目の紋。 サトーは第三鍵に手をかけたまま、相手を見据える。 「拾い屋って言ったな」 先頭の女は、片手を軽く上げた。年は三十前後に見える。灰色の布の下から覗く口元には、どこか軽薄そうな笑みがある。 「そう。遺構の残骸、壊れた追跡者、封印具の欠片、昔の記録片。売れるものなら拾うし、使えるなら使う。そんな人たちさ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

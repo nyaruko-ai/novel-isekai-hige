@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-064",
+  "title": "第六十三話　包囲戦、開始",
+  "chapterTitle": "第十三章　沈都包囲戦と、半面の仮面編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:41:19.973Z",
+  "output": "docs/images/episodes/scene-064.webp",
+  "rawOutput": "docs/images/episodes/scene-064.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十三章　沈都包囲戦と、半面の仮面編. Episode title: 第六十三話　包囲戦、開始. Episode summary: 沈黙を破ったのは、水底機兵のひとつだった。そいつの胸部に、赤い線が走る。 Beat excerpt: 沈黙を破ったのは、水底機兵のひとつだった。 そいつの胸部に、赤い線が走る。 《外部干渉増加》《第二鍵周辺、防衛行動を開始》 次の瞬間、水柱がもう一本、沈都の別の区画で立ち上がる。 さらに二本、三本。 「……まずいです！」とセレスティア。「門の周辺防衛機構が起動し始めています！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

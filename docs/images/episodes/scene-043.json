@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-043",
+  "title": "第四十三話　王都へ行けないなら、王都の外へ",
+  "chapterTitle": "第九章　灰鐘の修道院と、鈴の系譜編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:38:42.921Z",
+  "output": "docs/images/episodes/scene-043.webp",
+  "rawOutput": "docs/images/episodes/scene-043.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第九章　灰鐘の修道院と、鈴の系譜編. Episode title: 第四十三話　王都へ行けないなら、王都の外へ. Episode summary: 月下の山道での戦いのあと、一行はそのまま同じ場所に留まることはできなかった。第零封印班の残存部隊は、壊れた馬車と負傷者の回収を優先し、サトー… Beat excerpt: 月下の山道での戦いのあと、一行はそのまま同じ場所に留まることはできなかった。 第零封印班の残存部隊は、壊れた馬車と負傷者の回収を優先し、サトーたちと一定の距離を保ちながら別行動に移った。完全に敵対しているわけではない。だが、味方とも言い切れない。 王都の緊急封鎖信号は、あまりにもはっきり見えていた。 「つまり今、王都に近づくと面倒なんだな」 夜明け前、崖下の小さな窪地で短い休息を取りながら、サトーがそう言うと、セレスティアは頷いた。 「面倒、で済めばいいのですが」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

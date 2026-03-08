@@ -1,0 +1,19 @@
+{
+  "characterId": "village-chief",
+  "name": "村長",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T12:46:30.394Z",
+  "output": "docs/images/characters/village-chief.png",
+  "rawOutput": "docs/images/characters/village-chief.raw.png",
+  "referenceImage": null,
+  "fixedSize": {
+    "width": 1080,
+    "height": 2304
+  },
+  "prompt": "Photorealistic fantasy novel insert art, cinematic natural light, realistic skin texture, high detail fabric, high detail hair, believable proportions, clean background separation, vertical full-body or 3/4 portrait, centered composition with headroom and footroom, premium live-action look.\nCreate a photorealistic portrait of the village chief, a small elderly man with a full white beard, weathered hands, a country hat, and a wooden cane. He should look sincere, anxious, and warm-hearted, like a rural leader trying his best to protect a tiny frontier village. Outfit: simple fantasy village elder clothing in muted browns and off-whites. Background: village square in morning light.\nCenter the subject and leave generous margin on both left and right sides for a later narrow crop.\nKeep the whole character visible within frame when possible, especially head, key costume details, hands, silhouette, and signature accessories.\nFinal delivery will be cropped to 1080x2304, so compose safely.\nNegative prompt: anime, manga, cel shading, chibi, cartoon, deformed anatomy, extra limbs, extra fingers, low detail face, flat lighting, text, logo, watermark, frame, collage, duplicated ears, duplicated tail, blurry eyes, comic caricature, royal noble costume, exaggerated dwarf fantasy styling",
+  "sourceRefs": [
+    "hige-mahou-story.md:324",
+    "hige-mahou-story.md:609"
+  ],
+  "responseTexts": []
+}

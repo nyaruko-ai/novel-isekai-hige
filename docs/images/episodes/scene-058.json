@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-058",
+  "title": "第五十七話　灰鐘の朝、最後の鍵へ",
+  "chapterTitle": "第十二章　沈都ラグナ・ベルと、水底の門編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:49:55.983Z",
+  "output": "docs/images/episodes/scene-058.webp",
+  "rawOutput": "docs/images/episodes/scene-058.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十二章　沈都ラグナ・ベルと、水底の門編. Episode title: 第五十七話　灰鐘の朝、最後の鍵へ. Episode summary: 灰鐘院の夜が明けた。鐘楼の上に淡い朝日が差し、煤けた石壁が鈍く光る。追跡者は退き、王都の偵察騎も一時的に姿を消した。だが、平穏が戻ったわけで… Beat excerpt: 灰鐘院の夜が明けた。 鐘楼の上に淡い朝日が差し、煤けた石壁が鈍く光る。追跡者は退き、王都の偵察騎も一時的に姿を消した。だが、平穏が戻ったわけではない。 むしろ修道院全体が、次に何が来るかを知っている場所みたいな静けさに包まれていた。 中庭では負傷者の手当てが進み、修道士たちが損傷した壁や門を点検している。サトーは井戸のそばに立ち、顔を洗ってから深く息を吐いた。 「……寝た気がしない」 「それはそうですにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

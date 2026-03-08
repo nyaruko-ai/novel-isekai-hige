@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-110",
+  "title": "第百八話　先代たちへの返事",
+  "chapterTitle": "最終章　中央座標と、サトーたちが選ぶ終わり編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:49:06.315Z",
+  "output": "docs/images/episodes/scene-110.webp",
+  "rawOutput": "docs/images/episodes/scene-110.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/joan-bellcraft.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "joan-bellcraft"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 最終章　中央座標と、サトーたちが選ぶ終わり編. Episode title: 第百八話　先代たちへの返事. Episode summary: 再設計が進む中で、中央座標の光の中に、いくつもの人影が浮かび上がった。白の記録で見た七代前のジョアン。灰鐘院の記録にいた導き手たち。三年前の… Beat excerpt: 再設計が進む中で、中央座標の光の中に、いくつもの人影が浮かび上がった。 白の記録で見た七代前のジョアン。灰鐘院の記録にいた導き手たち。三年前の先代らしき影。壊れた感応獣。名を持たず、役目だけを残した者たち。 幻ではない。記録でもある。でも、ただの映像とも少し違う。 サトーは、その中のひとつ――三年前の先代応答者らしき影を見た。 その影は、疲れていた。でも、どこかほっとしたようにも見えた。 サトーは、思わず口に出した。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, joan-bellcraft. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

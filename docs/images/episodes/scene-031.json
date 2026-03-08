@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-031",
+  "title": "第三十一話　青を選ぶ",
+  "chapterTitle": "第七章　青の記録――世界の構造と、王都が隠していること編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:42:51.488Z",
+  "output": "docs/images/episodes/scene-031.webp",
+  "rawOutput": "docs/images/episodes/scene-031.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第七章　青の記録――世界の構造と、王都が隠していること編. Episode title: 第三十一話　青を選ぶ. Episode summary: 記録庫の静寂の中で、青い結晶が淡く脈打っていた。白の記録を見たあとだからこそ、その光は妙に冷たく感じる。過去ではなく、構造。人の想いや物語で… Beat excerpt: 記録庫の静寂の中で、青い結晶が淡く脈打っていた。 白の記録を見たあとだからこそ、その光は妙に冷たく感じる。過去ではなく、構造。人の想いや物語ではなく、世界の仕組みそのものに触れる――そんな気配があった。 サトーは青い結晶を見つめたまま言った。 「……白で先代の話を見た。なら次は“何が起きてるのか”を知るほうが先だな」 セレスティアが小さく頷く。 「妥当です。金が“起動”なら、構造を知らずに触るのは危険すぎます」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

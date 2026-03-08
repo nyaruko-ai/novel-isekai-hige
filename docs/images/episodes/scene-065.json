@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-065",
+  "title": "第六十四話　半面の仮面の横顔",
+  "chapterTitle": "第十三章　沈都包囲戦と、半面の仮面編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:42:11.018Z",
+  "output": "docs/images/episodes/scene-065.webp",
+  "rawOutput": "docs/images/episodes/scene-065.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十三章　沈都包囲戦と、半面の仮面編. Episode title: 第六十四話　半面の仮面の横顔. Episode summary: 舟を捨て、一行は半ば沈んだ石橋へ飛び移った。石橋は広いが、ところどころ崩れている。下は深い水。しかも時折、その水面の下を巨大な影が横切る。 Beat excerpt: 舟を捨て、一行は半ば沈んだ石橋へ飛び移った。 石橋は広いが、ところどころ崩れている。下は深い水。しかも時折、その水面の下を巨大な影が横切る。 「落ちたくないですにゃ……！」 「同感だ！」 サトーを先頭に、ニャル子、しろたま、セレスティア。そして少し遅れて、レギウスとその配下らしき二人が別の橋筋から並走する。 「なんで並走までしてくるんだよ！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

@@ -1,0 +1,21 @@
+{
+  "characterId": "final-confirmer",
+  "name": "最終確認者",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T12:48:31.928Z",
+  "output": "docs/images/characters/final-confirmer.png",
+  "rawOutput": "docs/images/characters/final-confirmer.raw.png",
+  "referenceImage": null,
+  "fixedSize": {
+    "width": 1080,
+    "height": 2304
+  },
+  "prompt": "Photorealistic fantasy novel insert art, cinematic natural light, realistic skin texture, high detail fabric, high detail hair, believable proportions, clean background separation, vertical full-body or 3/4 portrait, centered composition with headroom and footroom, premium live-action look.\nCreate a photorealistic mysterious portrait of the Final Confirmer, an androgynous ancient figure in long layered robes. The face is not fully visible, but the silhouette feels faintly familiar to Sato. The presence should seem older than any individual person, as if a role or system has taken human form. Keep the face partly veiled by light, shadow, or angle. Mood: solemn, quiet, exhausted, impartial, timeless. Background: blue-lit circular chamber before the final gate.\nCenter the subject and leave generous margin on both left and right sides for a later narrow crop.\nKeep the whole character visible within frame when possible, especially head, key costume details, hands, silhouette, and signature accessories.\nFinal delivery will be cropped to 1080x2304, so compose safely.\nNegative prompt: anime, manga, cel shading, chibi, cartoon, deformed anatomy, extra limbs, extra fingers, low detail face, flat lighting, text, logo, watermark, frame, collage, duplicated ears, duplicated tail, blurry eyes, grim reaper, monster face, heavy horror, bright superhero aura",
+  "sourceRefs": [
+    "hige-mahou-story.md:13660",
+    "hige-mahou-story.md:13661",
+    "hige-mahou-story.md:13670",
+    "hige-mahou-story.md:13681"
+  ],
+  "responseTexts": []
+}

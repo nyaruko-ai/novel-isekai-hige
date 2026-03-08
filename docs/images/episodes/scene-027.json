@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-027",
+  "title": "第二十七話　まだ名前のない場所",
+  "chapterTitle": "第五章　古道の地下遺構と、空から来る追跡者編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:40:08.794Z",
+  "output": "docs/images/episodes/scene-027.webp",
+  "rawOutput": "docs/images/episodes/scene-027.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第五章　古道の地下遺構と、空から来る追跡者編. Episode title: 第二十七話　まだ名前のない場所. Episode summary: 隠し位相路を抜けた先は、静寂だった。さっきまでの金属音も追跡の気配もない。そこは小さな円形の広間だった。中央には浅い水盤のようなものがあり、… Beat excerpt: 隠し位相路を抜けた先は、静寂だった。 さっきまでの金属音も追跡の気配もない。そこは小さな円形の広間だった。中央には浅い水盤のようなものがあり、天井のない空間から淡い光が降っている。 だが、そこは地下でも屋内でもなかった。 空がある。 しかも、見たことのない空だった。 薄紫の光の帯が幾重にも流れ、遠くには巨大な輪のような構造物が浮かんで見える。足元の地面は白い石で、風はあるのに空気はひどく静かだ。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

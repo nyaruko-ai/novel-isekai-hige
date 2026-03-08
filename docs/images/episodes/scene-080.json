@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-080",
+  "title": "第七十九話　帰る場所を作る",
+  "chapterTitle": "第十六章　帰還か、最終門か――継承列の選択編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:39:23.792Z",
+  "output": "docs/images/episodes/scene-080.webp",
+  "rawOutput": "docs/images/episodes/scene-080.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十六章　帰還か、最終門か――継承列の選択編. Episode title: 第七十九話　帰る場所を作る. Episode summary: 水底の間の文字が、またゆっくり変わった。《継承列による保留判断を確認》《最終門権限は維持されます》《ただし、座標安定のため一時帰還点の設定を… Beat excerpt: 水底の間の文字が、またゆっくり変わった。 《継承列による保留判断を確認》《最終門権限は維持されます》《ただし、座標安定のため一時帰還点の設定を推奨》 サトーが眉を上げる。 「一時帰還点？」 セレスティアがすぐに読み解く。 「最終門を開かないまま三鍵を保持し続けるなら、どこか一箇所を“継承列の中継点”として固定したほうがいい、ということです」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

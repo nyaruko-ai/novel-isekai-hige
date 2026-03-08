@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-030",
+  "title": "第三十話　ニャル子の鈴",
+  "chapterTitle": "第六章　第七座標の記録庫と、サトーに似た“先代”の影編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:42:04.380Z",
+  "output": "docs/images/episodes/scene-030.webp",
+  "rawOutput": "docs/images/episodes/scene-030.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第六章　第七座標の記録庫と、サトーに似た“先代”の影編. Episode title: 第三十話　ニャル子の鈴. Episode summary: 「ニャル子！」サトーはすぐに肩を支えた。 Beat excerpt: 「ニャル子！」 サトーはすぐに肩を支えた。 ニャル子は座り込んでいたが、しばらくして小さく息を整える。 「……ごめんなさいにゃ。ちょっと、頭の奥が鳴ったみたいになって……」 セレスティアも膝をついて顔を覗き込む。 「記録との共鳴です。おそらく、あなたの鈴か、あなた自身の系統に反応しています」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

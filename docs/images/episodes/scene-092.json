@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-092",
+  "title": "第九十話　最終門へ向かう道",
+  "chapterTitle": "第十八章　王都地下、中央座標前夜編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:55:44.397Z",
+  "output": "docs/images/episodes/scene-092.webp",
+  "rawOutput": "docs/images/episodes/scene-092.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十八章　王都地下、中央座標前夜編. Episode title: 第九十話　最終門へ向かう道. Episode summary: 翌朝、灰鐘院の中庭に新しい地図が広げられた。王都地下の中央座標へ向かう道は、一つではなかった。 Beat excerpt: 翌朝、灰鐘院の中庭に新しい地図が広げられた。 王都地下の中央座標へ向かう道は、一つではなかった。 イゼルが王都側の記録を指で示す。 「正規ルートは王城地下から。でもそこは、今の継承列が正面から通るには危険すぎる」 「だろうな」とサトー。 セレスティアが別の線を指す。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

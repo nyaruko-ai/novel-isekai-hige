@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" role="img" aria-labelledby="scene-107-title scene-107-desc">
+  <title id="scene-107-title">第百五話　門の向こうの光</title>
+  <desc id="scene-107-desc">第二十一章　最終確認者と、最後の問い編の第百五話　門の向こうの光をイメージしたビジュアルカード</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dbe7f4" />
+      <stop offset="100%" stop-color="#37506a" />
+    </linearGradient>
+    <linearGradient id="veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.32" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="url(#bg)" />
+  <rect width="1200" height="1800" fill="url(#veil)" />
+  
+        <circle cx="880" cy="330" r="210" fill="#eef6ff" opacity="0.2" />
+        <circle cx="320" cy="1220" r="240" fill="#ebf5ff" opacity="0.08" />
+        <path d="M130 1490 C250 1160 560 940 890 980" stroke="#ebf5ff" stroke-width="28" stroke-linecap="round" opacity="0.2" fill="none" />
+        <path d="M210 1580 C390 1320 640 1180 980 1220" stroke="#eef6ff" stroke-width="18" stroke-linecap="round" opacity="0.16" fill="none" />
+      
+  <g opacity="0.08">
+    <circle cx="120" cy="120" r="2" fill="#ffffff" />
+    <circle cx="240" cy="210" r="1.8" fill="#ffffff" />
+    <circle cx="340" cy="180" r="1.6" fill="#ffffff" />
+    <circle cx="960" cy="170" r="2" fill="#ffffff" />
+    <circle cx="1030" cy="230" r="1.8" fill="#ffffff" />
+    <circle cx="870" cy="260" r="1.5" fill="#ffffff" />
+  </g>
+  <text x="88" y="1290" font-size="28" font-weight="700" letter-spacing="8" fill="#ebf5ff" opacity="0.92" font-family="'Avenir Next', 'Hiragino Sans', sans-serif">第21章</text>
+  <text x="88" y="1348" font-size="42" font-weight="500" letter-spacing="2" fill="#ebf5ff" opacity="0.88" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第二十一章　最終確認者と、最後の</tspan><tspan x="88" dy="44">問い編</tspan></text>
+  <text x="88" y="1496" font-size="74" font-weight="700" letter-spacing="2" fill="#ffffff" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第百五話　門の向こうの光</tspan></text>
+  <rect x="88" y="1600" width="280" height="2" fill="#ebf5ff" opacity="0.85" />
+</svg>

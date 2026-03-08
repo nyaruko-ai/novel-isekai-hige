@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-045",
+  "title": "第四十五話　灰鐘の門",
+  "chapterTitle": "第九章　灰鐘の修道院と、鈴の系譜編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:40:04.108Z",
+  "output": "docs/images/episodes/scene-045.webp",
+  "rawOutput": "docs/images/episodes/scene-045.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第九章　灰鐘の修道院と、鈴の系譜編. Episode title: 第四十五話　灰鐘の門. Episode summary: 修道院は、思った以上に古かった。近づくほどに、その異様さがわかる。ただ古びているだけではない。何度も壊れ、何度も継ぎ足され、意地で立ち続けて… Beat excerpt: 修道院は、思った以上に古かった。 近づくほどに、その異様さがわかる。ただ古びているだけではない。何度も壊れ、何度も継ぎ足され、意地で立ち続けてきた建物のようだった。 外壁は灰色の石。ところどころ黒く煤け、蔦に覆われている。だが窓にはまだ灯りがあった。 「……廃絶した施設には見えないですにゃ」 「はい」とセレスティア。「少なくとも、“完全な廃墟”ではありません」 正門は閉じていた。分厚い木と鉄でできた扉。その中央には、鐘をかたどった古い紋章が刻まれている。紋章の下には、鈴にも似た小さな印。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

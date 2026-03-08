@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-059",
+  "title": "第五十八話　王都の影、灰鐘の裏門",
+  "chapterTitle": "第十二章　沈都ラグナ・ベルと、水底の門編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:50:35.404Z",
+  "output": "docs/images/episodes/scene-059.webp",
+  "rawOutput": "docs/images/episodes/scene-059.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十二章　沈都ラグナ・ベルと、水底の門編. Episode title: 第五十八話　王都の影、灰鐘の裏門. Episode summary: 出立は正門からではなかった。灰鐘院の正面は、すでに王都側から見張られている可能性が高い。追跡者も空から再接近してくるかもしれない。だから使う… Beat excerpt: 出立は正門からではなかった。 灰鐘院の正面は、すでに王都側から見張られている可能性が高い。追跡者も空から再接近してくるかもしれない。だから使うのは、修道院のさらに裏手、墓地の奥に隠された古い水路門だった。 「……こういうの、ほんと好きだよな」 サトーがぼやくと、マグダレナは真顔で言った。 「好きで作ったんじゃない。必要で残ったんだよ」 「ですよにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

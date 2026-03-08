@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-060",
+  "title": "第五十九話　水上の追跡者",
+  "chapterTitle": "第十二章　沈都ラグナ・ベルと、水底の門編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:51:22.231Z",
+  "output": "docs/images/episodes/scene-060.webp",
+  "rawOutput": "docs/images/episodes/scene-060.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十二章　沈都ラグナ・ベルと、水底の門編. Episode title: 第五十九話　水上の追跡者. Episode summary: 地下水路を抜け、地上へ出たのは昼前だった。崩れた運河跡。半ば湿地化した低地。水草と朽ちた石橋。遠くには白い水鳥が群れている。 Beat excerpt: 地下水路を抜け、地上へ出たのは昼前だった。 崩れた運河跡。半ば湿地化した低地。水草と朽ちた石橋。遠くには白い水鳥が群れている。 一見のどかだが、空気は重い。水の匂いが濃く、風は弱いのにさざ波だけが妙に広がっている。 「……いかにも何か出そうですにゃ」 「出るだろうな」とサトー。 セレスティアは周囲を観察していた。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

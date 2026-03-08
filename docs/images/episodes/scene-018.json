@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-018",
+  "title": "第十八話　招かれざる招待状",
+  "chapterTitle": "第四章　村長への報告と、王都からの使者編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:47:21.560Z",
+  "output": "docs/images/episodes/scene-018.webp",
+  "rawOutput": "docs/images/episodes/scene-018.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第四章　村長への報告と、王都からの使者編. Episode title: 第十八話　招かれざる招待状. Episode summary: その夜、セレスティアたちは村に一泊することになった。サトーたちも家へ戻ったが、いつもの食卓の空気ではなかった。 Beat excerpt: その夜、セレスティアたちは村に一泊することになった。 サトーたちも家へ戻ったが、いつもの食卓の空気ではなかった。 ニャル子が作ったスープはうまい。焼き魚も香ばしい。しろたまも自分用の皿を前に満足そうだ。 それなのに、皆どこか考え込んでいる。 「……王都、ですかにゃ」 ニャル子がぽつりと言った。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

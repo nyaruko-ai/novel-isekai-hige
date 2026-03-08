@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-108",
+  "title": "第百六話　中央座標",
+  "chapterTitle": "最終章　中央座標と、サトーたちが選ぶ終わり編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:47:32.605Z",
+  "output": "docs/images/episodes/scene-108.webp",
+  "rawOutput": "docs/images/episodes/scene-108.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 最終章　中央座標と、サトーたちが選ぶ終わり編. Episode title: 第百六話　中央座標. Episode summary: 最終門の光を抜けた先にあったのは、巨大な部屋ですらなかった。それは、空間そのものが座標になっている場所だった。 Beat excerpt: 最終門の光を抜けた先にあったのは、巨大な部屋ですらなかった。 それは、空間そのものが座標になっている場所だった。 上下が曖昧だった。床はある。だが見上げれば、そこにもまた床のような面が遠く重なっている。前へ進んでいる感覚はあるのに、景色は円環状に緩やかに戻ってくる。白青の光の中を、無数の線が浮かび、消え、交わり、離れていく。 サトーは思わず立ち止まった。 「……なんだここ」 ニャル子も小さく息をのむ。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}

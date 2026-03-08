@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-011",
+  "title": "第十一話　もふもふは、ただのもふもふではなかった",
+  "chapterTitle": "第三章　しろたま覚醒と、森のダンジョン攻略編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:41:42.820Z",
+  "output": "docs/images/episodes/scene-011.webp",
+  "rawOutput": "docs/images/episodes/scene-011.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第三章　しろたま覚醒と、森のダンジョン攻略編. Episode title: 第十一話　もふもふは、ただのもふもふではなかった. Episode summary: 森のダンジョンから戻ったその日の夕方。サトーたちは新居の食卓を囲んでいた。テーブルの上には、ニャル子特製のクリーム煮と焼きたてのパン、温野菜… Beat excerpt: 森のダンジョンから戻ったその日の夕方。サトーたちは新居の食卓を囲んでいた。 テーブルの上には、ニャル子特製のクリーム煮と焼きたてのパン、温野菜、それからしろたま用に小皿に分けられた刻み肉と柔らかく煮た根菜が並んでいる。 「ほら、しろたま。食べられるか？」 サトーが皿を差し出すと、しろたまはぴこっと耳を立てて近づいた。 「もふ」 まずは匂いを嗅ぐ。それから、ぱくり。もぐもぐ。数秒後、目をきらきらさせた。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

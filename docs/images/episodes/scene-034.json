@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-034",
+  "title": "第三十四話　青の記録が示す敵",
+  "chapterTitle": "第七章　青の記録――世界の構造と、王都が隠していること編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:44:52.842Z",
+  "output": "docs/images/episodes/scene-034.webp",
+  "rawOutput": "docs/images/episodes/scene-034.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第七章　青の記録――世界の構造と、王都が隠していること編. Episode title: 第三十四話　青の記録が示す敵. Episode summary: 記録は、最後の項目へ移った。それまでの説明調の投影とは違う。警告に近かった。 Beat excerpt: 記録は、最後の項目へ移った。 それまでの説明調の投影とは違う。警告に近かった。 暗い空間。そこを漂う、細長い影。仮面じみた顔。翼のような膜。 さっき位相回廊で襲ってきた、あの追跡者たちだ。 文字が浮かぶ。 《空界追跡機群》《旧文明期の管理補助群》《目的：無許可接続・継承異常・鍵移動の監視》 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

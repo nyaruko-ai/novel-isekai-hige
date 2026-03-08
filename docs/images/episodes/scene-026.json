@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-026",
+  "title": "第二十六話　開かれる第三の道",
+  "chapterTitle": "第五章　古道の地下遺構と、空から来る追跡者編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:39:29.448Z",
+  "output": "docs/images/episodes/scene-026.webp",
+  "rawOutput": "docs/images/episodes/scene-026.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第五章　古道の地下遺構と、空から来る追跡者編. Episode title: 第二十六話　開かれる第三の道. Episode summary: 戦いは拮抗していた。数では相手が上。だが、しろたまの感応と逆接続、ニャル子の機動力、サトーのヒゲ魔法、セレスティアの拘束魔法が噛み合えば押し… Beat excerpt: 戦いは拮抗していた。 数では相手が上。だが、しろたまの感応と逆接続、ニャル子の機動力、サトーのヒゲ魔法、セレスティアの拘束魔法が噛み合えば押し返せる。 しかし長引けば不利だ。 位相回廊という場所そのものが不安定なのか、時折床の光が乱れ、遠くで空間そのものが軋むような音がする。 セレスティアが叫んだ。 「ここは持久戦に向きません！　分岐のどれかに入るしかない！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

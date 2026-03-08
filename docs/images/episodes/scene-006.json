@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-006",
+  "title": "第六話　森の奥に、昨日までなかったもの",
+  "chapterTitle": "第二章　森のダンジョンと、もふもふの予感",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:36:35.707Z",
+  "output": "docs/images/episodes/scene-006.webp",
+  "rawOutput": "docs/images/episodes/scene-006.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/village-chief.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "village-chief"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二章　森のダンジョンと、もふもふの予感. Episode title: 第六話　森の奥に、昨日までなかったもの. Episode summary: ミルフィ村の朝は早い。鶏が鳴き、畑仕事に向かう村人たちの声が聞こえ、小川のせせらぎが家の窓から静かに入り込んでくる。サトーは縁側で温かい茶を… Beat excerpt: ミルフィ村の朝は早い。 鶏が鳴き、畑仕事に向かう村人たちの声が聞こえ、小川のせせらぎが家の窓から静かに入り込んでくる。サトーは縁側で温かい茶を飲みながら、裏の畑に何を植えるか考えていた。 「やっぱり、最初は育てやすいものがいいよな……豆とか、芋とか」 「ご主人様、完全に異世界農家ルートに入りかけてますにゃ」 朝食の片付けをしていたニャル子が、呆れ半分、楽しげ半分の顔で言った。 「いいだろ。平和で」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, village-chief. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-004",
+  "title": "第四話　サトー邸、爆速で完成する",
+  "chapterTitle": "第一章　はじまり",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:34:59.273Z",
+  "output": "docs/images/episodes/scene-004.webp",
+  "rawOutput": "docs/images/episodes/scene-004.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/village-chief.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "village-chief"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第一章　はじまり. Episode title: 第四話　サトー邸、爆速で完成する. Episode summary: 山賊騒ぎの翌日、サトーは村長に呼ばれた。村の広場に行くと、白ひげを蓄えた小柄な老人が、両手を擦り合わせながら待っていた。後ろにはなぜかニャル… Beat excerpt: 山賊騒ぎの翌日、サトーは村長に呼ばれた。 村の広場に行くと、白ひげを蓄えた小柄な老人が、両手を擦り合わせながら待っていた。後ろにはなぜかニャル子もいる。しかもやたら期待に満ちた顔で。 「ヒゲの勇者様、このたびは村をお救いいただき、本当にありがとうございました」 「いや、そんな大げさな……」 「つきましては！」 村長がびしっと指を立てた。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, village-chief. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

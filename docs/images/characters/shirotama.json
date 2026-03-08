@@ -1,0 +1,21 @@
+{
+  "characterId": "shirotama",
+  "name": "しろたま",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T12:54:23.269Z",
+  "output": "docs/images/characters/shirotama.png",
+  "rawOutput": "docs/images/characters/shirotama.raw.png",
+  "referenceImage": null,
+  "fixedSize": {
+    "width": 1080,
+    "height": 2304
+  },
+  "prompt": "Photorealistic fantasy novel insert art, cinematic natural light, realistic skin texture, high detail fabric, high detail hair, believable proportions, clean background separation, vertical full-body or 3/4 portrait, centered composition with headroom and footroom, premium live-action look.\nCreate a photorealistic companion portrait of Shirotama, a tiny fluffy fantasy familiar shaped like a living white ball of fur. The body must read first as a nearly perfect soft sphere, not as a normal cat body. Hide the legs and paws completely inside the fur so no feet are visible. Bury the ears deep inside the fluff so only small rounded ear hints are visible near the top, with the faintest pale-gray tint at the tips. The main readable features should be huge round black eyes, a tiny mouth area, and a small soft tail emerging from the fluff. The silhouette should feel like a fluffy pom-pom or fur orb with eyes and a tail, adorable and slightly mysterious. Keep the design extremely soft, huggable, and readable. Add a faint magical bond atmosphere, but keep it grounded and believable rather than mascot-cartoony.\nCenter the subject and leave generous margin on both left and right sides for a later narrow crop.\nKeep the whole character visible within frame when possible, especially head, key costume details, hands, silhouette, and signature accessories.\nFinal delivery will be cropped to 1080x2304, so compose safely.\nNegative prompt: anime, manga, cel shading, chibi, cartoon, deformed anatomy, extra limbs, extra fingers, low detail face, flat lighting, text, logo, watermark, frame, collage, duplicated ears, duplicated tail, blurry eyes, normal cat body, kitten proportions, visible legs, visible paws, realistic housecat posture, large pointed ears, long snout, plush toy product shot, mascot suit, giant monster rabbit, cartoon kawaii simplification",
+  "sourceRefs": [
+    "hige-mahou-story.md:1198",
+    "hige-mahou-story.md:1319",
+    "hige-mahou-story.md:14545",
+    "hige-mahou-story.md:14798"
+  ],
+  "responseTexts": []
+}

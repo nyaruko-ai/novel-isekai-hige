@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-021",
+  "title": "第二十一話　地の下から現れたもの",
+  "chapterTitle": "第五章　古道の地下遺構と、空から来る追跡者編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T13:49:29.925Z",
+  "output": "docs/images/episodes/scene-021.webp",
+  "rawOutput": "docs/images/episodes/scene-021.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第五章　古道の地下遺構と、空から来る追跡者編. Episode title: 第二十一話　地の下から現れたもの. Episode summary: 青白い紋様が、古びた道の上を走っていた。まるで地面そのものが目を覚ましたかのように、石畳の隙間から光の線が浮かび上がり、複雑な円環模様を描い… Beat excerpt: 青白い紋様が、古びた道の上を走っていた。 まるで地面そのものが目を覚ましたかのように、石畳の隙間から光の線が浮かび上がり、複雑な円環模様を描いていく。その中心で、何か巨大なものがゆっくりと地中からせり上がっていた。 土が崩れ、石が跳ね上がる。 「全員、距離を取れ！」 セレスティアの声が飛ぶ。 護衛たちが馬車を後退させ、書記官の青年が慌てて荷台の結晶箱を抱える。ニャル子はサトーの隣に跳び、短剣を抜いて低く構えた。しろたまはサトーの肩から地面へ降り、毛を逆立てて唸るように鳴く。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

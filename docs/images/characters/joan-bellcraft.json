@@ -1,0 +1,20 @@
+{
+  "characterId": "joan-bellcraft",
+  "name": "ジョアン・ベルクラフト",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T12:47:58.990Z",
+  "output": "docs/images/characters/joan-bellcraft.png",
+  "rawOutput": "docs/images/characters/joan-bellcraft.raw.png",
+  "referenceImage": null,
+  "fixedSize": {
+    "width": 1080,
+    "height": 2304
+  },
+  "prompt": "Photorealistic fantasy novel insert art, cinematic natural light, realistic skin texture, high detail fabric, high detail hair, believable proportions, clean background separation, vertical full-body or 3/4 portrait, centered composition with headroom and footroom, premium live-action look.\nCreate a photorealistic spectral portrait of Joan Bellcraft, a historical predecessor in the beard lineage. He should resemble a distant ancestor of Sato: mature male features, a dignified beard-centered design, and a weary but gentle smile. Present him as an archival record or ghostly projection, with pale desaturated light and old memory textures around him. He should feel noble, burdened, and quietly apologetic across time.\nCenter the subject and leave generous margin on both left and right sides for a later narrow crop.\nKeep the whole character visible within frame when possible, especially head, key costume details, hands, silhouette, and signature accessories.\nFinal delivery will be cropped to 1080x2304, so compose safely.\nNegative prompt: anime, manga, cel shading, chibi, cartoon, deformed anatomy, extra limbs, extra fingers, low detail face, flat lighting, text, logo, watermark, frame, collage, duplicated ears, duplicated tail, blurry eyes, transparent halloween ghost, skeleton, glowing fantasy overload, old wizard cliché hat",
+  "sourceRefs": [
+    "hige-mahou-story.md:3852",
+    "hige-mahou-story.md:3853",
+    "hige-mahou-story.md:3859"
+  ],
+  "responseTexts": []
+}

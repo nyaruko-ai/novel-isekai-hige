@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" role="img" aria-labelledby="scene-041-title scene-041-desc">
+  <title id="scene-041-title">第四十一話　まだ抜けない</title>
+  <desc id="scene-041-desc">第八章　金の記録――動き出した第三鍵と、王都へ届く前の奪還戦編の第四十一話　まだ抜けないをイメージしたビジュアルカード</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8d7a8" />
+      <stop offset="100%" stop-color="#f29158" />
+    </linearGradient>
+    <linearGradient id="veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.32" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="url(#bg)" />
+  <rect width="1200" height="1800" fill="url(#veil)" />
+  
+        <circle cx="940" cy="320" r="180" fill="#fff3d8" opacity="0.18" />
+        <path d="M0 1330 C210 1240 350 1220 540 1270 C770 1330 970 1510 1200 1470 L1200 1800 L0 1800 Z" fill="#7a422a" opacity="0.34" />
+        <path d="M0 1460 C280 1370 520 1380 760 1480 C960 1560 1090 1630 1200 1600 L1200 1800 L0 1800 Z" fill="#fff9ef" opacity="0.16" />
+      
+  <g opacity="0.08">
+    <circle cx="120" cy="120" r="2" fill="#ffffff" />
+    <circle cx="240" cy="210" r="1.8" fill="#ffffff" />
+    <circle cx="340" cy="180" r="1.6" fill="#ffffff" />
+    <circle cx="960" cy="170" r="2" fill="#ffffff" />
+    <circle cx="1030" cy="230" r="1.8" fill="#ffffff" />
+    <circle cx="870" cy="260" r="1.5" fill="#ffffff" />
+  </g>
+  <text x="88" y="1290" font-size="28" font-weight="700" letter-spacing="8" fill="#fff9ef" opacity="0.92" font-family="'Avenir Next', 'Hiragino Sans', sans-serif">第8章</text>
+  <text x="88" y="1348" font-size="42" font-weight="500" letter-spacing="2" fill="#fff9ef" opacity="0.88" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第八章　金の記録――動き出した第</tspan><tspan x="88" dy="44">三鍵と、王都へ届く前の奪還戦編</tspan></text>
+  <text x="88" y="1496" font-size="74" font-weight="700" letter-spacing="2" fill="#ffffff" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第四十一話　まだ抜けない</tspan></text>
+  <rect x="88" y="1600" width="280" height="2" fill="#fff9ef" opacity="0.85" />
+</svg>

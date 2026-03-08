@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-017",
+  "title": "第十七話　王都から来た女",
+  "chapterTitle": "第四章　村長への報告と、王都からの使者編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:46:35.954Z",
+  "output": "docs/images/episodes/scene-017.webp",
+  "rawOutput": "docs/images/episodes/scene-017.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第四章　村長への報告と、王都からの使者編. Episode title: 第十七話　王都から来た女. Episode summary: 村長が恐る恐る扉を開けると、そこに立っていたのは三人だった。先頭にいるのは、一人の女騎士。 Beat excerpt: 村長が恐る恐る扉を開けると、そこに立っていたのは三人だった。 先頭にいるのは、一人の女騎士。 年は二十代後半ほど。銀に近い灰色の長髪を後ろで束ね、濃紺の外套の下に、軽装ながら上質な鎧を身につけている。腰には細剣。背には短杖。騎士と魔術師の中間のような装いだ。目は氷のように鋭く、隙がない。 その後ろには、無口そうな大男の護衛と、眼鏡をかけた書記官らしき青年が控えていた。 女は室内をひと目見て、サトーのところで視線を止めた。 「……なるほど」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "responseTexts": []
+}

@@ -1,0 +1,129 @@
+{
+  "policy": {
+    "summary": "When a named recurring character appears in a generated scene image, use the existing character portrait image as the canonical visual reference.",
+    "rules": [
+      "Always pass the canonical character portrait as an image reference for recurring named characters in scene generation.",
+      "Do not redesign recurring characters from text alone.",
+      "Environment, pose, lighting, framing, and action may change by scene.",
+      "Core face, hair, costume silhouette, species traits, and signature accessories must remain consistent with the canonical portrait."
+    ]
+  },
+  "characters": [
+    {
+      "id": "sato",
+      "name": "サトー",
+      "referenceImage": "docs/images/characters/sato.png",
+      "invariants": [
+        "late-30s to early-40s Japanese man",
+        "slightly long dark hair",
+        "well-kept magical beard",
+        "calm rugged face",
+        "grounded, dependable impression"
+      ]
+    },
+    {
+      "id": "nyaruko",
+      "name": "ニャル子",
+      "referenceImage": "docs/images/characters/nyaruko.png",
+      "invariants": [
+        "petite silver-bob cat-eared maid",
+        "black-and-white maid outfit",
+        "large pale tail",
+        "bell at upper chest",
+        "blue teardrop mark below the bell in later scenes",
+        "warm amber eyes"
+      ]
+    },
+    {
+      "id": "celestia",
+      "name": "セレスティア・ルーンベルク",
+      "referenceImage": "docs/images/characters/celestia.png",
+      "invariants": [
+        "silver-gray tied hair",
+        "cold disciplined gaze",
+        "dark navy cloak",
+        "light knight-mage armor",
+        "rapier and short wand loadout"
+      ]
+    },
+    {
+      "id": "izel",
+      "name": "イゼル・ヴァン＝オルディア",
+      "referenceImage": "docs/images/characters/izel.png",
+      "invariants": [
+        "long black tied hair",
+        "one-eye metallic assistive device",
+        "white-silver elite command armor",
+        "severe high-ranking presence"
+      ]
+    },
+    {
+      "id": "legius",
+      "name": "レギウス",
+      "referenceImage": "docs/images/characters/legius.png",
+      "invariants": [
+        "half mask covering one side of face",
+        "old scar from eye to cheek and neck",
+        "black cloak",
+        "black short staff",
+        "violet wedge tools"
+      ]
+    },
+    {
+      "id": "magdalena",
+      "name": "マグダレナ",
+      "referenceImage": "docs/images/characters/magdalena.png",
+      "invariants": [
+        "elderly one-eyed nun",
+        "heavy gray monastic robes",
+        "worn staff",
+        "hard but compassionate impression"
+      ]
+    },
+    {
+      "id": "village-chief",
+      "name": "村長",
+      "referenceImage": "docs/images/characters/village-chief.png",
+      "invariants": [
+        "small elderly man",
+        "white beard",
+        "country hat and cane",
+        "earnest rural elder"
+      ]
+    },
+    {
+      "id": "joan-bellcraft",
+      "name": "ジョアン・ベルクラフト",
+      "referenceImage": "docs/images/characters/joan-bellcraft.png",
+      "invariants": [
+        "archival predecessor figure",
+        "beard-centered mature male design",
+        "weary gentle expression",
+        "ghostly or recorded-light presence"
+      ]
+    },
+    {
+      "id": "final-confirmer",
+      "name": "最終確認者",
+      "referenceImage": "docs/images/characters/final-confirmer.png",
+      "invariants": [
+        "androgynous long-robed figure",
+        "face obscured",
+        "ancient impartial presence",
+        "timeless blue-lit atmosphere"
+      ]
+    },
+    {
+      "id": "shirotama",
+      "name": "しろたま",
+      "referenceImage": "docs/images/characters/shirotama.png",
+      "invariants": [
+        "white fluffy fur-ball body",
+        "no visible legs or cat body silhouette",
+        "huge round black eyes",
+        "tiny tail",
+        "small fur-buried ears"
+      ]
+    }
+  ]
+}

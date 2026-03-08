@@ -1,0 +1,20 @@
+{
+  "characterId": "izel",
+  "name": "イゼル・ヴァン＝オルディア",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T12:44:44.689Z",
+  "output": "docs/images/characters/izel.png",
+  "rawOutput": "docs/images/characters/izel.raw.jpg",
+  "referenceImage": null,
+  "fixedSize": {
+    "width": 1080,
+    "height": 2304
+  },
+  "prompt": "Photorealistic fantasy novel insert art, cinematic natural light, realistic skin texture, high detail fabric, high detail hair, believable proportions, clean background separation, vertical full-body or 3/4 portrait, centered composition with headroom and footroom, premium live-action look.\nCreate a photorealistic portrait of Izel van Ordia, a mid-30s woman from the upper command of the royal special investigation bureau. She has long black hair tied back neatly, a composed severe face, and one eye fitted with a slim metallic assistive monocle-like device. Outfit: white-silver light command armor with a refined royal insignia, practical but unmistakably high rank. She should feel brilliant, politically dangerous, efficient, and hard to intimidate. Pose should be upright and controlled, with a commander’s gaze rather than a warrior’s aggression. Keep styling elegant but functional.\nCenter the subject and leave generous margin on both left and right sides for a later narrow crop.\nKeep the whole character visible within frame when possible, especially head, key costume details, hands, silhouette, and signature accessories.\nFinal delivery will be cropped to 1080x2304, so compose safely.\nNegative prompt: anime, manga, cel shading, chibi, cartoon, deformed anatomy, extra limbs, extra fingers, low detail face, flat lighting, text, logo, watermark, frame, collage, duplicated ears, duplicated tail, blurry eyes, cyberpunk neon, sci-fi exosuit, soft cute demeanor, exposed fashion armor",
+  "sourceRefs": [
+    "hige-mahou-story.md:10450",
+    "hige-mahou-story.md:10454",
+    "hige-mahou-story.md:10455"
+  ],
+  "responseTexts": []
+}

@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-084",
+  "title": "第八十二話　先代はなぜ失敗したのか",
+  "chapterTitle": "第十七章　灰鐘会議――最終門を開くか、閉ざすか編",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-07T15:10:13.638Z",
+  "output": "docs/images/episodes/scene-084.webp",
+  "rawOutput": "docs/images/episodes/scene-084.raw.png",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/izel.png",
+    "docs/images/characters/legius.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "izel",
+    "legius",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十七章　灰鐘会議――最終門を開くか、閉ざすか編. Episode title: 第八十二話　先代はなぜ失敗したのか. Episode summary: 「その前に」とサトーが言った。「約束だ。王都は情報を出す。レギウスも知ってることを話す。先代が何に失敗したのか、そこを曖昧にしたまま最終門の… Beat excerpt: 「その前に」とサトーが言った。「約束だ。王都は情報を出す。レギウスも知ってることを話す。先代が何に失敗したのか、そこを曖昧にしたまま最終門の話はしたくない」 イゼルとレギウスが、一瞬だけ互いを見た。 先に口を開いたのはイゼルだった。 「王都の正式記録では、先代継承列は“中央座標の再接続に失敗し、複数の外層位相へ異常干渉を起こした”とされている」 サトーが顔をしかめる。 「要するに？」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, izel, legius, celestia. The composition must clearly show izel and legius in frame as identifiable midground or foreground subjects. Do not omit them, turn them into tiny background figures, or replace them with unrelated designs. Continuity notes: Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise.",
+  "responseTexts": []
+}

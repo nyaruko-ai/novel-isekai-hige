@@ -1,0 +1,22 @@
+{
+  "characterId": "legius",
+  "name": "レギウス",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T12:45:17.543Z",
+  "output": "docs/images/characters/legius.png",
+  "rawOutput": "docs/images/characters/legius.raw.jpg",
+  "referenceImage": null,
+  "fixedSize": {
+    "width": 1080,
+    "height": 2304
+  },
+  "prompt": "Photorealistic fantasy novel insert art, cinematic natural light, realistic skin texture, high detail fabric, high detail hair, believable proportions, clean background separation, vertical full-body or 3/4 portrait, centered composition with headroom and footroom, premium live-action look.\nCreate a photorealistic portrait of Legius, an enigmatic male mediator from a third faction. He wears a black cloak and a half mask covering one side of the face. The visible side of his mouth shows a calm, ironic smile. Under the removed mask version, reveal old burn-like scars running from the eye area down the cheek and neck. He carries a black short staff and several elegant violet wedge-shaped tools or relic spikes. He should feel intelligent, morally ambiguous, tired, and strangely trustworthy. Lighting should emphasize the contrast between concealment and honesty.\nCenter the subject and leave generous margin on both left and right sides for a later narrow crop.\nKeep the whole character visible within frame when possible, especially head, key costume details, hands, silhouette, and signature accessories.\nFinal delivery will be cropped to 1080x2304, so compose safely.\nNegative prompt: anime, manga, cel shading, chibi, cartoon, deformed anatomy, extra limbs, extra fingers, low detail face, flat lighting, text, logo, watermark, frame, collage, duplicated ears, duplicated tail, blurry eyes, full helmet, clown mask, flamboyant villain grin, gothic vampire styling",
+  "sourceRefs": [
+    "hige-mahou-story.md:8818",
+    "hige-mahou-story.md:8819",
+    "hige-mahou-story.md:8820",
+    "hige-mahou-story.md:11756",
+    "hige-mahou-story.md:12669"
+  ],
+  "responseTexts": []
+}

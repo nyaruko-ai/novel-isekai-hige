@@ -1,0 +1,9 @@
+{
+  "id": "title-cover",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T14:11:06.726Z",
+  "output": "docs/images/title/title-cover.webp",
+  "rawOutput": "docs/images/title/title-cover.raw.jpg",
+  "prompt": "Photorealistic fantasy novel cover art, cinematic natural light, realistic textures, dramatic but grounded composition, mystical atmosphere, believable stone and metal materials, vertical format. Create one symbolic cover image for the web novel 'ヒゲ魔法のサトー 〜異世界転生したのでのんびり平和に暮らしたい〜'. Do not show any human or animal characters. Express the whole story through iconic fantasy motifs only: a warm rural path leading from a peaceful village into ancient ruins, a vast circular stone gate sleeping in the distance, elegant golden magical strands shaped like beard magic flowing through the air like living brushstrokes, a small silver bell suspended near the foreground, a luminous blue teardrop sigil below it, and a subtle pawprint glyph worked into the stone path. The image should feel mystical, gentle, and adventurous rather than dark or violent. The composition should be clean and iconic, suitable as the main title visual for the site. Prioritize one unforgettable vertical image with strong depth, fantasy atmosphere, and a sense of quiet destiny and homecoming. Final delivery will be cropped to 1080x2304, so compose safely for a narrow vertical cover. Negative prompt: anime, manga, cel shading, text, logo, watermark, collage, split panel, modern city, science fiction spaceship, mecha, photobash artifacts, deformed geometry, low detail, No characters, no faces, no bodies, no catgirl, no maid, no portrait, no readable letters inside the image, no title typography embedded in the art.",
+  "responseTexts": []
+}

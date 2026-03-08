@@ -1,0 +1,26 @@
+{
+  "episodeId": "scene-100",
+  "title": "第九十八話　継ぎ接ぎの敵",
+  "chapterTitle": "第二十章　地下水路の拾い屋たちと、中央座標の番兵編",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T13:41:20.103Z",
+  "output": "docs/images/episodes/scene-100.webp",
+  "rawOutput": "docs/images/episodes/scene-100.raw.jpg",
+  "referenceImages": [
+    "docs/images/characters/sato.png",
+    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/shirotama.png",
+    "docs/images/characters/celestia.png"
+  ],
+  "referenceCharacterIds": [
+    "sato",
+    "nyaruko",
+    "shirotama",
+    "celestia"
+  ],
+  "continuityNotes": [
+    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+  ],
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二十章　地下水路の拾い屋たちと、中央座標の番兵編. Episode title: 第九十八話　継ぎ接ぎの敵. Episode summary: 戦闘は、最初から嫌な感じだった。拾い屋たちの作った継ぎ接ぎ機兵は、追跡者みたいに洗練されていない。だがそのぶん動きが読みにくい。壊れた腕であ… Beat excerpt: 戦闘は、最初から嫌な感じだった。 拾い屋たちの作った継ぎ接ぎ機兵は、追跡者みたいに洗練されていない。だがそのぶん動きが読みにくい。壊れた腕でありえない軌道の爪を出し、片方しかない翼で壁へ跳ね、不要なはずの部品が突然爆ぜる。 「うわっ、雑に危ない！」 サトーがヒゲで爪を逸らす。だがそこへ別の機体が、水中から絡みつくように突っ込んでくる。 「もふっ！」 しろたまの感応が飛ぶ。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "responseTexts": []
+}
