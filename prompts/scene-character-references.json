@@ -22,9 +22,9 @@
       ]
     },
     {
-      "id": "nyaruko",
-      "name": "ニャル子",
-      "referenceImage": "docs/images/characters/nyaruko.png",
+      "id": "nia",
+      "name": "ニア",
+      "referenceImage": "docs/images/characters/nia.png",
       "invariants": [
         "petite silver-bob cat-eared maid",
         "black-and-white maid outfit",

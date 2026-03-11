@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-012.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/village-chief.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "village-chief"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第三章　しろたま覚醒と、森のダンジョン攻略編. Episode title: 第十二話　再突入、第一階層突破. Episode summary: 翌朝、サトーたちは改めて森のダンジョンへ向かった。今回は正式な探索だ。村長にも事情を伝え、万が一に備えて夕方までに戻らなければ捜索は出さず、… Beat excerpt: 翌朝、サトーたちは改めて森のダンジョンへ向かった。 今回は正式な探索だ。村長にも事情を伝え、万が一に備えて夕方までに戻らなければ捜索は出さず、翌朝まで待つよう念押ししてある。危険なのは承知の上だが、無計画に騒がれても困る。 サトーは革鎧を少し補強し、背中に簡易の荷袋を背負っていた。中には水、干し肉、ロープ、布、火打ち石、そしてニャル子が作った「すごく効くらしい薬草団子」が入っている。 「名前が雑だな、その薬」 「でも効きますにゃ」 「ほんとか？」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, village-chief. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第三章　しろたま覚醒と、森のダンジョン攻略編. Episode title: 第十二話　再突入、第一階層突破. Episode summary: 翌朝、サトーたちは改めて森のダンジョンへ向かった。今回は正式な探索だ。村長にも事情を伝え、万が一に備えて夕方までに戻らなければ捜索は出さず、… Beat excerpt: 翌朝、サトーたちは改めて森のダンジョンへ向かった。 今回は正式な探索だ。村長にも事情を伝え、万が一に備えて夕方までに戻らなければ捜索は出さず、翌朝まで待つよう念押ししてある。危険なのは承知の上だが、無計画に騒がれても困る。 サトーは革鎧を少し補強し、背中に簡易の荷袋を背負っていた。中には水、干し肉、ロープ、布、火打ち石、そしてニアが作った「すごく効くらしい薬草団子」が入っている。 「名前が雑だな、その薬」 「でも効きますにゃ」 「ほんとか？」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, village-chief. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

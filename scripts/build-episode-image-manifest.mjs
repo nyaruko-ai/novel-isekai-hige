@@ -10,7 +10,7 @@ const outputPath = path.join(rootDir, "prompts", "episode-image-manifest.json");
 
 const characterNameMap = [
   { id: "sato", name: "サトー" },
-  { id: "nyaruko", name: "ニャル子" },
+  { id: "nia", name: "ニア" },
   { id: "shirotama", name: "しろたま" },
   { id: "celestia", name: "セレスティア" },
   { id: "izel", name: "イゼル" },
@@ -22,10 +22,10 @@ const characterNameMap = [
 ];
 
 const sceneReferenceOverrides = {
-  "scene-061": ["legius", "sato", "nyaruko", "celestia"],
-  "scene-062": ["legius", "sato", "nyaruko", "celestia"],
-  "scene-063": ["legius", "sato", "nyaruko", "celestia"],
-  "scene-068": ["sato", "nyaruko", "shirotama", "celestia"],
+  "scene-061": ["legius", "sato", "nia", "celestia"],
+  "scene-062": ["legius", "sato", "nia", "celestia"],
+  "scene-063": ["legius", "sato", "nia", "celestia"],
+  "scene-068": ["sato", "nia", "shirotama", "celestia"],
   "scene-075": ["legius", "sato", "izel"],
   "scene-084": ["sato", "izel", "legius", "celestia"],
   "scene-085": ["legius", "sato", "izel", "celestia"],
@@ -36,7 +36,7 @@ const sceneFocusOverrides = {
   "scene-061": ["legius"],
   "scene-062": ["legius"],
   "scene-063": ["legius"],
-  "scene-068": ["sato", "nyaruko", "celestia"],
+  "scene-068": ["sato", "nia", "celestia"],
   "scene-075": ["legius"],
   "scene-084": ["izel", "legius"],
   "scene-085": ["legius", "izel"],
@@ -49,9 +49,9 @@ const scenePromptOverrides = {
   "scene-062":
     "This is Legius's first named appearance. Show Legius as the dominant human threat in the scene: standing high on a ruined stone tower above the boat and surrounding water guardians, black cloak moving in the wind, half-face mask, visible ironic smile on the exposed side, black short staff in hand. Do not hide him inside the crowd or replace his silhouette with a generic bandit or nobleman.",
   "scene-063":
-    "Keep the scene in the flooded ruins of Laguna Bell, not indoors. Show an ideological standoff across open water at dusk: Legius remains elevated on a ruined stone tower or broken bridge above the water, speaking down with controlled intensity, while Sato, Nyaruko, and Celestia listen from the boat below among surrounding water guardians. Legius must keep his canonical half mask, black cloak, black short staff, and morally ambiguous calm. The mood is tense negotiation, not a meeting room conversation.",
+    "Keep the scene in the flooded ruins of Laguna Bell, not indoors. Show an ideological standoff across open water at dusk: Legius remains elevated on a ruined stone tower or broken bridge above the water, speaking down with controlled intensity, while Sato, Nia, and Celestia listen from the boat below among surrounding water guardians. Legius must keep his canonical half mask, black cloak, black short staff, and morally ambiguous calm. The mood is tense negotiation, not a meeting room conversation.",
   "scene-068":
-    "Keep all recurring characters locked to their canonical portraits. Sato must be the rugged bearded Japanese man from his portrait, not a clean-shaven youth. Nyaruko must keep her silver bob, cat ears, black-and-white maid outfit, chest bell, and pale tail. Celestia must keep silver-gray tied hair, cold disciplined gaze, dark navy cloak, and light knight-mage armor; do not turn her blonde or soft-featured. Shirotama must remain a white round fur-ball with huge black eyes, tiny tail, and no visible legs or normal cat body. Show the party exploring the living-organ depths of the sunken city: vast stone cavity, layered corridors, transparent water channels, eerie blue pulses, and an oppressive ancient-machine atmosphere.",
+    "Keep all recurring characters locked to their canonical portraits. Sato must be the rugged bearded Japanese man from his portrait, not a clean-shaven youth. Nia must keep her silver bob, cat ears, black-and-white maid outfit, chest bell, and pale tail. Celestia must keep silver-gray tied hair, cold disciplined gaze, dark navy cloak, and light knight-mage armor; do not turn her blonde or soft-featured. Shirotama must remain a white round fur-ball with huge black eyes, tiny tail, and no visible legs or normal cat body. Show the party exploring the living-organ depths of the sunken city: vast stone cavity, layered corridors, transparent water channels, eerie blue pulses, and an oppressive ancient-machine atmosphere.",
 };
 
 const proKeywords = [
@@ -137,11 +137,11 @@ function buildContinuityNotes(scene, referenceCharacterIds) {
   const notes = [];
   const numericId = Number(scene.id.replace("scene-", ""));
 
-  if (referenceCharacterIds.includes("nyaruko")) {
+  if (referenceCharacterIds.includes("nia")) {
     if (numericId < 77) {
-      notes.push("This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.");
+      notes.push("This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.");
     } else {
-      notes.push("This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.");
+      notes.push("This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.");
     }
   }
 

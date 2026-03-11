@@ -9,19 +9,19 @@
   "referenceImages": [
     "docs/images/characters/legius.png",
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "legius",
     "sato",
-    "nyaruko",
+    "nia",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
     "Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十三章　沈都包囲戦と、半面の仮面編. Episode title: 第六十二話　第三勢力の思想. Episode summary: レギウスは、挑発にも乗らず、淡々と続けた。「王都は、最後の第二鍵が目覚めることを恐れている。追跡者は、最後の第二鍵を既存の命令系統へ再接続す… Beat excerpt: レギウスは、挑発にも乗らず、淡々と続けた。 「王都は、最後の第二鍵が目覚めることを恐れている。追跡者は、最後の第二鍵を既存の命令系統へ再接続するために回収したがっている。だが我々は違う」 「どう違う」とサトー。 「最後の鍵を、最後の鍵として使わせない」 場が少し静まる。 ニャル子が首をかしげた。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of legius, sato, nyaruko, celestia. The composition must clearly show legius in frame as identifiable midground or foreground subjects. Do not omit them, turn them into tiny background figures, or replace them with unrelated designs. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark. Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise. Keep the scene in the flooded ruins of Laguna Bell, not indoors. Show an ideological standoff across open water at dusk: Legius remains elevated on a ruined stone tower or broken bridge above the water, speaking down with controlled intensity, while Sato, Nyaruko, and Celestia listen from the boat below among surrounding water guardians. Legius must keep his canonical half mask, black cloak, black short staff, and morally ambiguous calm. The mood is tense negotiation, not a meeting room conversation.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十三章　沈都包囲戦と、半面の仮面編. Episode title: 第六十二話　第三勢力の思想. Episode summary: レギウスは、挑発にも乗らず、淡々と続けた。「王都は、最後の第二鍵が目覚めることを恐れている。追跡者は、最後の第二鍵を既存の命令系統へ再接続す… Beat excerpt: レギウスは、挑発にも乗らず、淡々と続けた。 「王都は、最後の第二鍵が目覚めることを恐れている。追跡者は、最後の第二鍵を既存の命令系統へ再接続するために回収したがっている。だが我々は違う」 「どう違う」とサトー。 「最後の鍵を、最後の鍵として使わせない」 場が少し静まる。 ニアが首をかしげた。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of legius, sato, nia, celestia. The composition must clearly show legius in frame as identifiable midground or foreground subjects. Do not omit them, turn them into tiny background figures, or replace them with unrelated designs. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark. Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise. Keep the scene in the flooded ruins of Laguna Bell, not indoors. Show an ideological standoff across open water at dusk: Legius remains elevated on a ruined stone tower or broken bridge above the water, speaking down with controlled intensity, while Sato, Nia, and Celestia listen from the boat below among surrounding water guardians. Legius must keep his canonical half mask, black cloak, black short staff, and morally ambiguous calm. The mood is tense negotiation, not a meeting room conversation.",
   "responseTexts": []
 }

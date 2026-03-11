@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-053.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編. Episode title: 第五十三話　鐘堂の裂け目. Episode summary: 地下鐘堂では、空気そのものが張りつめていた。巨大な灰鐘の前。床の円環を裂いて現れた黒い裂け目。そこから伸びた爪は、ニャル子の鈴の音によって一… Beat excerpt: 地下鐘堂では、空気そのものが張りつめていた。 巨大な灰鐘の前。床の円環を裂いて現れた黒い裂け目。そこから伸びた爪は、ニャル子の鈴の音によって一時的に止められていた。 だが完全ではない。 じじ……と嫌な音を立て、裂け目の周囲が少しずつ広がっていく。 セレスティアが短杖を構えた。 「止まりきっていません！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編. Episode title: 第五十三話　鐘堂の裂け目. Episode summary: 地下鐘堂では、空気そのものが張りつめていた。巨大な灰鐘の前。床の円環を裂いて現れた黒い裂け目。そこから伸びた爪は、ニアの鈴の音によって一… Beat excerpt: 地下鐘堂では、空気そのものが張りつめていた。 巨大な灰鐘の前。床の円環を裂いて現れた黒い裂け目。そこから伸びた爪は、ニアの鈴の音によって一時的に止められていた。 だが完全ではない。 じじ……と嫌な音を立て、裂け目の周囲が少しずつ広がっていく。 セレスティアが短杖を構えた。 「止まりきっていません！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

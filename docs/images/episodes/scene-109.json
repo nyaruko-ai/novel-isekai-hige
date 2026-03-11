@@ -8,17 +8,17 @@
   "rawOutput": "docs/images/episodes/scene-109.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 最終章　中央座標と、サトーたちが選ぶ終わり編. Episode title: 第百七話　鍵をほどく. Episode summary: 中央座標の光が、大きく広がった。『最終承認を確認』 Beat excerpt: 中央座標の光が、大きく広がった。 『最終承認を確認』 『旧継承列制度、解除工程を開始する』 その瞬間、サトーの第三鍵《天穿の杖槍》が強く震えた。ニャル子の胸元の第二鍵《水哭の涙》も光る。第一鍵の応答の記憶が、遠い場所から静かに戻ってくるような感覚がある。 しろたまが、少しだけ苦しそうに鳴いた。 「もふっ……！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 最終章　中央座標と、サトーたちが選ぶ終わり編. Episode title: 第百七話　鍵をほどく. Episode summary: 中央座標の光が、大きく広がった。『最終承認を確認』 Beat excerpt: 中央座標の光が、大きく広がった。 『最終承認を確認』 『旧継承列制度、解除工程を開始する』 その瞬間、サトーの第三鍵《天穿の杖槍》が強く震えた。ニアの胸元の第二鍵《水哭の涙》も光る。第一鍵の応答の記憶が、遠い場所から静かに戻ってくるような感覚がある。 しろたまが、少しだけ苦しそうに鳴いた。 「もふっ……！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama. Continuity notes: This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
   "responseTexts": []
 }

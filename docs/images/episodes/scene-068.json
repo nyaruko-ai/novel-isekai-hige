@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-068.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十四章　水底回廊と、第二鍵の守り手編. Episode title: 第六十七話　沈都の内臓. Episode summary: 降り始めてすぐ、ラグナ・ベルの深層がどういう場所か、少しずつ見えてきた。これは単なる地下ではなかった。 Beat excerpt: 降り始めてすぐ、ラグナ・ベルの深層がどういう場所か、少しずつ見えてきた。 これは単なる地下ではなかった。 巨大な空洞。壁面に沿って幾重にも巡る回廊。ところどころに開いた部屋のような空間。そして、そのすべてを貫くように走る、透明な水路。 外から見れば沈んだ都市。だが内側から見れば、水の中に街を抱えた巨大な器官のようだった。 「……沈都っていうより、生き物の中みたいですにゃ」 ニャル子が小声で言う。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. The composition must clearly show sato and nyaruko and celestia in frame as identifiable midground or foreground subjects. Do not omit them, turn them into tiny background figures, or replace them with unrelated designs. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark. Keep all recurring characters locked to their canonical portraits. Sato must be the rugged bearded Japanese man from his portrait, not a clean-shaven youth. Nyaruko must keep her silver bob, cat ears, black-and-white maid outfit, chest bell, and pale tail. Celestia must keep silver-gray tied hair, cold disciplined gaze, dark navy cloak, and light knight-mage armor; do not turn her blonde or soft-featured. Shirotama must remain a white round fur-ball with huge black eyes, tiny tail, and no visible legs or normal cat body. Show the party exploring the living-organ depths of the sunken city: vast stone cavity, layered corridors, transparent water channels, eerie blue pulses, and an oppressive ancient-machine atmosphere.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十四章　水底回廊と、第二鍵の守り手編. Episode title: 第六十七話　沈都の内臓. Episode summary: 降り始めてすぐ、ラグナ・ベルの深層がどういう場所か、少しずつ見えてきた。これは単なる地下ではなかった。 Beat excerpt: 降り始めてすぐ、ラグナ・ベルの深層がどういう場所か、少しずつ見えてきた。 これは単なる地下ではなかった。 巨大な空洞。壁面に沿って幾重にも巡る回廊。ところどころに開いた部屋のような空間。そして、そのすべてを貫くように走る、透明な水路。 外から見れば沈んだ都市。だが内側から見れば、水の中に街を抱えた巨大な器官のようだった。 「……沈都っていうより、生き物の中みたいですにゃ」 ニアが小声で言う。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. The composition must clearly show sato and nia and celestia in frame as identifiable midground or foreground subjects. Do not omit them, turn them into tiny background figures, or replace them with unrelated designs. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark. Keep all recurring characters locked to their canonical portraits. Sato must be the rugged bearded Japanese man from his portrait, not a clean-shaven youth. Nia must keep her silver bob, cat ears, black-and-white maid outfit, chest bell, and pale tail. Celestia must keep silver-gray tied hair, cold disciplined gaze, dark navy cloak, and light knight-mage armor; do not turn her blonde or soft-featured. Shirotama must remain a white round fur-ball with huge black eyes, tiny tail, and no visible legs or normal cat body. Show the party exploring the living-organ depths of the sunken city: vast stone cavity, layered corridors, transparent water channels, eerie blue pulses, and an oppressive ancient-machine atmosphere.",
   "responseTexts": []
 }

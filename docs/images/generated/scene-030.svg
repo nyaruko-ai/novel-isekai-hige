@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" role="img" aria-labelledby="scene-030-title scene-030-desc">
-  <title id="scene-030-title">第三十話　ニャル子の鈴</title>
-  <desc id="scene-030-desc">第六章　第七座標の記録庫と、サトーに似た“先代”の影編の第三十話　ニャル子の鈴をイメージしたビジュアルカード</desc>
+  <title id="scene-030-title">第三十話　ニアの鈴</title>
+  <desc id="scene-030-desc">第六章　第七座標の記録庫と、サトーに似た“先代”の影編の第三十話　ニアの鈴をイメージしたビジュアルカード</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#f0d7dd" />
@@ -31,6 +31,6 @@
   </g>
   <text x="88" y="1290" font-size="28" font-weight="700" letter-spacing="8" fill="#fdeff2" opacity="0.92" font-family="'Avenir Next', 'Hiragino Sans', sans-serif">第6章</text>
   <text x="88" y="1348" font-size="42" font-weight="500" letter-spacing="2" fill="#fdeff2" opacity="0.88" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第六章　第七座標の記録庫と、サト</tspan><tspan x="88" dy="44">ーに似た“先代”の影編</tspan></text>
-  <text x="88" y="1496" font-size="74" font-weight="700" letter-spacing="2" fill="#ffffff" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第三十話　ニャル子の鈴</tspan></text>
+  <text x="88" y="1496" font-size="74" font-weight="700" letter-spacing="2" fill="#ffffff" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第三十話　ニアの鈴</tspan></text>
   <rect x="88" y="1600" width="280" height="2" fill="#fdeff2" opacity="0.85" />
 </svg>

@@ -1,0 +1,20 @@
+{
+  "characterId": "nia",
+  "name": "ニア",
+  "model": "gemini-3-pro-image-preview",
+  "generatedAt": "2026-03-07T12:43:31.339Z",
+  "output": "docs/images/characters/nia.png",
+  "rawOutput": "docs/images/characters/nia.raw.jpg",
+  "referenceImage": "sample/nia-default.png",
+  "fixedSize": {
+    "width": 1080,
+    "height": 2304
+  },
+  "prompt": "Photorealistic fantasy novel insert art, cinematic natural light, realistic skin texture, high detail fabric, high detail hair, believable proportions, clean background separation, vertical full-body or 3/4 portrait, centered composition with headroom and footroom, premium live-action look.\nCreate a photorealistic full-body portrait of Nia, a cat-eared maid heroine, based primarily on the supplied reference image but translated into realistic live-action fantasy style. She is petite and bright, with soft silver bob hair, expressive cat ears, a fluffy pale tail, and a lovable mischievous smile. Her eyes should be warm amber, matching the novel text. Keep the facial impression, ear shape, tail volume, youthful silhouette, and friendly charm from the reference image, but change the outfit to match the novel: a black-and-white maid dress for a fantasy village inn, elegant but practical, with a modest neckline, white apron, believable fabric, and a skirt length around the knees. The overall look should read as a real working maid in a warm inn, not stage costume or idol costume. A small but clearly visible bell must be attached at the upper chest or collar area as part of her signature design. Add the later-story blue teardrop emblem or jewel-like mark directly below the bell, so both the bell and the blue mark are visible together. Preserve ribbon and lace balance only if it still reads as a believable black-and-white maid uniform. Mood should be warm, lively, loyal, and slightly playful. Absolutely not anime; realistic human proportions and facial structure.\nCenter the subject and leave generous margin on both left and right sides for a later narrow crop.\nKeep the whole character visible within frame when possible, especially head, key costume details, hands, silhouette, and signature accessories.\nFinal delivery will be cropped to 1080x2304, so compose safely.\nNegative prompt: anime, manga, cel shading, chibi, cartoon, deformed anatomy, extra limbs, extra fingers, low detail face, flat lighting, text, logo, watermark, frame, collage, duplicated ears, duplicated tail, blurry eyes, anime face, doll joints, cosplay photography feel, fetish framing, overly sexualized maid pose, exposed upper thighs, ultra short skirt, lingerie styling, pin-up pose, missing bell, hidden bell, necklace only without bell",
+  "sourceRefs": [
+    "hige-mahou-story.md:50",
+    "hige-mahou-story.md:79",
+    "hige-mahou-story.md:10836"
+  ],
+  "responseTexts": []
+}

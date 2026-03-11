@@ -8,17 +8,17 @@
   "rawOutput": "docs/images/episodes/scene-014.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第三章　しろたま覚醒と、森のダンジョン攻略編. Episode title: 第十四話　深層へ続く扉. Episode summary: 第二階層を抜けた先。二人と一匹は、古びた祭壇のような空間へたどり着いた。中央には大きな円形の石板。その周囲には、いくつもの柱。柱には見たこと… Beat excerpt: 第二階層を抜けた先。二人と一匹は、古びた祭壇のような空間へたどり着いた。 中央には大きな円形の石板。その周囲には、いくつもの柱。柱には見たこともない紋様が刻まれ、床一面には複雑な魔法陣のようなものが描かれている。 そして正面には、巨大な扉があった。 扉というより、封印に近い。左右両開きの石扉には鎖の意匠が刻まれ、中央には三つの窪みが並んでいる。そのひとつが、ほんのわずかに光っていた。 ニャル子が息を呑む。 「……これ、普通のダンジョンじゃないですにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第三章　しろたま覚醒と、森のダンジョン攻略編. Episode title: 第十四話　深層へ続く扉. Episode summary: 第二階層を抜けた先。二人と一匹は、古びた祭壇のような空間へたどり着いた。中央には大きな円形の石板。その周囲には、いくつもの柱。柱には見たこと… Beat excerpt: 第二階層を抜けた先。二人と一匹は、古びた祭壇のような空間へたどり着いた。 中央には大きな円形の石板。その周囲には、いくつもの柱。柱には見たこともない紋様が刻まれ、床一面には複雑な魔法陣のようなものが描かれている。 そして正面には、巨大な扉があった。 扉というより、封印に近い。左右両開きの石扉には鎖の意匠が刻まれ、中央には三つの窪みが並んでいる。そのひとつが、ほんのわずかに光っていた。 ニアが息を呑む。 「……これ、普通のダンジョンじゃないですにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

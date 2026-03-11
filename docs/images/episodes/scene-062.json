@@ -9,19 +9,19 @@
   "referenceImages": [
     "docs/images/characters/legius.png",
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "legius",
     "sato",
-    "nyaruko",
+    "nia",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
     "Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十三章　沈都包囲戦と、半面の仮面編. Episode title: 第六十一話　沈都の水面に立つ敵. Episode summary: 夕暮れのラグナ・ベルは、美しくて不気味だった。半分沈んだ塔。水面へ突き出た橋の残骸。崩れた円蓋の上を滑るように飛ぶ白い鳥。そのすべてが、今だ… Beat excerpt: 夕暮れのラグナ・ベルは、美しくて不気味だった。 半分沈んだ塔。水面へ突き出た橋の残骸。崩れた円蓋の上を滑るように飛ぶ白い鳥。そのすべてが、今だけはまだ世界に残されている都市の亡霊みたいに見えた。 だが、その静けさは一瞬で破られた。 水面を割って現れた水底機兵たちは、舟を半円状に囲んでいた。肩から水を流し、関節部に青緑の光を灯している。顔にあたる部分は透明なガラスみたいで、その奥に回転する輪が見えた。 「……今度は水底守備隊って感じですにゃ」 ニャル子が短剣を抜きながら言う。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of legius, sato, nyaruko, celestia. The composition must clearly show legius in frame as identifiable midground or foreground subjects. Do not omit them, turn them into tiny background figures, or replace them with unrelated designs. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark. Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise. This is Legius's first named appearance. Show Legius as the dominant human threat in the scene: standing high on a ruined stone tower above the boat and surrounding water guardians, black cloak moving in the wind, half-face mask, visible ironic smile on the exposed side, black short staff in hand. Do not hide him inside the crowd or replace his silhouette with a generic bandit or nobleman.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十三章　沈都包囲戦と、半面の仮面編. Episode title: 第六十一話　沈都の水面に立つ敵. Episode summary: 夕暮れのラグナ・ベルは、美しくて不気味だった。半分沈んだ塔。水面へ突き出た橋の残骸。崩れた円蓋の上を滑るように飛ぶ白い鳥。そのすべてが、今だ… Beat excerpt: 夕暮れのラグナ・ベルは、美しくて不気味だった。 半分沈んだ塔。水面へ突き出た橋の残骸。崩れた円蓋の上を滑るように飛ぶ白い鳥。そのすべてが、今だけはまだ世界に残されている都市の亡霊みたいに見えた。 だが、その静けさは一瞬で破られた。 水面を割って現れた水底機兵たちは、舟を半円状に囲んでいた。肩から水を流し、関節部に青緑の光を灯している。顔にあたる部分は透明なガラスみたいで、その奥に回転する輪が見えた。 「……今度は水底守備隊って感じですにゃ」 ニアが短剣を抜きながら言う。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of legius, sato, nia, celestia. The composition must clearly show legius in frame as identifiable midground or foreground subjects. Do not omit them, turn them into tiny background figures, or replace them with unrelated designs. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark. Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise. This is Legius's first named appearance. Show Legius as the dominant human threat in the scene: standing high on a ruined stone tower above the boat and surrounding water guardians, black cloak moving in the wind, half-face mask, visible ironic smile on the exposed side, black short staff in hand. Do not hide him inside the crowd or replace his silhouette with a generic bandit or nobleman.",
   "responseTexts": []
 }

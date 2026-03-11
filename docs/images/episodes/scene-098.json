@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-098.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十九章　沈黙路と、王都地下潜入編. Episode title: 第九十六話　王都の足元. Episode summary: 旧排水路は、王都の地下とは思えないほど古かった。石積み。苔。湿り気。だがところどころに、明らかに新しい封印板や監視紋もある。つまり王都はこの… Beat excerpt: 旧排水路は、王都の地下とは思えないほど古かった。 石積み。苔。湿り気。だがところどころに、明らかに新しい封印板や監視紋もある。つまり王都はこの区画を完全には失っていない。ただ、全部を掌握してもいない。 「ここからは王都の足元です」とイゼルが低く言う。「上では、誰も普通に暮らしている。その下で、こんなものが眠っている」 サトーは天井を見上げた。 上には街がある。人がいる。店があり、学校があり、家があり、たぶん誰かの平凡な一日がある。 そこへ繋がる最終門を、自分たちはこれから見に行くのだ。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十九章　沈黙路と、王都地下潜入編. Episode title: 第九十六話　王都の足元. Episode summary: 旧排水路は、王都の地下とは思えないほど古かった。石積み。苔。湿り気。だがところどころに、明らかに新しい封印板や監視紋もある。つまり王都はこの… Beat excerpt: 旧排水路は、王都の地下とは思えないほど古かった。 石積み。苔。湿り気。だがところどころに、明らかに新しい封印板や監視紋もある。つまり王都はこの区画を完全には失っていない。ただ、全部を掌握してもいない。 「ここからは王都の足元です」とイゼルが低く言う。「上では、誰も普通に暮らしている。その下で、こんなものが眠っている」 サトーは天井を見上げた。 上には街がある。人がいる。店があり、学校があり、家があり、たぶん誰かの平凡な一日がある。 そこへ繋がる最終門を、自分たちはこれから見に行くのだ。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
   "responseTexts": []
 }

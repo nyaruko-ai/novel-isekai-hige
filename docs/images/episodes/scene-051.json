@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-051.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十章　灰鐘院防衛戦と、地下鐘堂の記憶編. Episode title: 第五十一話　門を破る者. Episode summary: その瞬間、鐘堂全体が揺れた。どん――！！ Beat excerpt: その瞬間、鐘堂全体が揺れた。 どん――！！ 天井から砂が落ちる。 セレスティアが顔を上げる。 「上で何か起きてる！」 マグダレナの表情が険しくなる。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十章　灰鐘院防衛戦と、地下鐘堂の記憶編. Episode title: 第五十一話　門を破る者. Episode summary: その瞬間、鐘堂全体が揺れた。どん――！！ Beat excerpt: その瞬間、鐘堂全体が揺れた。 どん――！！ 天井から砂が落ちる。 セレスティアが顔を上げる。 「上で何か起きてる！」 マグダレナの表情が険しくなる。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

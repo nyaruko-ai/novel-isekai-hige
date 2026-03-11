@@ -9,19 +9,19 @@
   "referenceImages": [
     "docs/images/characters/legius.png",
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "legius",
     "sato",
-    "nyaruko",
+    "nia",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
     "Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十二章　沈都ラグナ・ベルと、水底の門編. Episode title: 第六十話　沈む街の最初の影. Episode summary: 夕方が近づくころ、景色はさらに変わっていた。水路は広がり、ほとんど湖のようになっている。そこかしこに、石柱の頭だけが水面から突き出していた。… Beat excerpt: 夕方が近づくころ、景色はさらに変わっていた。 水路は広がり、ほとんど湖のようになっている。そこかしこに、石柱の頭だけが水面から突き出していた。崩れた塔の先端。半分沈んだ橋。水草に絡まる彫像の肩。それは自然の湿地ではなく、かつてここに都市があったことを無言で示していた。 「……見えてきましたにゃ」 ニャル子が小さく言う。 セレスティアも、息をひそめるように周囲を見る。 「ラグナ・ベル外縁沈降区……」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of legius, sato, nyaruko, celestia. The composition must clearly show legius in frame as identifiable midground or foreground subjects. Do not omit them, turn them into tiny background figures, or replace them with unrelated designs. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark. Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise. Show the first reveal of Legius in the flooded ruins of Laguna Bell at sunset. Legius must be clearly visible on top of a tall sunken stone tower above the heroes, wearing his canonical black cloak and half-face mask, holding his black short staff, and looking down with calm confidence after applauding their arrival. Keep the heroes below as smaller figures and preserve the eerie drowned-city scale.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十二章　沈都ラグナ・ベルと、水底の門編. Episode title: 第六十話　沈む街の最初の影. Episode summary: 夕方が近づくころ、景色はさらに変わっていた。水路は広がり、ほとんど湖のようになっている。そこかしこに、石柱の頭だけが水面から突き出していた。… Beat excerpt: 夕方が近づくころ、景色はさらに変わっていた。 水路は広がり、ほとんど湖のようになっている。そこかしこに、石柱の頭だけが水面から突き出していた。崩れた塔の先端。半分沈んだ橋。水草に絡まる彫像の肩。それは自然の湿地ではなく、かつてここに都市があったことを無言で示していた。 「……見えてきましたにゃ」 ニアが小さく言う。 セレスティアも、息をひそめるように周囲を見る。 「ラグナ・ベル外縁沈降区……」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of legius, sato, nia, celestia. The composition must clearly show legius in frame as identifiable midground or foreground subjects. Do not omit them, turn them into tiny background figures, or replace them with unrelated designs. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark. Keep Legius in his normal half-mask presentation unless the episode explicitly reveals otherwise. Show the first reveal of Legius in the flooded ruins of Laguna Bell at sunset. Legius must be clearly visible on top of a tall sunken stone tower above the heroes, wearing his canonical black cloak and half-face mask, holding his black short staff, and looking down with calm confidence after applauding their arrival. Keep the heroes below as smaller figures and preserve the eerie drowned-city scale.",
   "responseTexts": []
 }

@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-069.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十四章　水底回廊と、第二鍵の守り手編. Episode title: 第六十八話　第二鍵の守り手. Episode summary: 広間の中央には、円形の浅い水盤があった。周囲には六本の柱。その天井は高く、上部でゆっくりと水が巡っている。そして、その水盤の上に、ひとつの人… Beat excerpt: 広間の中央には、円形の浅い水盤があった。周囲には六本の柱。その天井は高く、上部でゆっくりと水が巡っている。 そして、その水盤の上に、ひとつの人影が立っていた。 最初は人に見えた。 長い衣。細い腕。顔立ちも整っている。だがよく見ると、足元は水と一体化しており、髪も布も、液体と光で形作られている。 目だけが、静かに青い。 「……人じゃないな」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十四章　水底回廊と、第二鍵の守り手編. Episode title: 第六十八話　第二鍵の守り手. Episode summary: 広間の中央には、円形の浅い水盤があった。周囲には六本の柱。その天井は高く、上部でゆっくりと水が巡っている。そして、その水盤の上に、ひとつの人… Beat excerpt: 広間の中央には、円形の浅い水盤があった。周囲には六本の柱。その天井は高く、上部でゆっくりと水が巡っている。 そして、その水盤の上に、ひとつの人影が立っていた。 最初は人に見えた。 長い衣。細い腕。顔立ちも整っている。だがよく見ると、足元は水と一体化しており、髪も布も、液体と光で形作られている。 目だけが、静かに青い。 「……人じゃないな」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

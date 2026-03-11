@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-057.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/magdalena.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "magdalena"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編. Episode title: 幕間　灰鐘院の台所. Episode summary: 灰鐘院の夜は、戦いのあとのわりに静かだった。外壁の修復はひとまず終わり、負傷者の手当ても一段落した。鐘堂の奥ではまだ記録班が慌ただしく動いて… Beat excerpt: 灰鐘院の夜は、戦いのあとのわりに静かだった。 外壁の修復はひとまず終わり、負傷者の手当ても一段落した。鐘堂の奥ではまだ記録班が慌ただしく動いていたが、少なくとも今すぐ何かが襲ってくる気配はない。 そのためサトーは、半ば強制的に台所へ連行されていた。 「ご主人様は座ってるだけでいいですにゃ」 「それ、絶対ただの客扱いだろ」 「負傷者ですにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, magdalena. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編. Episode title: 幕間　灰鐘院の台所. Episode summary: 灰鐘院の夜は、戦いのあとのわりに静かだった。外壁の修復はひとまず終わり、負傷者の手当ても一段落した。鐘堂の奥ではまだ記録班が慌ただしく動いて… Beat excerpt: 灰鐘院の夜は、戦いのあとのわりに静かだった。 外壁の修復はひとまず終わり、負傷者の手当ても一段落した。鐘堂の奥ではまだ記録班が慌ただしく動いていたが、少なくとも今すぐ何かが襲ってくる気配はない。 そのためサトーは、半ば強制的に台所へ連行されていた。 「ご主人様は座ってるだけでいいですにゃ」 「それ、絶対ただの客扱いだろ」 「負傷者ですにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, magdalena. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

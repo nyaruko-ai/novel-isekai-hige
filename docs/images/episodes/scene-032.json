@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-032.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第七章　青の記録――世界の構造と、王都が隠していること編. Episode title: 第三十二話　世界はひとつではなかった. Episode summary: 今度の投影は、白の記録よりもずっと広大だった。最初に見えたのは、夜空のような闇。その中に、無数の光点が浮かんでいる。だがそれは星ではなかった… Beat excerpt: 今度の投影は、白の記録よりもずっと広大だった。 最初に見えたのは、夜空のような闇。その中に、無数の光点が浮かんでいる。だがそれは星ではなかった。 一つ一つが、世界だった。 球体のように見えるもの。平板のように見えるもの。霧に包まれたもの。光の輪で囲まれたもの。崩れかけているもの。まだ安定しているもの。 それらが、巨大な網のような光の線で緩やかに繋がれている。 「……なんだ、これ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第七章　青の記録――世界の構造と、王都が隠していること編. Episode title: 第三十二話　世界はひとつではなかった. Episode summary: 今度の投影は、白の記録よりもずっと広大だった。最初に見えたのは、夜空のような闇。その中に、無数の光点が浮かんでいる。だがそれは星ではなかった… Beat excerpt: 今度の投影は、白の記録よりもずっと広大だった。 最初に見えたのは、夜空のような闇。その中に、無数の光点が浮かんでいる。だがそれは星ではなかった。 一つ一つが、世界だった。 球体のように見えるもの。平板のように見えるもの。霧に包まれたもの。光の輪で囲まれたもの。崩れかけているもの。まだ安定しているもの。 それらが、巨大な網のような光の線で緩やかに繋がれている。 「……なんだ、これ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

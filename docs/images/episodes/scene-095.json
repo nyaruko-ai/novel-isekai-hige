@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-095.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十九章　沈黙路と、王都地下潜入編. Episode title: 第九十三話　王都外縁、沈黙路の口. Episode summary: 灰鐘院から王都外縁までは、目立つ移動を避けて半日をかけた。正規の街道は使わない。廃農地と低い丘を縫い、古い用水路跡をたどり、人気のない林地を… Beat excerpt: 灰鐘院から王都外縁までは、目立つ移動を避けて半日をかけた。 正規の街道は使わない。廃農地と低い丘を縫い、古い用水路跡をたどり、人気のない林地を抜ける。途中、王都の巡回兵らしき影を二度見たが、イゼルとセレスティアの判断でうまく避けた。 王都が近づくほど、空気が変わる。 遠くからでも分かる。大都市の持つ、人の多さとは別の“圧”だ。高い城壁。神殿塔。朝霧の向こうに浮かぶ石造りの輪郭。その下に、誰にも見えないもっと古い層が眠っていると思うと、景色そのものが嘘っぽく見える。 「……これが中央座標の上にある街か」 サトーが低く言うと、イゼルが答えた。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十九章　沈黙路と、王都地下潜入編. Episode title: 第九十三話　王都外縁、沈黙路の口. Episode summary: 灰鐘院から王都外縁までは、目立つ移動を避けて半日をかけた。正規の街道は使わない。廃農地と低い丘を縫い、古い用水路跡をたどり、人気のない林地を… Beat excerpt: 灰鐘院から王都外縁までは、目立つ移動を避けて半日をかけた。 正規の街道は使わない。廃農地と低い丘を縫い、古い用水路跡をたどり、人気のない林地を抜ける。途中、王都の巡回兵らしき影を二度見たが、イゼルとセレスティアの判断でうまく避けた。 王都が近づくほど、空気が変わる。 遠くからでも分かる。大都市の持つ、人の多さとは別の“圧”だ。高い城壁。神殿塔。朝霧の向こうに浮かぶ石造りの輪郭。その下に、誰にも見えないもっと古い層が眠っていると思うと、景色そのものが嘘っぽく見える。 「……これが中央座標の上にある街か」 サトーが低く言うと、イゼルが答えた。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
   "responseTexts": []
 }

@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-089.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十八章　王都地下、中央座標前夜編. Episode title: 第八十七話　灰鐘院に集まるもの. Episode summary: 灰鐘院に留まったのは、ほんの二日だった。だがその二日は、これまでの旅のどの一日よりも濃かった。 Beat excerpt: 灰鐘院に留まったのは、ほんの二日だった。 だがその二日は、これまでの旅のどの一日よりも濃かった。 王都は、イゼルを通して約束通り資料を送ってきた。もちろん全部ではない。それでも、今までの“断片だけ見せる”態度とは違っていた。 灰鐘院の会議室の長机には、王都から届いた封印文書、古い地下図、中央座標の観測記録、そしてレギウス側が持ち込んだ非公式記録が、所狭しと並べられている。 サトーは、その山を見て率直に言った。 「……すごいな。いかにも“知りたくなかったことがいっぱい書いてありそうな紙の山”って感じだ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十八章　王都地下、中央座標前夜編. Episode title: 第八十七話　灰鐘院に集まるもの. Episode summary: 灰鐘院に留まったのは、ほんの二日だった。だがその二日は、これまでの旅のどの一日よりも濃かった。 Beat excerpt: 灰鐘院に留まったのは、ほんの二日だった。 だがその二日は、これまでの旅のどの一日よりも濃かった。 王都は、イゼルを通して約束通り資料を送ってきた。もちろん全部ではない。それでも、今までの“断片だけ見せる”態度とは違っていた。 灰鐘院の会議室の長机には、王都から届いた封印文書、古い地下図、中央座標の観測記録、そしてレギウス側が持ち込んだ非公式記録が、所狭しと並べられている。 サトーは、その山を見て率直に言った。 「……すごいな。いかにも“知りたくなかったことがいっぱい書いてありそうな紙の山”って感じだ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
   "responseTexts": []
 }

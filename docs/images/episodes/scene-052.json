@@ -8,15 +8,15 @@
   "rawOutput": "docs/images/episodes/scene-052.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png"
+    "docs/images/characters/nia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko"
+    "nia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編. Episode title: 第五十二話　外壁の上のヒゲ魔法. Episode summary: 灰鐘院の外では、戦いが一気に激しくなっていた。石畳広場には、墜ちた追跡者の残骸が散っている。翼膜を裂かれたもの。仮面を砕かれたもの。灰鐘院の… Beat excerpt: 灰鐘院の外では、戦いが一気に激しくなっていた。 石畳広場には、墜ちた追跡者の残骸が散っている。翼膜を裂かれたもの。仮面を砕かれたもの。灰鐘院の塗布矢で制御を鈍らせられ、なお蠢くもの。 その中央で、サトーは《天穿の杖槍》を構えていた。 「……次から次へと」 上空にはまだ黒い影がある。数は減ったが、質が変わっていた。さっきまでの追跡者たちは“捕らえる”動きだった。だが今、修道院の上空を旋回している連中は、もっと無機質で、もっと冷たい。 先頭にいるのは、翼が四枚ある細長い個体。顔面の仮面に縦の裂け目があり、その奥が暗い。青い目ではなく、白い線が走っている。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編. Episode title: 第五十二話　外壁の上のヒゲ魔法. Episode summary: 灰鐘院の外では、戦いが一気に激しくなっていた。石畳広場には、墜ちた追跡者の残骸が散っている。翼膜を裂かれたもの。仮面を砕かれたもの。灰鐘院の… Beat excerpt: 灰鐘院の外では、戦いが一気に激しくなっていた。 石畳広場には、墜ちた追跡者の残骸が散っている。翼膜を裂かれたもの。仮面を砕かれたもの。灰鐘院の塗布矢で制御を鈍らせられ、なお蠢くもの。 その中央で、サトーは《天穿の杖槍》を構えていた。 「……次から次へと」 上空にはまだ黒い影がある。数は減ったが、質が変わっていた。さっきまでの追跡者たちは“捕らえる”動きだった。だが今、修道院の上空を旋回している連中は、もっと無機質で、もっと冷たい。 先頭にいるのは、翼が四枚ある細長い個体。顔面の仮面に縦の裂け目があり、その奥が暗い。青い目ではなく、白い線が走っている。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

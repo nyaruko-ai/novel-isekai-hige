@@ -8,17 +8,17 @@
   "rawOutput": "docs/images/episodes/scene-015.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第三章　しろたま覚醒と、森のダンジョン攻略編. Episode title: 第十五話　帰還、そして次のはじまり. Episode summary: 帰り道、三人はあまり多くを話さなかった。第一階層も第二階層も、しろたまの導きがあれば危険は大きく減る。だが、心の中は別だった。 Beat excerpt: 帰り道、三人はあまり多くを話さなかった。 第一階層も第二階層も、しろたまの導きがあれば危険は大きく減る。だが、心の中は別だった。 あの壁画は何だったのか。「鍵の一つ」とは何か。「継承候補」とは誰のことか。なぜ、自分たちに似た姿が描かれていたのか。 外へ出たとき、夕方の森の空気がひどく懐かしく感じた。 村が見える。小川が流れている。煙突から夕餉の煙が上がっている。 ほんの数時間前まで、そこが世界のすべてだった気がするのに、今はもう、その向こう側を意識してしまっている。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第三章　しろたま覚醒と、森のダンジョン攻略編. Episode title: 第十五話　帰還、そして次のはじまり. Episode summary: 帰り道、三人はあまり多くを話さなかった。第一階層も第二階層も、しろたまの導きがあれば危険は大きく減る。だが、心の中は別だった。 Beat excerpt: 帰り道、三人はあまり多くを話さなかった。 第一階層も第二階層も、しろたまの導きがあれば危険は大きく減る。だが、心の中は別だった。 あの壁画は何だったのか。「鍵の一つ」とは何か。「継承候補」とは誰のことか。なぜ、自分たちに似た姿が描かれていたのか。 外へ出たとき、夕方の森の空気がひどく懐かしく感じた。 村が見える。小川が流れている。煙突から夕餉の煙が上がっている。 ほんの数時間前まで、そこが世界のすべてだった気がするのに、今はもう、その向こう側を意識してしまっている。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

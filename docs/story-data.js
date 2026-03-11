@@ -249,23 +249,23 @@ window.STORY_DATA = {
       "chapterKey": "chapter-1",
       "chapterLabel": "第1章",
       "chapterTitle": "第一章　はじまり",
-      "title": "第二話　猫耳メイドニャル子、仕える",
-      "summary": "少女は自らをニャル子と名乗った。「わたし、ニャル子ですにゃ！　猫耳族の見習いメイド兼、専属案内人兼、生活サポート兼、ご主人様観察係ですにゃ！…",
+      "title": "第二話　猫耳メイドニア、仕える",
+      "summary": "少女は自らをニアと名乗った。「わたし、ニアですにゃ！　猫耳族の見習いメイド兼、専属案内人兼、生活サポート兼、ご主人様観察係ですにゃ！…",
       "image": "./images/episodes/scene-002.webp",
-      "alt": "第一章　はじまりの第二話　猫耳メイドニャル子、仕えるをイメージしたビジュアルカード",
+      "alt": "第一章　はじまりの第二話　猫耳メイドニア、仕えるをイメージしたビジュアルカード",
       "beatCount": 39,
       "beats": [
         {
           "id": "scene-002-beat-001",
           "index": 0,
           "kind": "narration",
-          "rawText": "少女は自らをニャル子と名乗った。"
+          "rawText": "少女は自らをニアと名乗った。"
         },
         {
           "id": "scene-002-beat-002",
           "index": 1,
           "kind": "dialogue",
-          "rawText": "「わたし、ニャル子ですにゃ！　猫耳族の見習いメイド兼、専属案内人兼、生活サポート兼、ご主人様観察係ですにゃ！」"
+          "rawText": "「わたし、ニアですにゃ！　猫耳族の見習いメイド兼、専属案内人兼、生活サポート兼、ご主人様観察係ですにゃ！」"
         },
         {
           "id": "scene-002-beat-003",
@@ -289,7 +289,7 @@ window.STORY_DATA = {
           "id": "scene-002-beat-006",
           "index": 5,
           "kind": "narration",
-          "rawText": "ニャル子の話によれば、サトーは森の外れにある古い祠の前で倒れていたらしい。空から落ちてきたわけでも、光の柱とともに現れたわけでもなく、気づいたらそこにいたという。"
+          "rawText": "ニアの話によれば、サトーは森の外れにある古い祠の前で倒れていたらしい。空から落ちてきたわけでも、光の柱とともに現れたわけでもなく、気づいたらそこにいたという。"
         },
         {
           "id": "scene-002-beat-007",
@@ -325,7 +325,7 @@ window.STORY_DATA = {
           "id": "scene-002-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "サトーがそう言うと、ニャル子はきらきらした目で詰め寄ってきた。"
+          "rawText": "サトーがそう言うと、ニアはきらきらした目で詰め寄ってきた。"
         },
         {
           "id": "scene-002-beat-013",
@@ -379,7 +379,7 @@ window.STORY_DATA = {
           "id": "scene-002-beat-021",
           "index": 20,
           "kind": "narration",
-          "rawText": "ニャル子が拍手する。"
+          "rawText": "ニアが拍手する。"
         },
         {
           "id": "scene-002-beat-022",
@@ -439,7 +439,7 @@ window.STORY_DATA = {
           "id": "scene-002-beat-031",
           "index": 30,
           "kind": "narration",
-          "rawText": "見知らぬ世界。意味不明な能力。なのに、不思議とそこまで悪い気はしなかった。ニャル子の明るさが、状況の異常さをやわらげていたからかもしれない。"
+          "rawText": "見知らぬ世界。意味不明な能力。なのに、不思議とそこまで悪い気はしなかった。ニアの明るさが、状況の異常さをやわらげていたからかもしれない。"
         },
         {
           "id": "scene-002-beat-032",
@@ -469,7 +469,7 @@ window.STORY_DATA = {
           "id": "scene-002-beat-036",
           "index": 35,
           "kind": "narration",
-          "rawText": "ニャル子は胸を張った。胸元の鈴がちりんと鳴った。"
+          "rawText": "ニアは胸を張った。胸元の鈴がちりんと鳴った。"
         },
         {
           "id": "scene-002-beat-037",
@@ -520,7 +520,7 @@ window.STORY_DATA = {
           "id": "scene-003-beat-003",
           "index": 2,
           "kind": "narration",
-          "rawText": "宿屋の窓から外を見たニャル子の耳が、ぴんと立つ。"
+          "rawText": "宿屋の窓から外を見たニアの耳が、ぴんと立つ。"
         },
         {
           "id": "scene-003-beat-004",
@@ -544,7 +544,7 @@ window.STORY_DATA = {
           "id": "scene-003-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "サトーとニャル子が外へ出ると、村人たちが怯えていた。革鎧に斧や剣を持った荒くれ者たちが、荷車を囲み、金目のものを出せと喚いている。"
+          "rawText": "サトーとニアが外へ出ると、村人たちが怯えていた。革鎧に斧や剣を持った荒くれ者たちが、荷車を囲み、金目のものを出せと喚いている。"
         },
         {
           "id": "scene-003-beat-008",
@@ -562,7 +562,7 @@ window.STORY_DATA = {
           "id": "scene-003-beat-010",
           "index": 9,
           "kind": "narration",
-          "rawText": "ニャル子が小声で言う。"
+          "rawText": "ニアが小声で言う。"
         },
         {
           "id": "scene-003-beat-011",
@@ -706,7 +706,7 @@ window.STORY_DATA = {
           "id": "scene-003-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "ニャル子が飛び跳ねた。"
+          "rawText": "ニアが飛び跳ねた。"
         },
         {
           "id": "scene-003-beat-035",
@@ -832,7 +832,7 @@ window.STORY_DATA = {
           "id": "scene-003-beat-055",
           "index": 54,
           "kind": "narration",
-          "rawText": "ニャル子が横でにこにこしている。"
+          "rawText": "ニアが横でにこにこしている。"
         },
         {
           "id": "scene-003-beat-056",
@@ -892,7 +892,7 @@ window.STORY_DATA = {
           "id": "scene-003-beat-065",
           "index": 64,
           "kind": "narration",
-          "rawText": "ニャル子が、そっと袖を引いた。"
+          "rawText": "ニアが、そっと袖を引いた。"
         },
         {
           "id": "scene-003-beat-066",
@@ -964,7 +964,7 @@ window.STORY_DATA = {
           "id": "scene-003-beat-077",
           "index": 76,
           "kind": "emphasis",
-          "rawText": "この世界では、静かに生きようとしても、きっとそう簡単にはいかない。だが、隣にニャル子がいて、美味い飯があって、必要ならヒゲで全部なんとかできるのなら――"
+          "rawText": "この世界では、静かに生きようとしても、きっとそう簡単にはいかない。だが、隣にニアがいて、美味い飯があって、必要ならヒゲで全部なんとかできるのなら――"
         },
         {
           "id": "scene-003-beat-078",
@@ -976,7 +976,7 @@ window.STORY_DATA = {
           "id": "scene-003-beat-079",
           "index": 78,
           "kind": "narration",
-          "rawText": "そしてこうして、ヒゲ魔法のサトーと猫耳メイドニャル子の、ちょっと無双でだいぶのんびりした異世界生活が始まったのである。"
+          "rawText": "そしてこうして、ヒゲ魔法のサトーと猫耳メイドニアの、ちょっと無双でだいぶのんびりした異世界生活が始まったのである。"
         }
       ]
     },
@@ -1003,7 +1003,7 @@ window.STORY_DATA = {
           "id": "scene-004-beat-002",
           "index": 1,
           "kind": "narration",
-          "rawText": "村の広場に行くと、白ひげを蓄えた小柄な老人が、両手を擦り合わせながら待っていた。後ろにはなぜかニャル子もいる。しかもやたら期待に満ちた顔で。"
+          "rawText": "村の広場に行くと、白ひげを蓄えた小柄な老人が、両手を擦り合わせながら待っていた。後ろにはなぜかニアもいる。しかもやたら期待に満ちた顔で。"
         },
         {
           "id": "scene-004-beat-003",
@@ -1081,7 +1081,7 @@ window.STORY_DATA = {
           "id": "scene-004-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子が横からすっと口を挟む。"
+          "rawText": "ニアが横からすっと口を挟む。"
         },
         {
           "id": "scene-004-beat-016",
@@ -1159,7 +1159,7 @@ window.STORY_DATA = {
           "id": "scene-004-beat-028",
           "index": 27,
           "kind": "narration",
-          "rawText": "ニャル子は目を逸らした。"
+          "rawText": "ニアは目を逸らした。"
         },
         {
           "id": "scene-004-beat-029",
@@ -1243,7 +1243,7 @@ window.STORY_DATA = {
           "id": "scene-004-beat-042",
           "index": 41,
           "kind": "narration",
-          "rawText": "ニャル子は感動のあまり尻尾をぶんぶん振っていた。"
+          "rawText": "ニアは感動のあまり尻尾をぶんぶん振っていた。"
         },
         {
           "id": "scene-004-beat-043",
@@ -1326,10 +1326,10 @@ window.STORY_DATA = {
       "chapterKey": "chapter-1",
       "chapterLabel": "第1章",
       "chapterTitle": "第一章　はじまり",
-      "title": "第五話　ニャル子、当然のように同居する",
+      "title": "第五話　ニア、当然のように同居する",
       "summary": "新居の初日。サトーが玄関に立ち、「よし、これで一人でのんびり――」と呟いた瞬間だった。",
       "image": "./images/episodes/scene-005.webp",
-      "alt": "第一章　はじまりの第五話　ニャル子、当然のように同居するをイメージしたビジュアルカード",
+      "alt": "第一章　はじまりの第五話　ニア、当然のように同居するをイメージしたビジュアルカード",
       "beatCount": 74,
       "beats": [
         {
@@ -1366,7 +1366,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-006",
           "index": 5,
           "kind": "narration",
-          "rawText": "ニャル子が、大きな荷物を抱えて入ってきた。"
+          "rawText": "ニアが、大きな荷物を抱えて入ってきた。"
         },
         {
           "id": "scene-005-beat-007",
@@ -1438,7 +1438,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-018",
           "index": 17,
           "kind": "narration",
-          "rawText": "ニャル子は勝ち誇った顔をした。"
+          "rawText": "ニアは勝ち誇った顔をした。"
         },
         {
           "id": "scene-005-beat-019",
@@ -1462,7 +1462,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-022",
           "index": 21,
           "kind": "narration",
-          "rawText": "正直、ニャル子がいると賑やかだし、話し相手にもなる。何より、この世界の常識に疎いサトーにとって、土地勘のある案内人はありがたい。"
+          "rawText": "正直、ニアがいると賑やかだし、話し相手にもなる。何より、この世界の常識に疎いサトーにとって、土地勘のある案内人はありがたい。"
         },
         {
           "id": "scene-005-beat-023",
@@ -1480,7 +1480,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "ニャル子はぴょんと跳ねた。"
+          "rawText": "ニアはぴょんと跳ねた。"
         },
         {
           "id": "scene-005-beat-026",
@@ -1522,7 +1522,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-032",
           "index": 31,
           "kind": "narration",
-          "rawText": "その理屈はよくわからなかったが、勢いに押し切られる形で、ニャル子の同居はあっさり決まった。"
+          "rawText": "その理屈はよくわからなかったが、勢いに押し切られる形で、ニアの同居はあっさり決まった。"
         },
         {
           "id": "scene-005-beat-033",
@@ -1534,7 +1534,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "新しい家の食卓には、湯気の立つシチューと焼きたてのパン、香草のサラダが並んでいた。ニャル子が腕によりをかけたらしい。"
+          "rawText": "新しい家の食卓には、湯気の立つシチューと焼きたてのパン、香草のサラダが並んでいた。ニアが腕によりをかけたらしい。"
         },
         {
           "id": "scene-005-beat-035",
@@ -1582,7 +1582,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-042",
           "index": 41,
           "kind": "narration",
-          "rawText": "ニャル子は心底嬉しそうに笑った。"
+          "rawText": "ニアは心底嬉しそうに笑った。"
         },
         {
           "id": "scene-005-beat-043",
@@ -1606,7 +1606,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-046",
           "index": 45,
           "kind": "narration",
-          "rawText": "小川のせせらぎ。虫の声。遠くの森を撫でる夜風。その隣に、マグカップを両手で持ったニャル子がちょこんと座る。"
+          "rawText": "小川のせせらぎ。虫の声。遠くの森を撫でる夜風。その隣に、マグカップを両手で持ったニアがちょこんと座る。"
         },
         {
           "id": "scene-005-beat-047",
@@ -1642,7 +1642,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-052",
           "index": 51,
           "kind": "narration",
-          "rawText": "ニャル子がふいに、こちらを見上げる。"
+          "rawText": "ニアがふいに、こちらを見上げる。"
         },
         {
           "id": "scene-005-beat-053",
@@ -1690,7 +1690,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-060",
           "index": 59,
           "kind": "narration",
-          "rawText": "ニャル子は、にぱっと笑った。"
+          "rawText": "ニアは、にぱっと笑った。"
         },
         {
           "id": "scene-005-beat-061",
@@ -1750,7 +1750,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-070",
           "index": 69,
           "kind": "narration",
-          "rawText": "この世界で何が待っているのかはわからない。だが少なくとも今は、この家があって、そばにニャル子がいて、飯がうまい。"
+          "rawText": "この世界で何が待っているのかはわからない。だが少なくとも今は、この家があって、そばにニアがいて、飯がうまい。"
         },
         {
           "id": "scene-005-beat-071",
@@ -1774,7 +1774,7 @@ window.STORY_DATA = {
           "id": "scene-005-beat-074",
           "index": 73,
           "kind": "narration",
-          "rawText": "こうしてサトーは、ヒゲ魔法で無双できるのに、できるだけ穏やかに暮らしたい男として、猫耳メイドニャル子とともに、新しい日々を始めていくのだった。"
+          "rawText": "こうしてサトーは、ヒゲ魔法で無双できるのに、できるだけ穏やかに暮らしたい男として、猫耳メイドニアとともに、新しい日々を始めていくのだった。"
         }
       ]
     },
@@ -1819,7 +1819,7 @@ window.STORY_DATA = {
           "id": "scene-006-beat-005",
           "index": 4,
           "kind": "narration",
-          "rawText": "朝食の片付けをしていたニャル子が、呆れ半分、楽しげ半分の顔で言った。"
+          "rawText": "朝食の片付けをしていたニアが、呆れ半分、楽しげ半分の顔で言った。"
         },
         {
           "id": "scene-006-beat-006",
@@ -1885,7 +1885,7 @@ window.STORY_DATA = {
           "id": "scene-006-beat-016",
           "index": 15,
           "kind": "narration",
-          "rawText": "ニャル子の猫耳がぴくりと動く。"
+          "rawText": "ニアの猫耳がぴくりと動く。"
         },
         {
           "id": "scene-006-beat-017",
@@ -1921,7 +1921,7 @@ window.STORY_DATA = {
           "id": "scene-006-beat-022",
           "index": 21,
           "kind": "narration",
-          "rawText": "ニャル子がすっと目を細める。"
+          "rawText": "ニアがすっと目を細める。"
         },
         {
           "id": "scene-006-beat-023",
@@ -1969,7 +1969,7 @@ window.STORY_DATA = {
           "id": "scene-006-beat-030",
           "index": 29,
           "kind": "narration",
-          "rawText": "本音を言えば、関わりたくない。できれば畑を耕し、のんびり昼寝をし、ニャル子の飯を食って生きていたい。だが、村の近くに危険があるとなれば話は別だ。"
+          "rawText": "本音を言えば、関わりたくない。できれば畑を耕し、のんびり昼寝をし、ニアの飯を食って生きていたい。だが、村の近くに危険があるとなれば話は別だ。"
         },
         {
           "id": "scene-006-beat-031",
@@ -1993,7 +1993,7 @@ window.STORY_DATA = {
           "id": "scene-006-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "ニャル子がぴしっと言った。"
+          "rawText": "ニアがぴしっと言った。"
         },
         {
           "id": "scene-006-beat-035",
@@ -2023,13 +2023,13 @@ window.STORY_DATA = {
           "id": "scene-006-beat-039",
           "index": 38,
           "kind": "narration",
-          "rawText": "ニャル子は少しだけ得意げに胸を張った。"
+          "rawText": "ニアは少しだけ得意げに胸を張った。"
         },
         {
           "id": "scene-006-beat-040",
           "index": 39,
           "kind": "narration",
-          "rawText": "こうして、サトーとニャル子の初ダンジョン偵察が決まった。"
+          "rawText": "こうして、サトーとニアの初ダンジョン偵察が決まった。"
         }
       ]
     },
@@ -2056,7 +2056,7 @@ window.STORY_DATA = {
           "id": "scene-007-beat-002",
           "index": 1,
           "kind": "narration",
-          "rawText": "サトーは村で借りた丈夫な革の上着を羽織り、腰には短剣を一本だけ差した。使うつもりはほとんどない。主武装は当然ヒゲだ。ニャル子は小型の革バッグに薬草、保存食、火打ち石、小さな地図帳のようなものを詰めている。"
+          "rawText": "サトーは村で借りた丈夫な革の上着を羽織り、腰には短剣を一本だけ差した。使うつもりはほとんどない。主武装は当然ヒゲだ。ニアは小型の革バッグに薬草、保存食、火打ち石、小さな地図帳のようなものを詰めている。"
         },
         {
           "id": "scene-007-beat-003",
@@ -2116,7 +2116,7 @@ window.STORY_DATA = {
           "id": "scene-007-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "ニャル子が小声で言う。"
+          "rawText": "ニアが小声で言う。"
         },
         {
           "id": "scene-007-beat-013",
@@ -2260,7 +2260,7 @@ window.STORY_DATA = {
           "id": "scene-007-beat-036",
           "index": 35,
           "kind": "narration",
-          "rawText": "ニャル子はサトーの袖をつまんだ。"
+          "rawText": "ニアはサトーの袖をつまんだ。"
         },
         {
           "id": "scene-007-beat-037",
@@ -2371,7 +2371,7 @@ window.STORY_DATA = {
           "id": "scene-008-beat-011",
           "index": 10,
           "kind": "narration",
-          "rawText": "ニャル子が耳を立てる。"
+          "rawText": "ニアが耳を立てる。"
         },
         {
           "id": "scene-008-beat-012",
@@ -2425,7 +2425,7 @@ window.STORY_DATA = {
           "id": "scene-008-beat-020",
           "index": 19,
           "kind": "narration",
-          "rawText": "ニャル子が小声で答える。"
+          "rawText": "ニアが小声で答える。"
         },
         {
           "id": "scene-008-beat-021",
@@ -2545,7 +2545,7 @@ window.STORY_DATA = {
           "id": "scene-008-beat-040",
           "index": 39,
           "kind": "narration",
-          "rawText": "ニャル子が近づいて覗き込む。"
+          "rawText": "ニアが近づいて覗き込む。"
         },
         {
           "id": "scene-008-beat-041",
@@ -2623,7 +2623,7 @@ window.STORY_DATA = {
           "id": "scene-008-beat-053",
           "index": 52,
           "kind": "narration",
-          "rawText": "ニャル子の耳がぴんと立つ。"
+          "rawText": "ニアの耳がぴんと立つ。"
         },
         {
           "id": "scene-008-beat-054",
@@ -2695,7 +2695,7 @@ window.STORY_DATA = {
           "id": "scene-008-beat-065",
           "index": 64,
           "kind": "narration",
-          "rawText": "ニャル子はきらきらした目で言った。"
+          "rawText": "ニアはきらきらした目で言った。"
         },
         {
           "id": "scene-008-beat-066",
@@ -2806,7 +2806,7 @@ window.STORY_DATA = {
           "id": "scene-009-beat-011",
           "index": 10,
           "kind": "narration",
-          "rawText": "ニャル子が目を細める。"
+          "rawText": "ニアが目を細める。"
         },
         {
           "id": "scene-009-beat-012",
@@ -2902,7 +2902,7 @@ window.STORY_DATA = {
           "id": "scene-009-beat-027",
           "index": 26,
           "kind": "narration",
-          "rawText": "ニャル子が息をのむ。"
+          "rawText": "ニアが息をのむ。"
         },
         {
           "id": "scene-009-beat-028",
@@ -2986,7 +2986,7 @@ window.STORY_DATA = {
           "id": "scene-009-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "ニャル子は拳を握った。"
+          "rawText": "ニアは拳を握った。"
         },
         {
           "id": "scene-009-beat-042",
@@ -3082,7 +3082,7 @@ window.STORY_DATA = {
           "id": "scene-009-beat-057",
           "index": 56,
           "kind": "narration",
-          "rawText": "ニャル子が飛び跳ねた。"
+          "rawText": "ニアが飛び跳ねた。"
         },
         {
           "id": "scene-009-beat-058",
@@ -3148,7 +3148,7 @@ window.STORY_DATA = {
           "id": "scene-009-beat-068",
           "index": 67,
           "kind": "narration",
-          "rawText": "ニャル子が食い気味に言う。"
+          "rawText": "ニアが食い気味に言う。"
         },
         {
           "id": "scene-009-beat-069",
@@ -3277,7 +3277,7 @@ window.STORY_DATA = {
           "id": "scene-010-beat-006",
           "index": 5,
           "kind": "narration",
-          "rawText": "ニャル子も真顔になる。"
+          "rawText": "ニアも真顔になる。"
         },
         {
           "id": "scene-010-beat-007",
@@ -3331,7 +3331,7 @@ window.STORY_DATA = {
           "id": "scene-010-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子が階段の下の闇を見つめる。"
+          "rawText": "ニアが階段の下の闇を見つめる。"
         },
         {
           "id": "scene-010-beat-016",
@@ -3451,7 +3451,7 @@ window.STORY_DATA = {
           "id": "scene-010-beat-035",
           "index": 34,
           "kind": "narration",
-          "rawText": "ニャル子が笑う。"
+          "rawText": "ニアが笑う。"
         },
         {
           "id": "scene-010-beat-036",
@@ -3487,7 +3487,7 @@ window.STORY_DATA = {
           "id": "scene-010-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "ニャル子は優しく笑った。"
+          "rawText": "ニアは優しく笑った。"
         },
         {
           "id": "scene-010-beat-042",
@@ -3511,7 +3511,7 @@ window.STORY_DATA = {
           "id": "scene-010-beat-045",
           "index": 44,
           "kind": "narration",
-          "rawText": "腕の中のしろたまは温かい。隣には猫耳メイドのニャル子。そしてこれから、森のダンジョンの謎が待っている。"
+          "rawText": "腕の中のしろたまは温かい。隣には猫耳メイドのニア。そしてこれから、森のダンジョンの謎が待っている。"
         },
         {
           "id": "scene-010-beat-046",
@@ -3529,7 +3529,7 @@ window.STORY_DATA = {
           "id": "scene-010-beat-048",
           "index": 47,
           "kind": "narration",
-          "rawText": "こうして、サトーとニャル子、そして新たなもふもふ仲間しろたまは、村の近くに現れた謎のダンジョンへ、少しずつ踏み込んでいくことになる。"
+          "rawText": "こうして、サトーとニア、そして新たなもふもふ仲間しろたまは、村の近くに現れた謎のダンジョンへ、少しずつ踏み込んでいくことになる。"
         },
         {
           "id": "scene-010-beat-049",
@@ -3547,7 +3547,7 @@ window.STORY_DATA = {
       "chapterLabel": "第3章",
       "chapterTitle": "第三章　しろたま覚醒と、森のダンジョン攻略編",
       "title": "第十一話　もふもふは、ただのもふもふではなかった",
-      "summary": "森のダンジョンから戻ったその日の夕方。サトーたちは新居の食卓を囲んでいた。テーブルの上には、ニャル子特製のクリーム煮と焼きたてのパン、温野菜…",
+      "summary": "森のダンジョンから戻ったその日の夕方。サトーたちは新居の食卓を囲んでいた。テーブルの上には、ニア特製のクリーム煮と焼きたてのパン、温野菜…",
       "image": "./images/episodes/scene-011.webp",
       "alt": "第三章　しろたま覚醒と、森のダンジョン攻略編の第十一話　もふもふは、ただのもふもふではなかったをイメージしたビジュアルカード",
       "beatCount": 56,
@@ -3562,7 +3562,7 @@ window.STORY_DATA = {
           "id": "scene-011-beat-002",
           "index": 1,
           "kind": "narration",
-          "rawText": "テーブルの上には、ニャル子特製のクリーム煮と焼きたてのパン、温野菜、それからしろたま用に小皿に分けられた刻み肉と柔らかく煮た根菜が並んでいる。"
+          "rawText": "テーブルの上には、ニア特製のクリーム煮と焼きたてのパン、温野菜、それからしろたま用に小皿に分けられた刻み肉と柔らかく煮た根菜が並んでいる。"
         },
         {
           "id": "scene-011-beat-003",
@@ -3616,7 +3616,7 @@ window.STORY_DATA = {
           "id": "scene-011-beat-011",
           "index": 10,
           "kind": "dialogue",
-          "rawText": "「なあニャル子」"
+          "rawText": "「なあニア」"
         },
         {
           "id": "scene-011-beat-012",
@@ -3634,7 +3634,7 @@ window.STORY_DATA = {
           "id": "scene-011-beat-014",
           "index": 13,
           "kind": "narration",
-          "rawText": "ニャル子は首をかしげる。"
+          "rawText": "ニアは首をかしげる。"
         },
         {
           "id": "scene-011-beat-015",
@@ -3658,7 +3658,7 @@ window.STORY_DATA = {
           "id": "scene-011-beat-018",
           "index": 17,
           "kind": "narration",
-          "rawText": "ニャル子は少し真面目な顔になった。"
+          "rawText": "ニアは少し真面目な顔になった。"
         },
         {
           "id": "scene-011-beat-019",
@@ -3778,7 +3778,7 @@ window.STORY_DATA = {
           "id": "scene-011-beat-038",
           "index": 37,
           "kind": "narration",
-          "rawText": "そのとき、台所からニャル子が顔を出した。"
+          "rawText": "そのとき、台所からニアが顔を出した。"
         },
         {
           "id": "scene-011-beat-039",
@@ -3796,7 +3796,7 @@ window.STORY_DATA = {
           "id": "scene-011-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "ニャル子が固まる。"
+          "rawText": "ニアが固まる。"
         },
         {
           "id": "scene-011-beat-042",
@@ -3814,7 +3814,7 @@ window.STORY_DATA = {
           "id": "scene-011-beat-044",
           "index": 43,
           "kind": "narration",
-          "rawText": "ニャル子はぱたぱたと駆け寄ってきた。"
+          "rawText": "ニアはぱたぱたと駆け寄ってきた。"
         },
         {
           "id": "scene-011-beat-045",
@@ -3919,7 +3919,7 @@ window.STORY_DATA = {
           "id": "scene-012-beat-003",
           "index": 2,
           "kind": "narration",
-          "rawText": "サトーは革鎧を少し補強し、背中に簡易の荷袋を背負っていた。中には水、干し肉、ロープ、布、火打ち石、そしてニャル子が作った「すごく効くらしい薬草団子」が入っている。"
+          "rawText": "サトーは革鎧を少し補強し、背中に簡易の荷袋を背負っていた。中には水、干し肉、ロープ、布、火打ち石、そしてニアが作った「すごく効くらしい薬草団子」が入っている。"
         },
         {
           "id": "scene-012-beat-004",
@@ -4033,7 +4033,7 @@ window.STORY_DATA = {
           "id": "scene-012-beat-022",
           "index": 21,
           "kind": "narration",
-          "rawText": "ニャル子もぴたりと止まった。"
+          "rawText": "ニアもぴたりと止まった。"
         },
         {
           "id": "scene-012-beat-023",
@@ -4192,7 +4192,7 @@ window.STORY_DATA = {
           "id": "scene-013-beat-005",
           "index": 4,
           "kind": "narration",
-          "rawText": "ニャル子が小声で言う。"
+          "rawText": "ニアが小声で言う。"
         },
         {
           "id": "scene-013-beat-006",
@@ -4378,7 +4378,7 @@ window.STORY_DATA = {
           "id": "scene-013-beat-036",
           "index": 35,
           "kind": "dialogue",
-          "rawText": "「ニャル子！　右へ回れ！」"
+          "rawText": "「ニア！　右へ回れ！」"
         },
         {
           "id": "scene-013-beat-037",
@@ -4414,7 +4414,7 @@ window.STORY_DATA = {
           "id": "scene-013-beat-042",
           "index": 41,
           "kind": "narration",
-          "rawText": "そこへニャル子が横から飛び込んだ。"
+          "rawText": "そこへニアが横から飛び込んだ。"
         },
         {
           "id": "scene-013-beat-043",
@@ -4468,7 +4468,7 @@ window.STORY_DATA = {
           "id": "scene-013-beat-051",
           "index": 50,
           "kind": "narration",
-          "rawText": "ニャル子が短剣を逆手に構える。"
+          "rawText": "ニアが短剣を逆手に構える。"
         },
         {
           "id": "scene-013-beat-052",
@@ -4522,7 +4522,7 @@ window.STORY_DATA = {
           "id": "scene-013-beat-060",
           "index": 59,
           "kind": "narration",
-          "rawText": "ニャル子が肩で息をしながら笑う。"
+          "rawText": "ニアが肩で息をしながら笑う。"
         },
         {
           "id": "scene-013-beat-061",
@@ -4609,7 +4609,7 @@ window.STORY_DATA = {
           "id": "scene-014-beat-005",
           "index": 4,
           "kind": "narration",
-          "rawText": "ニャル子が息を呑む。"
+          "rawText": "ニアが息を呑む。"
         },
         {
           "id": "scene-014-beat-006",
@@ -4699,7 +4699,7 @@ window.STORY_DATA = {
           "id": "scene-014-beat-020",
           "index": 19,
           "kind": "narration",
-          "rawText": "ニャル子は慎重に床を見回しながらうなずく。"
+          "rawText": "ニアは慎重に床を見回しながらうなずく。"
         },
         {
           "id": "scene-014-beat-021",
@@ -4735,7 +4735,7 @@ window.STORY_DATA = {
           "id": "scene-014-beat-026",
           "index": 25,
           "kind": "narration",
-          "rawText": "サトーが石扉の中央に手をかざすと、扉の紋様が淡く光り始めた。それに呼応して、サトーのヒゲもふわりと浮く。しろたまの首環も光り、ニャル子の胸元の鈴までちりんと鳴った。"
+          "rawText": "サトーが石扉の中央に手をかざすと、扉の紋様が淡く光り始めた。それに呼応して、サトーのヒゲもふわりと浮く。しろたまの首環も光り、ニアの胸元の鈴までちりんと鳴った。"
         },
         {
           "id": "scene-014-beat-027",
@@ -4795,7 +4795,7 @@ window.STORY_DATA = {
           "id": "scene-014-beat-036",
           "index": 35,
           "kind": "narration",
-          "rawText": "ニャル子の声が震える。"
+          "rawText": "ニアの声が震える。"
         },
         {
           "id": "scene-014-beat-037",
@@ -4837,7 +4837,7 @@ window.STORY_DATA = {
           "id": "scene-014-beat-043",
           "index": 42,
           "kind": "narration",
-          "rawText": "サトーはとっさに一歩前に出て、ニャル子をかばう位置に立った。ヒゲがふわりと浮き、戦う構えを取る。"
+          "rawText": "サトーはとっさに一歩前に出て、ニアをかばう位置に立った。ヒゲがふわりと浮き、戦う構えを取る。"
         },
         {
           "id": "scene-014-beat-044",
@@ -4909,7 +4909,7 @@ window.STORY_DATA = {
           "id": "scene-014-beat-055",
           "index": 54,
           "kind": "emphasis",
-          "rawText": "この発見が、サトーとニャル子としろたまの冒険を、村の外へ、森の外へ、もっと大きな謎の中へ連れ出す“きっかけ”になる――ということだけだった。"
+          "rawText": "この発見が、サトーとニアとしろたまの冒険を、村の外へ、森の外へ、もっと大きな謎の中へ連れ出す“きっかけ”になる――ということだけだった。"
         }
       ]
     },
@@ -4966,7 +4966,7 @@ window.STORY_DATA = {
           "id": "scene-015-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "ニャル子がぽつりと言った。"
+          "rawText": "ニアがぽつりと言った。"
         },
         {
           "id": "scene-015-beat-008",
@@ -5002,7 +5002,7 @@ window.STORY_DATA = {
           "id": "scene-015-beat-013",
           "index": 12,
           "kind": "narration",
-          "rawText": "ニャル子は少し笑った。"
+          "rawText": "ニアは少し笑った。"
         },
         {
           "id": "scene-015-beat-014",
@@ -5068,13 +5068,13 @@ window.STORY_DATA = {
           "id": "scene-015-beat-024",
           "index": 23,
           "kind": "narration",
-          "rawText": "そしてその中心には、ヒゲ魔法使いのサトー、猫耳メイドのニャル子、そして“感じる力”に目覚めたもふもふ従魔しろたまがいる。"
+          "rawText": "そしてその中心には、ヒゲ魔法使いのサトー、猫耳メイドのニア、そして“感じる力”に目覚めたもふもふ従魔しろたまがいる。"
         },
         {
           "id": "scene-015-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "サトーは、肩の上のしろたまを見てから、隣のニャル子を見た。まだ村の外へ少し足を伸ばしただけなのに、もう以前と同じ暮らしには戻れない気がした。それでも三人なら、次に来るものもきっと越えていける。そんな根拠のない確信だけは、不思議とあった。"
+          "rawText": "サトーは、肩の上のしろたまを見てから、隣のニアを見た。まだ村の外へ少し足を伸ばしただけなのに、もう以前と同じ暮らしには戻れない気がした。それでも三人なら、次に来るものもきっと越えていける。そんな根拠のない確信だけは、不思議とあった。"
         }
       ]
     },
@@ -5107,7 +5107,7 @@ window.STORY_DATA = {
           "id": "scene-016-beat-003",
           "index": 2,
           "kind": "dialogue",
-          "rawText": "「ヒゲの勇者様！　ニャル子殿！　おお、無事でしたか！」"
+          "rawText": "「ヒゲの勇者様！　ニア殿！　おお、無事でしたか！」"
         },
         {
           "id": "scene-016-beat-004",
@@ -5275,7 +5275,7 @@ window.STORY_DATA = {
           "id": "scene-016-beat-031",
           "index": 30,
           "kind": "narration",
-          "rawText": "サトーは無意識にニャル子を見た。ニャル子も、こちらを見ている。その胸元では、小さな鈴が微かに揺れていた。"
+          "rawText": "サトーは無意識にニアを見た。ニアも、こちらを見ている。その胸元では、小さな鈴が微かに揺れていた。"
         },
         {
           "id": "scene-016-beat-032",
@@ -5293,7 +5293,7 @@ window.STORY_DATA = {
           "id": "scene-016-beat-034",
           "index": 33,
           "kind": "dialogue",
-          "rawText": "「……鈴の娘ってのは、ニャル子のことか？」"
+          "rawText": "「……鈴の娘ってのは、ニアのことか？」"
         },
         {
           "id": "scene-016-beat-035",
@@ -5305,7 +5305,7 @@ window.STORY_DATA = {
           "id": "scene-016-beat-036",
           "index": 35,
           "kind": "narration",
-          "rawText": "ニャル子は珍しく、少しだけ声を硬くした。"
+          "rawText": "ニアは珍しく、少しだけ声を硬くした。"
         },
         {
           "id": "scene-016-beat-037",
@@ -5431,7 +5431,7 @@ window.STORY_DATA = {
           "id": "scene-016-beat-057",
           "index": 56,
           "kind": "narration",
-          "rawText": "サトーとニャル子は同時に顔を見合わせた。"
+          "rawText": "サトーとニアは同時に顔を見合わせた。"
         },
         {
           "id": "scene-016-beat-058",
@@ -5602,7 +5602,7 @@ window.STORY_DATA = {
           "id": "scene-017-beat-022",
           "index": 21,
           "kind": "narration",
-          "rawText": "ニャル子が一歩前に出る。"
+          "rawText": "ニアが一歩前に出る。"
         },
         {
           "id": "scene-017-beat-023",
@@ -5959,7 +5959,7 @@ window.STORY_DATA = {
           "id": "scene-018-beat-003",
           "index": 2,
           "kind": "narration",
-          "rawText": "ニャル子が作ったスープはうまい。焼き魚も香ばしい。しろたまも自分用の皿を前に満足そうだ。"
+          "rawText": "ニアが作ったスープはうまい。焼き魚も香ばしい。しろたまも自分用の皿を前に満足そうだ。"
         },
         {
           "id": "scene-018-beat-004",
@@ -5977,7 +5977,7 @@ window.STORY_DATA = {
           "id": "scene-018-beat-006",
           "index": 5,
           "kind": "narration",
-          "rawText": "ニャル子がぽつりと言った。"
+          "rawText": "ニアがぽつりと言った。"
         },
         {
           "id": "scene-018-beat-007",
@@ -6055,7 +6055,7 @@ window.STORY_DATA = {
           "id": "scene-018-beat-019",
           "index": 18,
           "kind": "narration",
-          "rawText": "ニャル子は箸を置いて、まっすぐサトーを見た。"
+          "rawText": "ニアは箸を置いて、まっすぐサトーを見た。"
         },
         {
           "id": "scene-018-beat-020",
@@ -6163,7 +6163,7 @@ window.STORY_DATA = {
           "id": "scene-018-beat-037",
           "index": 36,
           "kind": "narration",
-          "rawText": "サトーもニャル子も固まった。しろたまは全身の毛をぶわっと逆立てる。"
+          "rawText": "サトーもニアも固まった。しろたまは全身の毛をぶわっと逆立てる。"
         },
         {
           "id": "scene-018-beat-038",
@@ -6205,7 +6205,7 @@ window.STORY_DATA = {
           "id": "scene-018-beat-044",
           "index": 43,
           "kind": "narration",
-          "rawText": "最初に口を開いたのはニャル子だった。"
+          "rawText": "最初に口を開いたのはニアだった。"
         },
         {
           "id": "scene-018-beat-045",
@@ -6352,7 +6352,7 @@ window.STORY_DATA = {
           "id": "scene-019-beat-005",
           "index": 4,
           "kind": "dialogue",
-          "rawText": "「昨夜、セレスティア殿から正式な申し出がありましたじゃ。サトー殿、ニャル子殿に、王都での事情聴取と遺構関連資料の閲覧許可が出せるそうです」"
+          "rawText": "「昨夜、セレスティア殿から正式な申し出がありましたじゃ。サトー殿、ニア殿に、王都での事情聴取と遺構関連資料の閲覧許可が出せるそうです」"
         },
         {
           "id": "scene-019-beat-006",
@@ -6412,7 +6412,7 @@ window.STORY_DATA = {
           "id": "scene-019-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子は旅支度を終えていた。荷物は意外と少ない。必要なものだけをまとめている。"
+          "rawText": "ニアは旅支度を終えていた。荷物は意外と少ない。必要なものだけをまとめている。"
         },
         {
           "id": "scene-019-beat-016",
@@ -6448,7 +6448,7 @@ window.STORY_DATA = {
           "id": "scene-019-beat-021",
           "index": 20,
           "kind": "narration",
-          "rawText": "しろたまは小さな革のポーチを首に下げていた。ニャル子の手作りらしい。妙に似合っている。"
+          "rawText": "しろたまは小さな革のポーチを首に下げていた。ニアの手作りらしい。妙に似合っている。"
         },
         {
           "id": "scene-019-beat-022",
@@ -6658,7 +6658,7 @@ window.STORY_DATA = {
           "id": "scene-019-beat-056",
           "index": 55,
           "kind": "narration",
-          "rawText": "ニャル子も元気よく手を振る。"
+          "rawText": "ニアも元気よく手を振る。"
         },
         {
           "id": "scene-019-beat-057",
@@ -6820,7 +6820,7 @@ window.STORY_DATA = {
           "id": "scene-019-beat-083",
           "index": 82,
           "kind": "narration",
-          "rawText": "ニャル子が小声で言った。"
+          "rawText": "ニアが小声で言った。"
         },
         {
           "id": "scene-019-beat-084",
@@ -7039,7 +7039,7 @@ window.STORY_DATA = {
           "id": "scene-020-beat-027",
           "index": 26,
           "kind": "narration",
-          "rawText": "護衛たちが武器を抜く。ニャル子がサトーの腕を引く。しろたまが膨らむように毛を逆立てる。"
+          "rawText": "護衛たちが武器を抜く。ニアがサトーの腕を引く。しろたまが膨らむように毛を逆立てる。"
         },
         {
           "id": "scene-020-beat-028",
@@ -7093,7 +7093,7 @@ window.STORY_DATA = {
           "id": "scene-020-beat-036",
           "index": 35,
           "kind": "narration",
-          "rawText": "ニャル子が息を呑む。"
+          "rawText": "ニアが息を呑む。"
         },
         {
           "id": "scene-020-beat-037",
@@ -7192,7 +7192,7 @@ window.STORY_DATA = {
           "id": "scene-021-beat-006",
           "index": 5,
           "kind": "narration",
-          "rawText": "護衛たちが馬車を後退させ、書記官の青年が慌てて荷台の結晶箱を抱える。ニャル子はサトーの隣に跳び、短剣を抜いて低く構えた。しろたまはサトーの肩から地面へ降り、毛を逆立てて唸るように鳴く。"
+          "rawText": "護衛たちが馬車を後退させ、書記官の青年が慌てて荷台の結晶箱を抱える。ニアはサトーの隣に跳び、短剣を抜いて低く構えた。しろたまはサトーの肩から地面へ降り、毛を逆立てて唸るように鳴く。"
         },
         {
           "id": "scene-021-beat-007",
@@ -7270,7 +7270,7 @@ window.STORY_DATA = {
           "id": "scene-021-beat-019",
           "index": 18,
           "kind": "narration",
-          "rawText": "ニャル子が息をのむ。"
+          "rawText": "ニアが息をのむ。"
         },
         {
           "id": "scene-021-beat-020",
@@ -7468,7 +7468,7 @@ window.STORY_DATA = {
           "id": "scene-021-beat-052",
           "index": 51,
           "kind": "dialogue",
-          "rawText": "「中核部ですにゃ！」とニャル子。「たぶん胸か、頭の円環ですにゃ！」"
+          "rawText": "「中核部ですにゃ！」とニア。「たぶん胸か、頭の円環ですにゃ！」"
         },
         {
           "id": "scene-021-beat-053",
@@ -7537,7 +7537,7 @@ window.STORY_DATA = {
           "id": "scene-022-beat-008",
           "index": 7,
           "kind": "dialogue",
-          "rawText": "「感心してる場合じゃないですにゃ！」とニャル子。「左脚の付け根、地面とつながってるところ、あそこが力の供給路っぽいですにゃ！」"
+          "rawText": "「感心してる場合じゃないですにゃ！」とニア。「左脚の付け根、地面とつながってるところ、あそこが力の供給路っぽいですにゃ！」"
         },
         {
           "id": "scene-022-beat-009",
@@ -7651,7 +7651,7 @@ window.STORY_DATA = {
           "id": "scene-022-beat-027",
           "index": 26,
           "kind": "narration",
-          "rawText": "ニャル子が駆ける。機兵の注意がサトーへ向いている、その側面を縫うように走る。猫耳族の脚力は尋常ではない。岩を蹴り、砕けた車輪を足場にして、一気に接続部へ。"
+          "rawText": "ニアが駆ける。機兵の注意がサトーへ向いている、その側面を縫うように走る。猫耳族の脚力は尋常ではない。岩を蹴り、砕けた車輪を足場にして、一気に接続部へ。"
         },
         {
           "id": "scene-022-beat-028",
@@ -7717,7 +7717,7 @@ window.STORY_DATA = {
           "id": "scene-022-beat-038",
           "index": 37,
           "kind": "narration",
-          "rawText": "空中でニャル子の腰をさらって引き戻す。直後、光弾が放たれ、さっきまでニャル子がいた場所を吹き飛ばした。土煙が舞い、地面が抉れる。"
+          "rawText": "空中でニアの腰をさらって引き戻す。直後、光弾が放たれ、さっきまでニアがいた場所を吹き飛ばした。土煙が舞い、地面が抉れる。"
         },
         {
           "id": "scene-022-beat-039",
@@ -7975,7 +7975,7 @@ window.STORY_DATA = {
           "id": "scene-022-beat-081",
           "index": 80,
           "kind": "narration",
-          "rawText": "ニャル子が呟く。"
+          "rawText": "ニアが呟く。"
         },
         {
           "id": "scene-022-beat-082",
@@ -8044,7 +8044,7 @@ window.STORY_DATA = {
           "id": "scene-023-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "ニャル子が素直に引いていた。"
+          "rawText": "ニアが素直に引いていた。"
         },
         {
           "id": "scene-023-beat-008",
@@ -8146,7 +8146,7 @@ window.STORY_DATA = {
           "id": "scene-023-beat-024",
           "index": 23,
           "kind": "narration",
-          "rawText": "ニャル子が短剣をくるりと回し、肩をすくめる。"
+          "rawText": "ニアが短剣をくるりと回し、肩をすくめる。"
         },
         {
           "id": "scene-023-beat-025",
@@ -8281,7 +8281,7 @@ window.STORY_DATA = {
           "id": "scene-024-beat-012",
           "index": 11,
           "kind": "dialogue",
-          "rawText": "「言いましたにゃ」とニャル子。「“異なる時点”って、時間まで関係してますにゃ？」"
+          "rawText": "「言いましたにゃ」とニア。「“異なる時点”って、時間まで関係してますにゃ？」"
         },
         {
           "id": "scene-024-beat-013",
@@ -8449,7 +8449,7 @@ window.STORY_DATA = {
           "id": "scene-024-beat-040",
           "index": 39,
           "kind": "narration",
-          "rawText": "ニャル子が息を呑む。"
+          "rawText": "ニアが息を呑む。"
         },
         {
           "id": "scene-024-beat-041",
@@ -8593,7 +8593,7 @@ window.STORY_DATA = {
           "id": "scene-024-beat-064",
           "index": 63,
           "kind": "narration",
-          "rawText": "ニャル子が笑った。怖いはずなのに、その目はわくわくもしている。"
+          "rawText": "ニアが笑った。怖いはずなのに、その目はわくわくもしている。"
         },
         {
           "id": "scene-024-beat-065",
@@ -8641,7 +8641,7 @@ window.STORY_DATA = {
           "id": "scene-024-beat-072",
           "index": 71,
           "kind": "narration",
-          "rawText": "位相回廊の分岐点で、サトー、ニャル子、しろたま、セレスティアたちは、ついに“追われる側”として本格的な戦いに突入する。"
+          "rawText": "位相回廊の分岐点で、サトー、ニア、しろたま、セレスティアたちは、ついに“追われる側”として本格的な戦いに突入する。"
         },
         {
           "id": "scene-024-beat-073",
@@ -8716,7 +8716,7 @@ window.STORY_DATA = {
           "id": "scene-025-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "ニャル子がその下へ滑り込む。"
+          "rawText": "ニアがその下へ滑り込む。"
         },
         {
           "id": "scene-025-beat-008",
@@ -8818,7 +8818,7 @@ window.STORY_DATA = {
           "id": "scene-025-beat-024",
           "index": 23,
           "kind": "dialogue",
-          "rawText": "「ニャル子！　胸の裏だ！」"
+          "rawText": "「ニア！　胸の裏だ！」"
         },
         {
           "id": "scene-025-beat-025",
@@ -8842,7 +8842,7 @@ window.STORY_DATA = {
           "id": "scene-025-beat-028",
           "index": 27,
           "kind": "narration",
-          "rawText": "頭上へ大きな網状のヒゲ膜を展開。追跡機たちはそれを避けて散るが、その瞬間に位置がズレる。そこへニャル子が跳ぶ。"
+          "rawText": "頭上へ大きな網状のヒゲ膜を展開。追跡機たちはそれを避けて散るが、その瞬間に位置がズレる。そこへニアが跳ぶ。"
         },
         {
           "id": "scene-025-beat-029",
@@ -9046,7 +9046,7 @@ window.STORY_DATA = {
       "chapterLabel": "第5章",
       "chapterTitle": "第五章　古道の地下遺構と、空から来る追跡者編",
       "title": "第二十六話　開かれる第三の道",
-      "summary": "戦いは拮抗していた。数では相手が上。だが、しろたまの感応と逆接続、ニャル子の機動力、サトーのヒゲ魔法、セレスティアの拘束魔法が噛み合えば押し…",
+      "summary": "戦いは拮抗していた。数では相手が上。だが、しろたまの感応と逆接続、ニアの機動力、サトーのヒゲ魔法、セレスティアの拘束魔法が噛み合えば押し…",
       "image": "./images/episodes/scene-026.webp",
       "alt": "第五章　古道の地下遺構と、空から来る追跡者編の第二十六話　開かれる第三の道をイメージしたビジュアルカード",
       "beatCount": 70,
@@ -9061,7 +9061,7 @@ window.STORY_DATA = {
           "id": "scene-026-beat-002",
           "index": 1,
           "kind": "narration",
-          "rawText": "数では相手が上。だが、しろたまの感応と逆接続、ニャル子の機動力、サトーのヒゲ魔法、セレスティアの拘束魔法が噛み合えば押し返せる。"
+          "rawText": "数では相手が上。だが、しろたまの感応と逆接続、ニアの機動力、サトーのヒゲ魔法、セレスティアの拘束魔法が噛み合えば押し返せる。"
         },
         {
           "id": "scene-026-beat-003",
@@ -9121,7 +9121,7 @@ window.STORY_DATA = {
           "id": "scene-026-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "ニャル子が目を見開く。"
+          "rawText": "ニアが目を見開く。"
         },
         {
           "id": "scene-026-beat-013",
@@ -9193,7 +9193,7 @@ window.STORY_DATA = {
           "id": "scene-026-beat-024",
           "index": 23,
           "kind": "narration",
-          "rawText": "護衛二人が後衛に回り、セレスティアが中央、ニャル子が前衛補助。サトーは最後尾に立ち、追跡機たちを食い止める。"
+          "rawText": "護衛二人が後衛に回り、セレスティアが中央、ニアが前衛補助。サトーは最後尾に立ち、追跡機たちを食い止める。"
         },
         {
           "id": "scene-026-beat-025",
@@ -9205,7 +9205,7 @@ window.STORY_DATA = {
           "id": "scene-026-beat-026",
           "index": 25,
           "kind": "narration",
-          "rawText": "ニャル子が振り返る。"
+          "rawText": "ニアが振り返る。"
         },
         {
           "id": "scene-026-beat-027",
@@ -9391,7 +9391,7 @@ window.STORY_DATA = {
           "id": "scene-026-beat-057",
           "index": 56,
           "kind": "narration",
-          "rawText": "ニャル子がぽかんとした。セレスティアでさえ言葉を失う。"
+          "rawText": "ニアがぽかんとした。セレスティアでさえ言葉を失う。"
         },
         {
           "id": "scene-026-beat-058",
@@ -9526,7 +9526,7 @@ window.STORY_DATA = {
           "id": "scene-027-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "ニャル子が呆然と呟く。"
+          "rawText": "ニアが呆然と呟く。"
         },
         {
           "id": "scene-027-beat-008",
@@ -9610,7 +9610,7 @@ window.STORY_DATA = {
           "id": "scene-027-beat-021",
           "index": 20,
           "kind": "narration",
-          "rawText": "ニャル子も近くにしゃがみ込み、しろたまを撫でた。"
+          "rawText": "ニアも近くにしゃがみ込み、しろたまを撫でた。"
         },
         {
           "id": "scene-027-beat-022",
@@ -9736,7 +9736,7 @@ window.STORY_DATA = {
           "id": "scene-027-beat-042",
           "index": 41,
           "kind": "narration",
-          "rawText": "ニャル子が、小さく鈴を鳴らした。"
+          "rawText": "ニアが、小さく鈴を鳴らした。"
         },
         {
           "id": "scene-027-beat-043",
@@ -9862,7 +9862,7 @@ window.STORY_DATA = {
           "id": "scene-027-beat-063",
           "index": 62,
           "kind": "narration",
-          "rawText": "ニャル子が笑った。"
+          "rawText": "ニアが笑った。"
         },
         {
           "id": "scene-027-beat-064",
@@ -10003,7 +10003,7 @@ window.STORY_DATA = {
           "id": "scene-028-beat-010",
           "index": 9,
           "kind": "narration",
-          "rawText": "ニャル子は辺りを見回していた。彼女の猫耳はぴんと立ち、いつもよりずっと神経質に動いている。"
+          "rawText": "ニアは辺りを見回していた。彼女の猫耳はぴんと立ち、いつもよりずっと神経質に動いている。"
         },
         {
           "id": "scene-028-beat-011",
@@ -10111,7 +10111,7 @@ window.STORY_DATA = {
           "id": "scene-028-beat-028",
           "index": 27,
           "kind": "dialogue",
-          "rawText": "「同感ですにゃ」とニャル子。「地下はだいたい大事なものがあるか、やばいものがあるか、その両方ですにゃ」"
+          "rawText": "「同感ですにゃ」とニア。「地下はだいたい大事なものがあるか、やばいものがあるか、その両方ですにゃ」"
         },
         {
           "id": "scene-028-beat-029",
@@ -10219,7 +10219,7 @@ window.STORY_DATA = {
           "id": "scene-028-beat-046",
           "index": 45,
           "kind": "narration",
-          "rawText": "ニャル子でさえ圧倒されている。"
+          "rawText": "ニアでさえ圧倒されている。"
         },
         {
           "id": "scene-028-beat-047",
@@ -10315,7 +10315,7 @@ window.STORY_DATA = {
           "id": "scene-028-beat-062",
           "index": 61,
           "kind": "narration",
-          "rawText": "ニャル子が首をかしげる。"
+          "rawText": "ニアが首をかしげる。"
         },
         {
           "id": "scene-028-beat-063",
@@ -10426,7 +10426,7 @@ window.STORY_DATA = {
           "id": "scene-029-beat-005",
           "index": 4,
           "kind": "narration",
-          "rawText": "ニャル子が小声で言った。"
+          "rawText": "ニアが小声で言った。"
         },
         {
           "id": "scene-029-beat-006",
@@ -10504,13 +10504,13 @@ window.STORY_DATA = {
           "id": "scene-029-beat-018",
           "index": 17,
           "kind": "narration",
-          "rawText": "ニャル子より少し年上に見える。髪色も服も違う。けれど、耳の形、瞳の丸さ、歩くときに鈴がかすかに鳴るところまで、どこか似ていた。"
+          "rawText": "ニアより少し年上に見える。髪色も服も違う。けれど、耳の形、瞳の丸さ、歩くときに鈴がかすかに鳴るところまで、どこか似ていた。"
         },
         {
           "id": "scene-029-beat-019",
           "index": 18,
           "kind": "narration",
-          "rawText": "ニャル子が、ぴくりと肩を震わせる。"
+          "rawText": "ニアが、ぴくりと肩を震わせる。"
         },
         {
           "id": "scene-029-beat-020",
@@ -10654,7 +10654,7 @@ window.STORY_DATA = {
           "id": "scene-029-beat-043",
           "index": 42,
           "kind": "narration",
-          "rawText": "ニャル子が小さく呟く。"
+          "rawText": "ニアが小さく呟く。"
         },
         {
           "id": "scene-029-beat-044",
@@ -10768,7 +10768,7 @@ window.STORY_DATA = {
           "id": "scene-029-beat-062",
           "index": 61,
           "kind": "narration",
-          "rawText": "その目が、まっすぐニャル子を見た気がした。"
+          "rawText": "その目が、まっすぐニアを見た気がした。"
         },
         {
           "id": "scene-029-beat-063",
@@ -10786,7 +10786,7 @@ window.STORY_DATA = {
           "id": "scene-029-beat-065",
           "index": 64,
           "kind": "narration",
-          "rawText": "その音を聞いた瞬間、ニャル子が頭を押さえた。"
+          "rawText": "その音を聞いた瞬間、ニアが頭を押さえた。"
         },
         {
           "id": "scene-029-beat-066",
@@ -10798,7 +10798,7 @@ window.STORY_DATA = {
           "id": "scene-029-beat-067",
           "index": 66,
           "kind": "dialogue",
-          "rawText": "「ニャル子！？」"
+          "rawText": "「ニア！？」"
         },
         {
           "id": "scene-029-beat-068",
@@ -10839,17 +10839,17 @@ window.STORY_DATA = {
       "chapterKey": "chapter-6",
       "chapterLabel": "第6章",
       "chapterTitle": "第六章　第七座標の記録庫と、サトーに似た“先代”の影編",
-      "title": "第三十話　ニャル子の鈴",
-      "summary": "「ニャル子！」サトーはすぐに肩を支えた。",
+      "title": "第三十話　ニアの鈴",
+      "summary": "「ニア！」サトーはすぐに肩を支えた。",
       "image": "./images/episodes/scene-030.webp",
-      "alt": "第六章　第七座標の記録庫と、サトーに似た“先代”の影編の第三十話　ニャル子の鈴をイメージしたビジュアルカード",
+      "alt": "第六章　第七座標の記録庫と、サトーに似た“先代”の影編の第三十話　ニアの鈴をイメージしたビジュアルカード",
       "beatCount": 115,
       "beats": [
         {
           "id": "scene-030-beat-001",
           "index": 0,
           "kind": "dialogue",
-          "rawText": "「ニャル子！」"
+          "rawText": "「ニア！」"
         },
         {
           "id": "scene-030-beat-002",
@@ -10861,7 +10861,7 @@ window.STORY_DATA = {
           "id": "scene-030-beat-003",
           "index": 2,
           "kind": "narration",
-          "rawText": "ニャル子は座り込んでいたが、しばらくして小さく息を整える。"
+          "rawText": "ニアは座り込んでいたが、しばらくして小さく息を整える。"
         },
         {
           "id": "scene-030-beat-004",
@@ -10891,13 +10891,13 @@ window.STORY_DATA = {
           "id": "scene-030-beat-008",
           "index": 7,
           "kind": "dialogue",
-          "rawText": "「血筋、役割継承、遺構適合……言い方はいくつかあります。でも」セレスティアは真剣な目でニャル子の胸元を見た。「その鈴、ただの装飾ではないかもしれません」"
+          "rawText": "「血筋、役割継承、遺構適合……言い方はいくつかあります。でも」セレスティアは真剣な目でニアの胸元を見た。「その鈴、ただの装飾ではないかもしれません」"
         },
         {
           "id": "scene-030-beat-009",
           "index": 8,
           "kind": "narration",
-          "rawText": "ニャル子は反射的に、自分の胸元の鈴を押さえた。"
+          "rawText": "ニアは反射的に、自分の胸元の鈴を押さえた。"
         },
         {
           "id": "scene-030-beat-010",
@@ -10927,7 +10927,7 @@ window.STORY_DATA = {
           "id": "scene-030-beat-014",
           "index": 13,
           "kind": "narration",
-          "rawText": "ニャル子は少しだけ困った顔になった。"
+          "rawText": "ニアは少しだけ困った顔になった。"
         },
         {
           "id": "scene-030-beat-015",
@@ -10957,13 +10957,13 @@ window.STORY_DATA = {
           "id": "scene-030-beat-019",
           "index": 18,
           "kind": "narration",
-          "rawText": "ニャル子に秘密があるとは思っていなかった。いや、秘密という言い方は違うかもしれない。本人すら知らない、“繋がり”がある。"
+          "rawText": "ニアに秘密があるとは思っていなかった。いや、秘密という言い方は違うかもしれない。本人すら知らない、“繋がり”がある。"
         },
         {
           "id": "scene-030-beat-020",
           "index": 19,
           "kind": "narration",
-          "rawText": "しろたまが、そっとニャル子の膝に前足を置いた。"
+          "rawText": "しろたまが、そっとニアの膝に前足を置いた。"
         },
         {
           "id": "scene-030-beat-021",
@@ -10975,7 +10975,7 @@ window.STORY_DATA = {
           "id": "scene-030-beat-022",
           "index": 21,
           "kind": "narration",
-          "rawText": "ニャル子は少し笑った。"
+          "rawText": "ニアは少し笑った。"
         },
         {
           "id": "scene-030-beat-023",
@@ -11011,7 +11011,7 @@ window.STORY_DATA = {
           "id": "scene-030-beat-028",
           "index": 27,
           "kind": "dialogue",
-          "rawText": "「同感ですにゃ……」とニャル子。「でも、今のうちに見ないと後悔しそうでもありますにゃ」"
+          "rawText": "「同感ですにゃ……」とニア。「でも、今のうちに見ないと後悔しそうでもありますにゃ」"
         },
         {
           "id": "scene-030-beat-029",
@@ -11107,7 +11107,7 @@ window.STORY_DATA = {
           "id": "scene-030-beat-044",
           "index": 43,
           "kind": "narration",
-          "rawText": "サトーは白い石の床に腰を下ろし、背中を柱にもたれさせた。しろたまは膝に乗る。ニャル子は隣に座り、まだ少し元気のない顔で鈴を握っている。"
+          "rawText": "サトーは白い石の床に腰を下ろし、背中を柱にもたれさせた。しろたまは膝に乗る。ニアは隣に座り、まだ少し元気のない顔で鈴を握っている。"
         },
         {
           "id": "scene-030-beat-045",
@@ -11119,7 +11119,7 @@ window.STORY_DATA = {
           "id": "scene-030-beat-046",
           "index": 45,
           "kind": "narration",
-          "rawText": "サトーが静かに聞くと、ニャル子は小さく頷いた。"
+          "rawText": "サトーが静かに聞くと、ニアは小さく頷いた。"
         },
         {
           "id": "scene-030-beat-047",
@@ -11143,7 +11143,7 @@ window.STORY_DATA = {
           "id": "scene-030-beat-050",
           "index": 49,
           "kind": "narration",
-          "rawText": "ニャル子が、ふっと笑う。"
+          "rawText": "ニアが、ふっと笑う。"
         },
         {
           "id": "scene-030-beat-051",
@@ -11173,7 +11173,7 @@ window.STORY_DATA = {
           "id": "scene-030-beat-055",
           "index": 54,
           "kind": "narration",
-          "rawText": "ニャル子は少しだけ目を丸くして、それからいつものようににぱっと笑った。"
+          "rawText": "ニアは少しだけ目を丸くして、それからいつものようににぱっと笑った。"
         },
         {
           "id": "scene-030-beat-056",
@@ -11359,7 +11359,7 @@ window.STORY_DATA = {
           "id": "scene-030-beat-086",
           "index": 85,
           "kind": "narration",
-          "rawText": "ニャル子が小さく息を呑む。"
+          "rawText": "ニアが小さく息を呑む。"
         },
         {
           "id": "scene-030-beat-087",
@@ -11515,7 +11515,7 @@ window.STORY_DATA = {
           "id": "scene-030-beat-112",
           "index": 111,
           "kind": "narration",
-          "rawText": "白の記録で見た先代の影。ニャル子の鈴に隠れた過去。しろたまの“逆接続”という異常な力。そして現れた、敵とも味方とも言えない仮面の案内人。"
+          "rawText": "白の記録で見た先代の影。ニアの鈴に隠れた過去。しろたまの“逆接続”という異常な力。そして現れた、敵とも味方とも言えない仮面の案内人。"
         },
         {
           "id": "scene-030-beat-113",
@@ -11590,7 +11590,7 @@ window.STORY_DATA = {
           "id": "scene-031-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "ニャル子も、まだ胸元の鈴を押さえながら言った。"
+          "rawText": "ニアも、まだ胸元の鈴を押さえながら言った。"
         },
         {
           "id": "scene-031-beat-008",
@@ -11743,7 +11743,7 @@ window.STORY_DATA = {
           "id": "scene-032-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "ニャル子が目を見開く。"
+          "rawText": "ニアが目を見開く。"
         },
         {
           "id": "scene-032-beat-013",
@@ -11893,7 +11893,7 @@ window.STORY_DATA = {
           "id": "scene-032-beat-037",
           "index": 36,
           "kind": "narration",
-          "rawText": "ニャル子が息をのむ。"
+          "rawText": "ニアが息をのむ。"
         },
         {
           "id": "scene-032-beat-038",
@@ -12031,7 +12031,7 @@ window.STORY_DATA = {
           "id": "scene-032-beat-060",
           "index": 59,
           "kind": "dialogue",
-          "rawText": "「一人で全部動かせないようにしてたんですにゃ」とニャル子。「暴走防止ですにゃ」"
+          "rawText": "「一人で全部動かせないようにしてたんですにゃ」とニア。「暴走防止ですにゃ」"
         },
         {
           "id": "scene-032-beat-061",
@@ -12154,7 +12154,7 @@ window.STORY_DATA = {
           "id": "scene-033-beat-014",
           "index": 13,
           "kind": "narration",
-          "rawText": "ニャル子は責めるようにではなく、まっすぐ尋ねた。"
+          "rawText": "ニアは責めるようにではなく、まっすぐ尋ねた。"
         },
         {
           "id": "scene-033-beat-015",
@@ -12274,7 +12274,7 @@ window.STORY_DATA = {
           "id": "scene-033-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "ニャル子がぽかんとする。"
+          "rawText": "ニアがぽかんとする。"
         },
         {
           "id": "scene-033-beat-035",
@@ -12412,7 +12412,7 @@ window.STORY_DATA = {
           "id": "scene-033-beat-057",
           "index": 56,
           "kind": "narration",
-          "rawText": "ニャル子がじっとセレスティアを見る。そして小さく言った。"
+          "rawText": "ニアがじっとセレスティアを見る。そして小さく言った。"
         },
         {
           "id": "scene-033-beat-058",
@@ -12529,7 +12529,7 @@ window.STORY_DATA = {
           "id": "scene-034-beat-010",
           "index": 9,
           "kind": "narration",
-          "rawText": "ニャル子が肩をすくめる。"
+          "rawText": "ニアが肩をすくめる。"
         },
         {
           "id": "scene-034-beat-011",
@@ -12691,7 +12691,7 @@ window.STORY_DATA = {
           "id": "scene-034-beat-037",
           "index": 36,
           "kind": "narration",
-          "rawText": "ニャル子が呟く。"
+          "rawText": "ニアが呟く。"
         },
         {
           "id": "scene-034-beat-038",
@@ -12745,7 +12745,7 @@ window.STORY_DATA = {
           "id": "scene-034-beat-046",
           "index": 45,
           "kind": "dialogue",
-          "rawText": "「たぶんいますにゃ」とニャル子。「だってこういう話、だいたい二陣営じゃ済まないですにゃ」"
+          "rawText": "「たぶんいますにゃ」とニア。「だってこういう話、だいたい二陣営じゃ済まないですにゃ」"
         },
         {
           "id": "scene-034-beat-047",
@@ -12886,7 +12886,7 @@ window.STORY_DATA = {
           "id": "scene-035-beat-014",
           "index": 13,
           "kind": "narration",
-          "rawText": "ニャル子が、少し考えてから言った。"
+          "rawText": "ニアが、少し考えてから言った。"
         },
         {
           "id": "scene-035-beat-015",
@@ -12982,7 +12982,7 @@ window.STORY_DATA = {
           "id": "scene-035-beat-030",
           "index": 29,
           "kind": "narration",
-          "rawText": "ニャル子が鈴に触れながら小さく息を吐く。"
+          "rawText": "ニアが鈴に触れながら小さく息を吐く。"
         },
         {
           "id": "scene-035-beat-031",
@@ -13042,7 +13042,7 @@ window.STORY_DATA = {
           "id": "scene-035-beat-040",
           "index": 39,
           "kind": "narration",
-          "rawText": "ニャル子が顔を上げる。セレスティアも、護衛たちも、しろたまも。"
+          "rawText": "ニアが顔を上げる。セレスティアも、護衛たちも、しろたまも。"
         },
         {
           "id": "scene-035-beat-041",
@@ -13054,7 +13054,7 @@ window.STORY_DATA = {
           "id": "scene-035-beat-042",
           "index": 41,
           "kind": "narration",
-          "rawText": "ニャル子は数秒じっと見て、それから笑った。"
+          "rawText": "ニアは数秒じっと見て、それから笑った。"
         },
         {
           "id": "scene-035-beat-043",
@@ -13237,7 +13237,7 @@ window.STORY_DATA = {
           "id": "scene-036-beat-005",
           "index": 4,
           "kind": "dialogue",
-          "rawText": "「にゃ」とニャル子。「気をつけてですにゃ」"
+          "rawText": "「にゃ」とニア。「気をつけてですにゃ」"
         },
         {
           "id": "scene-036-beat-006",
@@ -13456,7 +13456,7 @@ window.STORY_DATA = {
           "id": "scene-037-beat-014",
           "index": 13,
           "kind": "narration",
-          "rawText": "ニャル子が目を凝らす。"
+          "rawText": "ニアが目を凝らす。"
         },
         {
           "id": "scene-037-beat-015",
@@ -13654,7 +13654,7 @@ window.STORY_DATA = {
           "id": "scene-037-beat-047",
           "index": 46,
           "kind": "narration",
-          "rawText": "ニャル子が青ざめる。"
+          "rawText": "ニアが青ざめる。"
         },
         {
           "id": "scene-037-beat-048",
@@ -13708,7 +13708,7 @@ window.STORY_DATA = {
           "id": "scene-037-beat-056",
           "index": 55,
           "kind": "narration",
-          "rawText": "ニャル子は即答した。"
+          "rawText": "ニアは即答した。"
         },
         {
           "id": "scene-037-beat-057",
@@ -13837,7 +13837,7 @@ window.STORY_DATA = {
           "id": "scene-038-beat-008",
           "index": 7,
           "kind": "narration",
-          "rawText": "ニャル子が目を丸くする。"
+          "rawText": "ニアが目を丸くする。"
         },
         {
           "id": "scene-038-beat-009",
@@ -13915,7 +13915,7 @@ window.STORY_DATA = {
           "id": "scene-038-beat-021",
           "index": 20,
           "kind": "narration",
-          "rawText": "サトーは少しだけ笑った。この緊迫感の中でも、ニャル子のそういうところに救われる。"
+          "rawText": "サトーは少しだけ笑った。この緊迫感の中でも、ニアのそういうところに救われる。"
         },
         {
           "id": "scene-038-beat-022",
@@ -13951,7 +13951,7 @@ window.STORY_DATA = {
           "id": "scene-038-beat-027",
           "index": 26,
           "kind": "dialogue",
-          "rawText": "「二手だ。俺としろたまで上の指揮個体を引っかき回す。ニャル子とセレスティアは下へ行って輸送隊を立て直せ。ただし、無理ならすぐ逃げろ」"
+          "rawText": "「二手だ。俺としろたまで上の指揮個体を引っかき回す。ニアとセレスティアは下へ行って輸送隊を立て直せ。ただし、無理ならすぐ逃げろ」"
         },
         {
           "id": "scene-038-beat-028",
@@ -14059,7 +14059,7 @@ window.STORY_DATA = {
           "id": "scene-038-beat-045",
           "index": 44,
           "kind": "narration",
-          "rawText": "下では、ニャル子とセレスティアが輸送隊へ駆け込んでいた。"
+          "rawText": "下では、ニアとセレスティアが輸送隊へ駆け込んでいた。"
         },
         {
           "id": "scene-038-beat-046",
@@ -14101,7 +14101,7 @@ window.STORY_DATA = {
           "id": "scene-038-beat-052",
           "index": 51,
           "kind": "narration",
-          "rawText": "ニャル子はすでに一台目の馬車の上に飛び乗っていた。"
+          "rawText": "ニアはすでに一台目の馬車の上に飛び乗っていた。"
         },
         {
           "id": "scene-038-beat-053",
@@ -14314,7 +14314,7 @@ window.STORY_DATA = {
           "id": "scene-039-beat-030",
           "index": 29,
           "kind": "narration",
-          "rawText": "ニャル子が振り向く。"
+          "rawText": "ニアが振り向く。"
         },
         {
           "id": "scene-039-beat-031",
@@ -14539,13 +14539,13 @@ window.STORY_DATA = {
           "id": "scene-040-beat-016",
           "index": 15,
           "kind": "narration",
-          "rawText": "金の光が、サトーのヒゲへ反応する。しろたまの首環にも。ニャル子の鈴にも。"
+          "rawText": "金の光が、サトーのヒゲへ反応する。しろたまの首環にも。ニアの鈴にも。"
         },
         {
           "id": "scene-040-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "ニャル子が息を呑む。"
+          "rawText": "ニアが息を呑む。"
         },
         {
           "id": "scene-040-beat-018",
@@ -14659,7 +14659,7 @@ window.STORY_DATA = {
           "id": "scene-040-beat-036",
           "index": 35,
           "kind": "narration",
-          "rawText": "ニャル子が振り返る。"
+          "rawText": "ニアが振り返る。"
         },
         {
           "id": "scene-040-beat-037",
@@ -14842,7 +14842,7 @@ window.STORY_DATA = {
           "id": "scene-041-beat-019",
           "index": 18,
           "kind": "narration",
-          "rawText": "ニャル子が目を輝かせる。"
+          "rawText": "ニアが目を輝かせる。"
         },
         {
           "id": "scene-041-beat-020",
@@ -15016,7 +15016,7 @@ window.STORY_DATA = {
           "id": "scene-041-beat-048",
           "index": 47,
           "kind": "narration",
-          "rawText": "ニャル子が目をきらきらさせる。"
+          "rawText": "ニアが目をきらきらさせる。"
         },
         {
           "id": "scene-041-beat-049",
@@ -15169,7 +15169,7 @@ window.STORY_DATA = {
           "id": "scene-042-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "ニャル子が小声で言う。"
+          "rawText": "ニアが小声で言う。"
         },
         {
           "id": "scene-042-beat-018",
@@ -15331,7 +15331,7 @@ window.STORY_DATA = {
           "id": "scene-042-beat-044",
           "index": 43,
           "kind": "narration",
-          "rawText": "ニャル子が、ゆっくりサトーを見る。"
+          "rawText": "ニアが、ゆっくりサトーを見る。"
         },
         {
           "id": "scene-042-beat-045",
@@ -15385,7 +15385,7 @@ window.STORY_DATA = {
           "id": "scene-042-beat-053",
           "index": 52,
           "kind": "narration",
-          "rawText": "ヒゲ魔法の応答者サトー。鈴と未知の記憶を持つ導き手ニャル子。感応と逆接続に目覚めたしろたま。王都の事情を知るセレスティア。そして今、新たに手に入れた第三鍵《天穿の杖槍》。"
+          "rawText": "ヒゲ魔法の応答者サトー。鈴と未知の記憶を持つ導き手ニア。感応と逆接続に目覚めたしろたま。王都の事情を知るセレスティア。そして今、新たに手に入れた第三鍵《天穿の杖槍》。"
         },
         {
           "id": "scene-042-beat-054",
@@ -15403,7 +15403,7 @@ window.STORY_DATA = {
           "id": "scene-042-beat-056",
           "index": 55,
           "kind": "narration",
-          "rawText": "ニャル子も笑う。"
+          "rawText": "ニアも笑う。"
         },
         {
           "id": "scene-042-beat-057",
@@ -15517,7 +15517,7 @@ window.STORY_DATA = {
           "id": "scene-042-beat-075",
           "index": 74,
           "kind": "narration",
-          "rawText": "ニャル子が目を丸くする。"
+          "rawText": "ニアが目を丸くする。"
         },
         {
           "id": "scene-042-beat-076",
@@ -15658,7 +15658,7 @@ window.STORY_DATA = {
           "id": "scene-043-beat-011",
           "index": 10,
           "kind": "narration",
-          "rawText": "ニャル子は焚き火のそばで膝を抱え、胸元の鈴を指で転がしていた。いつものように明るく振る舞ってはいる。だが、どこか上の空だった。"
+          "rawText": "ニアは焚き火のそばで膝を抱え、胸元の鈴を指で転がしていた。いつものように明るく振る舞ってはいる。だが、どこか上の空だった。"
         },
         {
           "id": "scene-043-beat-012",
@@ -15688,7 +15688,7 @@ window.STORY_DATA = {
           "id": "scene-043-beat-016",
           "index": 15,
           "kind": "narration",
-          "rawText": "ニャル子は少しだけ目を伏せた。"
+          "rawText": "ニアは少しだけ目を伏せた。"
         },
         {
           "id": "scene-043-beat-017",
@@ -15796,7 +15796,7 @@ window.STORY_DATA = {
           "id": "scene-043-beat-034",
           "index": 33,
           "kind": "dialogue",
-          "rawText": "「ですにゃ」とニャル子。「最近、見える人にしか見えない場所、多すぎますにゃ」"
+          "rawText": "「ですにゃ」とニア。「最近、見える人にしか見えない場所、多すぎますにゃ」"
         },
         {
           "id": "scene-043-beat-035",
@@ -15826,7 +15826,7 @@ window.STORY_DATA = {
           "id": "scene-043-beat-039",
           "index": 38,
           "kind": "narration",
-          "rawText": "猫耳メイドのニャル子。もふもふ従魔のしろたま。事情を隠しているが、少なくとも今は味方のセレスティア。そして、自分。"
+          "rawText": "猫耳メイドのニア。もふもふ従魔のしろたま。事情を隠しているが、少なくとも今は味方のセレスティア。そして、自分。"
         },
         {
           "id": "scene-043-beat-040",
@@ -15838,7 +15838,7 @@ window.STORY_DATA = {
           "id": "scene-043-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "ニャル子が顔を上げる。"
+          "rawText": "ニアが顔を上げる。"
         },
         {
           "id": "scene-043-beat-042",
@@ -15868,7 +15868,7 @@ window.STORY_DATA = {
           "id": "scene-043-beat-046",
           "index": 45,
           "kind": "dialogue",
-          "rawText": "「方角感覚が狂いやすい危険地帯ですにゃ」とニャル子が言う。「たぶんわたし、そういうの好きじゃないですにゃ」"
+          "rawText": "「方角感覚が狂いやすい危険地帯ですにゃ」とニアが言う。「たぶんわたし、そういうの好きじゃないですにゃ」"
         },
         {
           "id": "scene-043-beat-047",
@@ -15928,7 +15928,7 @@ window.STORY_DATA = {
           "id": "scene-043-beat-056",
           "index": 55,
           "kind": "narration",
-          "rawText": "そしてその選択が、ニャル子自身の知らない過去に触れる最初の一歩になることを、このとき彼女はまだ知らなかった。"
+          "rawText": "そしてその選択が、ニア自身の知らない過去に触れる最初の一歩になることを、このとき彼女はまだ知らなかった。"
         }
       ]
     },
@@ -15991,7 +15991,7 @@ window.STORY_DATA = {
           "id": "scene-044-beat-008",
           "index": 7,
           "kind": "narration",
-          "rawText": "ニャル子は耳を忙しく動かしていた。"
+          "rawText": "ニアは耳を忙しく動かしていた。"
         },
         {
           "id": "scene-044-beat-009",
@@ -16075,7 +16075,7 @@ window.STORY_DATA = {
           "id": "scene-044-beat-022",
           "index": 21,
           "kind": "dialogue",
-          "rawText": "「嫌いですにゃ」とニャル子。「でも、修道院が隠れるにはちょうどいいですにゃ」"
+          "rawText": "「嫌いですにゃ」とニア。「でも、修道院が隠れるにはちょうどいいですにゃ」"
         },
         {
           "id": "scene-044-beat-023",
@@ -16123,7 +16123,7 @@ window.STORY_DATA = {
           "id": "scene-044-beat-030",
           "index": 29,
           "kind": "dialogue",
-          "rawText": "「しろたま、最近ますます賢いですにゃ」とニャル子。「そのうち喋りそうですにゃ」"
+          "rawText": "「しろたま、最近ますます賢いですにゃ」とニア。「そのうち喋りそうですにゃ」"
         },
         {
           "id": "scene-044-beat-031",
@@ -16291,7 +16291,7 @@ window.STORY_DATA = {
           "id": "scene-044-beat-058",
           "index": 57,
           "kind": "narration",
-          "rawText": "ニャル子が前へ出る。"
+          "rawText": "ニアが前へ出る。"
         },
         {
           "id": "scene-044-beat-059",
@@ -16399,7 +16399,7 @@ window.STORY_DATA = {
           "id": "scene-044-beat-076",
           "index": 75,
           "kind": "narration",
-          "rawText": "その隙にニャル子が踏み込む。"
+          "rawText": "その隙にニアが踏み込む。"
         },
         {
           "id": "scene-044-beat-077",
@@ -16507,7 +16507,7 @@ window.STORY_DATA = {
           "id": "scene-044-beat-094",
           "index": 93,
           "kind": "narration",
-          "rawText": "ニャル子が追い打ちのように敵の首筋へ短剣を突きつける。"
+          "rawText": "ニアが追い打ちのように敵の首筋へ短剣を突きつける。"
         },
         {
           "id": "scene-044-beat-095",
@@ -16615,7 +16615,7 @@ window.STORY_DATA = {
           "id": "scene-044-beat-112",
           "index": 111,
           "kind": "narration",
-          "rawText": "ニャル子は顔を上げる。"
+          "rawText": "ニアは顔を上げる。"
         },
         {
           "id": "scene-044-beat-113",
@@ -16726,7 +16726,7 @@ window.STORY_DATA = {
           "id": "scene-045-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "ニャル子が、その印を見てぴたりと止まった。"
+          "rawText": "ニアが、その印を見てぴたりと止まった。"
         },
         {
           "id": "scene-045-beat-008",
@@ -16768,13 +16768,13 @@ window.STORY_DATA = {
           "id": "scene-045-beat-014",
           "index": 13,
           "kind": "dialogue",
-          "rawText": "「……ニャル子、前に出てみるか」"
+          "rawText": "「……ニア、前に出てみるか」"
         },
         {
           "id": "scene-045-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子は、少しだけ緊張した顔でうなずいた。"
+          "rawText": "ニアは、少しだけ緊張した顔でうなずいた。"
         },
         {
           "id": "scene-045-beat-016",
@@ -16834,7 +16834,7 @@ window.STORY_DATA = {
           "id": "scene-045-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "暗い奥で、老いた片目の修道女がこちらを見ていた。その視線は鋭く、まずセレスティアを見て、次にサトーの背の布包みを見て、最後にニャル子の胸元の鈴で止まる。"
+          "rawText": "暗い奥で、老いた片目の修道女がこちらを見ていた。その視線は鋭く、まずセレスティアを見て、次にサトーの背の布包みを見て、最後にニアの胸元の鈴で止まる。"
         },
         {
           "id": "scene-045-beat-026",
@@ -16918,7 +16918,7 @@ window.STORY_DATA = {
           "id": "scene-045-beat-039",
           "index": 38,
           "kind": "narration",
-          "rawText": "サトーが聞くと、老修道女はニャル子を見た。"
+          "rawText": "サトーが聞くと、老修道女はニアを見た。"
         },
         {
           "id": "scene-045-beat-040",
@@ -16930,7 +16930,7 @@ window.STORY_DATA = {
           "id": "scene-045-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "ニャル子が、かすかに息をのんだ。"
+          "rawText": "ニアが、かすかに息をのんだ。"
         },
         {
           "id": "scene-045-beat-042",
@@ -16978,7 +16978,7 @@ window.STORY_DATA = {
           "id": "scene-045-beat-049",
           "index": 48,
           "kind": "narration",
-          "rawText": "そしてたぶんここには、ニャル子が知らないニャル子自身の話がある。"
+          "rawText": "そしてたぶんここには、ニアが知らないニア自身の話がある。"
         }
       ]
     },
@@ -17041,7 +17041,7 @@ window.STORY_DATA = {
           "id": "scene-046-beat-008",
           "index": 7,
           "kind": "narration",
-          "rawText": "マグダレナの視線は、最初からずっとニャル子に向いていた。"
+          "rawText": "マグダレナの視線は、最初からずっとニアに向いていた。"
         },
         {
           "id": "scene-046-beat-009",
@@ -17053,7 +17053,7 @@ window.STORY_DATA = {
           "id": "scene-046-beat-010",
           "index": 9,
           "kind": "narration",
-          "rawText": "ニャル子は少し迷ってから、胸元の鈴を外し、両手で差し出した。"
+          "rawText": "ニアは少し迷ってから、胸元の鈴を外し、両手で差し出した。"
         },
         {
           "id": "scene-046-beat-011",
@@ -17107,7 +17107,7 @@ window.STORY_DATA = {
           "id": "scene-046-beat-019",
           "index": 18,
           "kind": "narration",
-          "rawText": "ニャル子がぽかんとする。"
+          "rawText": "ニアがぽかんとする。"
         },
         {
           "id": "scene-046-beat-020",
@@ -17173,7 +17173,7 @@ window.STORY_DATA = {
           "id": "scene-046-beat-030",
           "index": 29,
           "kind": "narration",
-          "rawText": "ニャル子は首を振った。"
+          "rawText": "ニアは首を振った。"
         },
         {
           "id": "scene-046-beat-031",
@@ -17239,7 +17239,7 @@ window.STORY_DATA = {
           "id": "scene-046-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "ニャル子は言われるままに導鈴をその窪みに置いた。"
+          "rawText": "ニアは言われるままに導鈴をその窪みに置いた。"
         },
         {
           "id": "scene-046-beat-042",
@@ -17413,7 +17413,7 @@ window.STORY_DATA = {
           "id": "scene-046-beat-070",
           "index": 69,
           "kind": "narration",
-          "rawText": "ニャル子も鈴を手に取り直す。その顔には、さっきまでの戸惑いだけではなく、別の色が混じっていた。"
+          "rawText": "ニアも鈴を手に取り直す。その顔には、さっきまでの戸惑いだけではなく、別の色が混じっていた。"
         },
         {
           "id": "scene-046-beat-071",
@@ -17503,13 +17503,13 @@ window.STORY_DATA = {
           "id": "scene-046-beat-085",
           "index": 84,
           "kind": "narration",
-          "rawText": "王都の偵察騎。追跡者。灰鐘の修道院。ニャル子の鈴の系譜。まだ明かされていない“深い門”。"
+          "rawText": "王都の偵察騎。追跡者。灰鐘の修道院。ニアの鈴の系譜。まだ明かされていない“深い門”。"
         },
         {
           "id": "scene-046-beat-086",
           "index": 85,
           "kind": "narration",
-          "rawText": "そしてそのどちらを選んでも、ニャル子という存在が、ただの猫耳メイドでは終わらないことだけは、もうはっきりしていた。"
+          "rawText": "そしてそのどちらを選んでも、ニアという存在が、ただの猫耳メイドでは終わらないことだけは、もうはっきりしていた。"
         }
       ]
     },
@@ -17572,7 +17572,7 @@ window.STORY_DATA = {
           "id": "scene-047-beat-008",
           "index": 7,
           "kind": "narration",
-          "rawText": "ニャル子が小さく呟く。"
+          "rawText": "ニアが小さく呟く。"
         },
         {
           "id": "scene-047-beat-009",
@@ -17614,7 +17614,7 @@ window.STORY_DATA = {
           "id": "scene-047-beat-015",
           "index": 14,
           "kind": "dialogue",
-          "rawText": "「地下鐘堂で続きを知れば、ニャル子のことも、この修道院のことも、もっと分かるんだな？」"
+          "rawText": "「地下鐘堂で続きを知れば、ニアのことも、この修道院のことも、もっと分かるんだな？」"
         },
         {
           "id": "scene-047-beat-016",
@@ -17686,7 +17686,7 @@ window.STORY_DATA = {
           "id": "scene-047-beat-027",
           "index": 26,
           "kind": "narration",
-          "rawText": "ニャル子が顔を上げる。"
+          "rawText": "ニアが顔を上げる。"
         },
         {
           "id": "scene-047-beat-028",
@@ -17728,7 +17728,7 @@ window.STORY_DATA = {
           "id": "scene-047-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "ニャル子がすぐに言い返す。"
+          "rawText": "ニアがすぐに言い返す。"
         },
         {
           "id": "scene-047-beat-035",
@@ -17764,25 +17764,25 @@ window.STORY_DATA = {
           "id": "scene-047-beat-040",
           "index": 39,
           "kind": "narration",
-          "rawText": "ニャル子がごくりと喉を鳴らした。"
+          "rawText": "ニアがごくりと喉を鳴らした。"
         },
         {
           "id": "scene-047-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "つまり、今度はニャル子自身が中心になるということだ。"
+          "rawText": "つまり、今度はニア自身が中心になるということだ。"
         },
         {
           "id": "scene-047-beat-042",
           "index": 41,
           "kind": "narration",
-          "rawText": "サトーは、少しだけ迷った。ニャル子を一人で危険な地下へ行かせたくはない。"
+          "rawText": "サトーは、少しだけ迷った。ニアを一人で危険な地下へ行かせたくはない。"
         },
         {
           "id": "scene-047-beat-043",
           "index": 42,
           "kind": "narration",
-          "rawText": "それを察したのか、ニャル子は先に言った。"
+          "rawText": "それを察したのか、ニアは先に言った。"
         },
         {
           "id": "scene-047-beat-044",
@@ -17836,7 +17836,7 @@ window.STORY_DATA = {
           "id": "scene-047-beat-052",
           "index": 51,
           "kind": "dialogue",
-          "rawText": "「私がニャル子と地下へ行きます。記録の読み取りと護衛、両方できます」"
+          "rawText": "「私がニアと地下へ行きます。記録の読み取りと護衛、両方できます」"
         },
         {
           "id": "scene-047-beat-053",
@@ -17860,7 +17860,7 @@ window.STORY_DATA = {
           "id": "scene-047-beat-056",
           "index": 55,
           "kind": "dialogue",
-          "rawText": "「ニャル子さんの影響かもしれません」"
+          "rawText": "「ニアさんの影響かもしれません」"
         },
         {
           "id": "scene-047-beat-057",
@@ -17896,7 +17896,7 @@ window.STORY_DATA = {
           "id": "scene-047-beat-062",
           "index": 61,
           "kind": "dialogue",
-          "rawText": "「しろたまはニャル子と行け」"
+          "rawText": "「しろたまはニアと行け」"
         },
         {
           "id": "scene-047-beat-063",
@@ -17920,7 +17920,7 @@ window.STORY_DATA = {
           "id": "scene-047-beat-066",
           "index": 65,
           "kind": "narration",
-          "rawText": "ニャル子は明らかに不満そうだったが、しろたまが必要だというのも分かっているらしい。"
+          "rawText": "ニアは明らかに不満そうだったが、しろたまが必要だというのも分かっているらしい。"
         },
         {
           "id": "scene-047-beat-067",
@@ -17962,13 +17962,13 @@ window.STORY_DATA = {
           "id": "scene-047-beat-073",
           "index": 72,
           "kind": "dialogue",
-          "rawText": "「よし。外は俺が止める。だからニャル子、ちゃんと見てこい。お前が何者なのか、何を持ってるのか」"
+          "rawText": "「よし。外は俺が止める。だからニア、ちゃんと見てこい。お前が何者なのか、何を持ってるのか」"
         },
         {
           "id": "scene-047-beat-074",
           "index": 73,
           "kind": "narration",
-          "rawText": "ニャル子は鈴を握りしめ、真っ直ぐ頷いた。"
+          "rawText": "ニアは鈴を握りしめ、真っ直ぐ頷いた。"
         },
         {
           "id": "scene-047-beat-075",
@@ -18421,7 +18421,7 @@ window.STORY_DATA = {
       "chapterLabel": "第10章",
       "chapterTitle": "第十章　灰鐘院防衛戦と、地下鐘堂の記憶編",
       "title": "第四十九話　地下鐘堂",
-      "summary": "一方その頃。ニャル子、セレスティア、しろたま、そしてマグダレナは、修道院のさらに奥、地下へ降りていた。",
+      "summary": "一方その頃。ニア、セレスティア、しろたま、そしてマグダレナは、修道院のさらに奥、地下へ降りていた。",
       "image": "./images/episodes/scene-049.webp",
       "alt": "第十章　灰鐘院防衛戦と、地下鐘堂の記憶編の第四十九話　地下鐘堂をイメージしたビジュアルカード",
       "beatCount": 34,
@@ -18436,7 +18436,7 @@ window.STORY_DATA = {
           "id": "scene-049-beat-002",
           "index": 1,
           "kind": "narration",
-          "rawText": "ニャル子、セレスティア、しろたま、そしてマグダレナは、修道院のさらに奥、地下へ降りていた。"
+          "rawText": "ニア、セレスティア、しろたま、そしてマグダレナは、修道院のさらに奥、地下へ降りていた。"
         },
         {
           "id": "scene-049-beat-003",
@@ -18526,7 +18526,7 @@ window.STORY_DATA = {
           "id": "scene-049-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "ニャル子は、足を踏み入れた瞬間に息をのんだ。"
+          "rawText": "ニアは、足を踏み入れた瞬間に息をのんだ。"
         },
         {
           "id": "scene-049-beat-018",
@@ -18556,7 +18556,7 @@ window.STORY_DATA = {
           "id": "scene-049-beat-022",
           "index": 21,
           "kind": "narration",
-          "rawText": "しろたまがニャル子の足元で小さく鳴いた。"
+          "rawText": "しろたまがニアの足元で小さく鳴いた。"
         },
         {
           "id": "scene-049-beat-023",
@@ -18592,7 +18592,7 @@ window.STORY_DATA = {
           "id": "scene-049-beat-028",
           "index": 27,
           "kind": "narration",
-          "rawText": "ニャル子は、胸元の導鈴を両手で持ち、鐘の前へ進んだ。"
+          "rawText": "ニアは、胸元の導鈴を両手で持ち、鐘の前へ進んだ。"
         },
         {
           "id": "scene-049-beat-029",
@@ -18628,7 +18628,7 @@ window.STORY_DATA = {
           "id": "scene-049-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "ニャル子の視界が、暗転した。"
+          "rawText": "ニアの視界が、暗転した。"
         }
       ]
     },
@@ -18661,7 +18661,7 @@ window.STORY_DATA = {
           "id": "scene-050-beat-003",
           "index": 2,
           "kind": "narration",
-          "rawText": "ニャル子は、記憶の中で、小さかった。今よりずっと幼い。そして、誰かに抱かれている。"
+          "rawText": "ニアは、記憶の中で、小さかった。今よりずっと幼い。そして、誰かに抱かれている。"
         },
         {
           "id": "scene-050-beat-004",
@@ -18703,7 +18703,7 @@ window.STORY_DATA = {
           "id": "scene-050-beat-010",
           "index": 9,
           "kind": "narration",
-          "rawText": "幼いニャル子は、意味もわからず鈴を握っていた。"
+          "rawText": "幼いニアは、意味もわからず鈴を握っていた。"
         },
         {
           "id": "scene-050-beat-011",
@@ -18739,7 +18739,7 @@ window.STORY_DATA = {
           "id": "scene-050-beat-016",
           "index": 15,
           "kind": "narration",
-          "rawText": "ニャル子の胸が締めつけられる。"
+          "rawText": "ニアの胸が締めつけられる。"
         },
         {
           "id": "scene-050-beat-017",
@@ -18775,7 +18775,7 @@ window.STORY_DATA = {
           "id": "scene-050-beat-022",
           "index": 21,
           "kind": "narration",
-          "rawText": "セレスティアが隣で息を呑む気配がした。だがニャル子の意識は、もう記憶の奔流に引き込まれている。"
+          "rawText": "セレスティアが隣で息を呑む気配がした。だがニアの意識は、もう記憶の奔流に引き込まれている。"
         },
         {
           "id": "scene-050-beat-023",
@@ -18805,7 +18805,7 @@ window.STORY_DATA = {
           "id": "scene-050-beat-027",
           "index": 26,
           "kind": "narration",
-          "rawText": "ニャル子の目が見開かれる。"
+          "rawText": "ニアの目が見開かれる。"
         },
         {
           "id": "scene-050-beat-028",
@@ -18847,7 +18847,7 @@ window.STORY_DATA = {
           "id": "scene-050-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "ニャル子は、息を止めた。"
+          "rawText": "ニアは、息を止めた。"
         },
         {
           "id": "scene-050-beat-035",
@@ -18883,7 +18883,7 @@ window.STORY_DATA = {
           "id": "scene-050-beat-040",
           "index": 39,
           "kind": "narration",
-          "rawText": "ニャル子はその場に膝をついた。"
+          "rawText": "ニアはその場に膝をついた。"
         },
         {
           "id": "scene-050-beat-041",
@@ -18913,13 +18913,13 @@ window.STORY_DATA = {
           "id": "scene-050-beat-045",
           "index": 44,
           "kind": "dialogue",
-          "rawText": "「ニャル子さん！」"
+          "rawText": "「ニアさん！」"
         },
         {
           "id": "scene-050-beat-046",
           "index": 45,
           "kind": "narration",
-          "rawText": "ニャル子は、呼吸を整えようとしていた。でも涙が勝手に出てくる。"
+          "rawText": "ニアは、呼吸を整えようとしていた。でも涙が勝手に出てくる。"
         },
         {
           "id": "scene-050-beat-047",
@@ -19048,13 +19048,13 @@ window.STORY_DATA = {
           "id": "scene-051-beat-016",
           "index": 15,
           "kind": "dialogue",
-          "rawText": "「ニャル子さん、立てますか！」"
+          "rawText": "「ニアさん、立てますか！」"
         },
         {
           "id": "scene-051-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "ニャル子は涙を拭い、鈴を握り直した。"
+          "rawText": "ニアは涙を拭い、鈴を握り直した。"
         },
         {
           "id": "scene-051-beat-018",
@@ -19072,7 +19072,7 @@ window.STORY_DATA = {
           "id": "scene-051-beat-020",
           "index": 19,
           "kind": "narration",
-          "rawText": "マグダレナは、そんなニャル子を見て短く頷いた。"
+          "rawText": "マグダレナは、そんなニアを見て短く頷いた。"
         },
         {
           "id": "scene-051-beat-021",
@@ -19144,7 +19144,7 @@ window.STORY_DATA = {
           "id": "scene-051-beat-032",
           "index": 31,
           "kind": "narration",
-          "rawText": "ニャル子は、胸元の鈴を強く握りしめた。"
+          "rawText": "ニアは、胸元の鈴を強く握りしめた。"
         },
         {
           "id": "scene-051-beat-033",
@@ -19162,13 +19162,13 @@ window.STORY_DATA = {
           "id": "scene-051-beat-035",
           "index": 34,
           "kind": "dialogue",
-          "rawText": "「ニャル子さん！？」"
+          "rawText": "「ニアさん！？」"
         },
         {
           "id": "scene-051-beat-036",
           "index": 35,
           "kind": "narration",
-          "rawText": "セレスティアの声を背に受けながら、ニャル子は巨大な灰鐘を見上げた。"
+          "rawText": "セレスティアの声を背に受けながら、ニアは巨大な灰鐘を見上げた。"
         },
         {
           "id": "scene-051-beat-037",
@@ -19246,7 +19246,7 @@ window.STORY_DATA = {
           "id": "scene-051-beat-049",
           "index": 48,
           "kind": "narration",
-          "rawText": "ニャル子は、震える声で、それでもしっかり言った。"
+          "rawText": "ニアは、震える声で、それでもしっかり言った。"
         },
         {
           "id": "scene-051-beat-050",
@@ -19258,7 +19258,7 @@ window.STORY_DATA = {
           "id": "scene-051-beat-051",
           "index": 50,
           "kind": "narration",
-          "rawText": "外では、第三鍵を持つサトーが灰鐘院を守っている。内では、鈴の系譜を継ぐニャル子が、地下鐘堂で未知の侵入者を止めようとしている。"
+          "rawText": "外では、第三鍵を持つサトーが灰鐘院を守っている。内では、鈴の系譜を継ぐニアが、地下鐘堂で未知の侵入者を止めようとしている。"
         },
         {
           "id": "scene-051-beat-052",
@@ -19270,7 +19270,7 @@ window.STORY_DATA = {
           "id": "scene-051-beat-053",
           "index": 52,
           "kind": "narration",
-          "rawText": "サトーが“開く側”なら、ニャル子は“整え、止める側”なのだと。"
+          "rawText": "サトーが“開く側”なら、ニアは“整え、止める側”なのだと。"
         },
         {
           "id": "scene-051-beat-054",
@@ -19471,7 +19471,7 @@ window.STORY_DATA = {
           "id": "scene-052-beat-030",
           "index": 29,
           "kind": "dialogue",
-          "rawText": "「……ニャル子？」"
+          "rawText": "「……ニア？」"
         },
         {
           "id": "scene-052-beat-031",
@@ -19573,7 +19573,7 @@ window.STORY_DATA = {
       "chapterLabel": "第11章",
       "chapterTitle": "第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編",
       "title": "第五十三話　鐘堂の裂け目",
-      "summary": "地下鐘堂では、空気そのものが張りつめていた。巨大な灰鐘の前。床の円環を裂いて現れた黒い裂け目。そこから伸びた爪は、ニャル子の鈴の音によって一…",
+      "summary": "地下鐘堂では、空気そのものが張りつめていた。巨大な灰鐘の前。床の円環を裂いて現れた黒い裂け目。そこから伸びた爪は、ニアの鈴の音によって一…",
       "image": "./images/episodes/scene-053.webp",
       "alt": "第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編の第五十三話　鐘堂の裂け目をイメージしたビジュアルカード",
       "beatCount": 53,
@@ -19588,7 +19588,7 @@ window.STORY_DATA = {
           "id": "scene-053-beat-002",
           "index": 1,
           "kind": "narration",
-          "rawText": "巨大な灰鐘の前。床の円環を裂いて現れた黒い裂け目。そこから伸びた爪は、ニャル子の鈴の音によって一時的に止められていた。"
+          "rawText": "巨大な灰鐘の前。床の円環を裂いて現れた黒い裂け目。そこから伸びた爪は、ニアの鈴の音によって一時的に止められていた。"
         },
         {
           "id": "scene-053-beat-003",
@@ -19630,7 +19630,7 @@ window.STORY_DATA = {
           "id": "scene-053-beat-009",
           "index": 8,
           "kind": "narration",
-          "rawText": "ニャル子は鈴を握る手に力を込めた。"
+          "rawText": "ニアは鈴を握る手に力を込めた。"
         },
         {
           "id": "scene-053-beat-010",
@@ -19702,7 +19702,7 @@ window.STORY_DATA = {
           "id": "scene-053-beat-021",
           "index": 20,
           "kind": "narration",
-          "rawText": "ニャル子は、そこで理解した。"
+          "rawText": "ニアは、そこで理解した。"
         },
         {
           "id": "scene-053-beat-022",
@@ -19714,7 +19714,7 @@ window.STORY_DATA = {
           "id": "scene-053-beat-023",
           "index": 22,
           "kind": "narration",
-          "rawText": "この裂け目の向こうの存在は、サトーとニャル子、応答者と導き手が“ひとつの組”になる前に、それを切り離したいのだ。"
+          "rawText": "この裂け目の向こうの存在は、サトーとニア、応答者と導き手が“ひとつの組”になる前に、それを切り離したいのだ。"
         },
         {
           "id": "scene-053-beat-024",
@@ -19762,7 +19762,7 @@ window.STORY_DATA = {
           "id": "scene-053-beat-031",
           "index": 30,
           "kind": "narration",
-          "rawText": "ニャル子の背筋に冷たいものが走る。"
+          "rawText": "ニアの背筋に冷たいものが走る。"
         },
         {
           "id": "scene-053-beat-032",
@@ -19792,7 +19792,7 @@ window.STORY_DATA = {
           "id": "scene-053-beat-036",
           "index": 35,
           "kind": "narration",
-          "rawText": "セレスティアが、横目でニャル子を見る。マグダレナも黙って聞いている。"
+          "rawText": "セレスティアが、横目でニアを見る。マグダレナも黙って聞いている。"
         },
         {
           "id": "scene-053-beat-037",
@@ -19804,7 +19804,7 @@ window.STORY_DATA = {
           "id": "scene-053-beat-038",
           "index": 37,
           "kind": "narration",
-          "rawText": "ニャル子は、灰鐘の正面に立った。"
+          "rawText": "ニアは、灰鐘の正面に立った。"
         },
         {
           "id": "scene-053-beat-039",
@@ -19876,7 +19876,7 @@ window.STORY_DATA = {
           "id": "scene-053-beat-050",
           "index": 49,
           "kind": "narration",
-          "rawText": "その瞬間、ニャル子は鈴を胸の前で強く鳴らした。"
+          "rawText": "その瞬間、ニアは鈴を胸の前で強く鳴らした。"
         },
         {
           "id": "scene-053-beat-051",
@@ -20005,7 +20005,7 @@ window.STORY_DATA = {
           "id": "scene-054-beat-016",
           "index": 15,
           "kind": "narration",
-          "rawText": "しろたまの感応。ニャル子の導鈴。その両方が、杖槍の中の眠る機構へ薄く触れている。"
+          "rawText": "しろたまの感応。ニアの導鈴。その両方が、杖槍の中の眠る機構へ薄く触れている。"
         },
         {
           "id": "scene-054-beat-017",
@@ -20269,7 +20269,7 @@ window.STORY_DATA = {
       "chapterLabel": "第11章",
       "chapterTitle": "第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編",
       "title": "第五十五話　髭と鈴のあいだ",
-      "summary": "地下鐘堂では、裂け目がさらに広がっていた。ニャル子の鈴で止めたはずの“監査者”が、今度は鐘堂そのものを逆用しようとしている。灰鐘の響きに、自…",
+      "summary": "地下鐘堂では、裂け目がさらに広がっていた。ニアの鈴で止めたはずの“監査者”が、今度は鐘堂そのものを逆用しようとしている。灰鐘の響きに、自…",
       "image": "./images/episodes/scene-055.webp",
       "alt": "第十一章　髭と鈴の共鳴、灰鐘院攻防の決着編の第五十五話　髭と鈴のあいだをイメージしたビジュアルカード",
       "beatCount": 81,
@@ -20284,7 +20284,7 @@ window.STORY_DATA = {
           "id": "scene-055-beat-002",
           "index": 1,
           "kind": "narration",
-          "rawText": "ニャル子の鈴で止めたはずの“監査者”が、今度は鐘堂そのものを逆用しようとしている。灰鐘の響きに、自分の無音の命令を重ねてきているのだ。"
+          "rawText": "ニアの鈴で止めたはずの“監査者”が、今度は鐘堂そのものを逆用しようとしている。灰鐘の響きに、自分の無音の命令を重ねてきているのだ。"
         },
         {
           "id": "scene-055-beat-003",
@@ -20332,7 +20332,7 @@ window.STORY_DATA = {
           "id": "scene-055-beat-010",
           "index": 9,
           "kind": "narration",
-          "rawText": "ニャル子は、唇を噛んだ。"
+          "rawText": "ニアは、唇を噛んだ。"
         },
         {
           "id": "scene-055-beat-011",
@@ -20374,7 +20374,7 @@ window.STORY_DATA = {
           "id": "scene-055-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "ニャル子は、急に理解した。導鈴はただ“止める”だけではない。道を示し、座標を合わせ、遠くにいる相手と“正しく繋ぐ”ためのものでもある。"
+          "rawText": "ニアは、急に理解した。導鈴はただ“止める”だけではない。道を示し、座標を合わせ、遠くにいる相手と“正しく繋ぐ”ためのものでもある。"
         },
         {
           "id": "scene-055-beat-018",
@@ -20446,7 +20446,7 @@ window.STORY_DATA = {
           "id": "scene-055-beat-029",
           "index": 28,
           "kind": "narration",
-          "rawText": "ニャル子は鐘堂の床の円環を見る。そこに道が見える。今までは見えなかった細い線が。サトーへ繋がる、金と黒と銀の線が。"
+          "rawText": "ニアは鐘堂の床の円環を見る。そこに道が見える。今までは見えなかった細い線が。サトーへ繋がる、金と黒と銀の線が。"
         },
         {
           "id": "scene-055-beat-030",
@@ -20524,7 +20524,7 @@ window.STORY_DATA = {
           "id": "scene-055-beat-042",
           "index": 41,
           "kind": "narration",
-          "rawText": "ニャル子の顔が、泣きそうなほど嬉しそうに崩れた。"
+          "rawText": "ニアの顔が、泣きそうなほど嬉しそうに崩れた。"
         },
         {
           "id": "scene-055-beat-043",
@@ -20554,7 +20554,7 @@ window.STORY_DATA = {
           "id": "scene-055-beat-047",
           "index": 46,
           "kind": "narration",
-          "rawText": "サトーは杖槍を構え、ニャル子の横へ並んだ。"
+          "rawText": "サトーは杖槍を構え、ニアの横へ並んだ。"
         },
         {
           "id": "scene-055-beat-048",
@@ -20578,7 +20578,7 @@ window.STORY_DATA = {
           "id": "scene-055-beat-051",
           "index": 50,
           "kind": "narration",
-          "rawText": "ニャル子は、涙の名残を残したまま笑う。"
+          "rawText": "ニアは、涙の名残を残したまま笑う。"
         },
         {
           "id": "scene-055-beat-052",
@@ -20632,7 +20632,7 @@ window.STORY_DATA = {
           "id": "scene-055-beat-060",
           "index": 59,
           "kind": "narration",
-          "rawText": "サトーは第三鍵へヒゲを絡め、ニャル子は導鈴を胸の前で構えた。金の光。銀の波紋。そしてしろたまの青い感応。"
+          "rawText": "サトーは第三鍵へヒゲを絡め、ニアは導鈴を胸の前で構えた。金の光。銀の波紋。そしてしろたまの青い感応。"
         },
         {
           "id": "scene-055-beat-061",
@@ -20668,7 +20668,7 @@ window.STORY_DATA = {
           "id": "scene-055-beat-066",
           "index": 65,
           "kind": "narration",
-          "rawText": "サトーとニャル子は同時に声を上げた。"
+          "rawText": "サトーとニアは同時に声を上げた。"
         },
         {
           "id": "scene-055-beat-067",
@@ -20710,7 +20710,7 @@ window.STORY_DATA = {
           "id": "scene-055-beat-073",
           "index": 72,
           "kind": "narration",
-          "rawText": "ニャル子が鈴を強く鳴らす。"
+          "rawText": "ニアが鈴を強く鳴らす。"
         },
         {
           "id": "scene-055-beat-074",
@@ -20791,7 +20791,7 @@ window.STORY_DATA = {
           "id": "scene-056-beat-003",
           "index": 2,
           "kind": "narration",
-          "rawText": "サトーは《天穿の杖槍》を床につき、荒く息を吐いた。ニャル子もその場にへたり込み、鈴を抱えるようにして座った。"
+          "rawText": "サトーは《天穿の杖槍》を床につき、荒く息を吐いた。ニアもその場にへたり込み、鈴を抱えるようにして座った。"
         },
         {
           "id": "scene-056-beat-004",
@@ -20875,7 +20875,7 @@ window.STORY_DATA = {
           "id": "scene-056-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "ニャル子は、ゆっくり顔を上げてサトーを見た。"
+          "rawText": "ニアは、ゆっくり顔を上げてサトーを見た。"
         },
         {
           "id": "scene-056-beat-018",
@@ -21055,7 +21055,7 @@ window.STORY_DATA = {
           "id": "scene-056-beat-047",
           "index": 46,
           "kind": "narration",
-          "rawText": "ニャル子は鈴を握り直す。"
+          "rawText": "ニアは鈴を握り直す。"
         },
         {
           "id": "scene-056-beat-048",
@@ -21091,7 +21091,7 @@ window.STORY_DATA = {
           "id": "scene-056-beat-053",
           "index": 52,
           "kind": "dialogue",
-          "rawText": "「でも」ニャル子はまっすぐ言った。「それでも、ニャル子はニャル子ですにゃ」"
+          "rawText": "「でも」ニアはまっすぐ言った。「それでも、ニアはニアですにゃ」"
         },
         {
           "id": "scene-056-beat-054",
@@ -21211,7 +21211,7 @@ window.STORY_DATA = {
           "id": "scene-056-beat-073",
           "index": 72,
           "kind": "narration",
-          "rawText": "灰鐘院を守った。ニャル子の系譜も少し分かった。共鳴もできた。でもそれは、平穏に戻ることではなかった。"
+          "rawText": "灰鐘院を守った。ニアの系譜も少し分かった。共鳴もできた。でもそれは、平穏に戻ることではなかった。"
         },
         {
           "id": "scene-056-beat-074",
@@ -21241,7 +21241,7 @@ window.STORY_DATA = {
           "id": "scene-056-beat-078",
           "index": 77,
           "kind": "narration",
-          "rawText": "ニャル子が目を丸くする。"
+          "rawText": "ニアが目を丸くする。"
         },
         {
           "id": "scene-056-beat-079",
@@ -21277,7 +21277,7 @@ window.STORY_DATA = {
           "id": "scene-056-beat-084",
           "index": 83,
           "kind": "dialogue",
-          "rawText": "「ものすごく嫌ですにゃ」とニャル子。「でも、ちょっとワクワクもしますにゃ」"
+          "rawText": "「ものすごく嫌ですにゃ」とニア。「でも、ちょっとワクワクもしますにゃ」"
         },
         {
           "id": "scene-056-beat-085",
@@ -21313,7 +21313,7 @@ window.STORY_DATA = {
           "id": "scene-056-beat-090",
           "index": 89,
           "kind": "narration",
-          "rawText": "むしろ今ようやく、サトー、ニャル子、しろたまが“ひとつの継承列”として動き始めただけなのだ。"
+          "rawText": "むしろ今ようやく、サトー、ニア、しろたまが“ひとつの継承列”として動き始めただけなのだ。"
         },
         {
           "id": "scene-056-beat-091",
@@ -21400,7 +21400,7 @@ window.STORY_DATA = {
           "id": "scene-057-beat-009",
           "index": 8,
           "kind": "narration",
-          "rawText": "ニャル子はそう言って、灰鐘院の大鍋を器用にかき回した。中では、豆と根菜と干し肉を煮込んだ素朴なスープがことこと音を立てている。普段の村の台所よりずっと大きいが、彼女が立つと妙にしっくりきた。"
+          "rawText": "ニアはそう言って、灰鐘院の大鍋を器用にかき回した。中では、豆と根菜と干し肉を煮込んだ素朴なスープがことこと音を立てている。普段の村の台所よりずっと大きいが、彼女が立つと妙にしっくりきた。"
         },
         {
           "id": "scene-057-beat-010",
@@ -21496,7 +21496,7 @@ window.STORY_DATA = {
           "id": "scene-057-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "その言葉に、ニャル子の手が一瞬だけ止まる。だが彼女はすぐに鍋を混ぜながら言った。"
+          "rawText": "その言葉に、ニアの手が一瞬だけ止まる。だが彼女はすぐに鍋を混ぜながら言った。"
         },
         {
           "id": "scene-057-beat-026",
@@ -21568,7 +21568,7 @@ window.STORY_DATA = {
           "id": "scene-057-beat-037",
           "index": 36,
           "kind": "narration",
-          "rawText": "ニャル子が少しだけ目を丸くする。素直に肯定されるとは思っていなかったらしい。"
+          "rawText": "ニアが少しだけ目を丸くする。素直に肯定されるとは思っていなかったらしい。"
         },
         {
           "id": "scene-057-beat-038",
@@ -21604,7 +21604,7 @@ window.STORY_DATA = {
           "id": "scene-057-beat-043",
           "index": 42,
           "kind": "narration",
-          "rawText": "ニャル子は照れくさそうに笑って、それからいつもの調子に戻った。"
+          "rawText": "ニアは照れくさそうに笑って、それからいつもの調子に戻った。"
         },
         {
           "id": "scene-057-beat-044",
@@ -21697,7 +21697,7 @@ window.STORY_DATA = {
           "id": "scene-058-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "すぐ横で、ニャル子も同じように目の下に少し疲れを残していた。それでも昨日までとは違う。"
+          "rawText": "すぐ横で、ニアも同じように目の下に少し疲れを残していた。それでも昨日までとは違う。"
         },
         {
           "id": "scene-058-beat-008",
@@ -21745,7 +21745,7 @@ window.STORY_DATA = {
           "id": "scene-058-beat-015",
           "index": 14,
           "kind": "dialogue",
-          "rawText": "「でもそれでも、ニャル子はニャル子ですにゃ」"
+          "rawText": "「でもそれでも、ニアはニアですにゃ」"
         },
         {
           "id": "scene-058-beat-016",
@@ -21859,7 +21859,7 @@ window.STORY_DATA = {
           "id": "scene-058-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "ニャル子が身を乗り出す。"
+          "rawText": "ニアが身を乗り出す。"
         },
         {
           "id": "scene-058-beat-035",
@@ -21979,7 +21979,7 @@ window.STORY_DATA = {
           "id": "scene-058-beat-054",
           "index": 53,
           "kind": "narration",
-          "rawText": "ニャル子は鈴を握りしめる。"
+          "rawText": "ニアは鈴を握りしめる。"
         },
         {
           "id": "scene-058-beat-055",
@@ -22084,7 +22084,7 @@ window.STORY_DATA = {
           "id": "scene-059-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "墓地の石碑はどれも風化していた。だが、いくつかには鐘と鈴と門の印が並んでいる。その前を通ると、ニャル子は少しだけ足を止めた。"
+          "rawText": "墓地の石碑はどれも風化していた。だが、いくつかには鐘と鈴と門の印が並んでいる。その前を通ると、ニアは少しだけ足を止めた。"
         },
         {
           "id": "scene-059-beat-008",
@@ -22138,7 +22138,7 @@ window.STORY_DATA = {
           "id": "scene-059-beat-016",
           "index": 15,
           "kind": "narration",
-          "rawText": "マグダレナは、ニャル子の前へ立った。"
+          "rawText": "マグダレナは、ニアの前へ立った。"
         },
         {
           "id": "scene-059-beat-017",
@@ -22192,7 +22192,7 @@ window.STORY_DATA = {
           "id": "scene-059-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "ニャル子は慎重に受け取った。"
+          "rawText": "ニアは慎重に受け取った。"
         },
         {
           "id": "scene-059-beat-026",
@@ -22348,7 +22348,7 @@ window.STORY_DATA = {
           "id": "scene-059-beat-051",
           "index": 50,
           "kind": "narration",
-          "rawText": "ニャル子がぽつりと言う。"
+          "rawText": "ニアがぽつりと言う。"
         },
         {
           "id": "scene-059-beat-052",
@@ -22561,7 +22561,7 @@ window.STORY_DATA = {
           "id": "scene-060-beat-024",
           "index": 23,
           "kind": "narration",
-          "rawText": "ニャル子が跳ぶ。"
+          "rawText": "ニアが跳ぶ。"
         },
         {
           "id": "scene-060-beat-025",
@@ -22657,7 +22657,7 @@ window.STORY_DATA = {
           "id": "scene-060-beat-040",
           "index": 39,
           "kind": "narration",
-          "rawText": "ニャル子が言うと、全員が少し黙った。"
+          "rawText": "ニアが言うと、全員が少し黙った。"
         },
         {
           "id": "scene-060-beat-041",
@@ -22729,7 +22729,7 @@ window.STORY_DATA = {
           "id": "scene-060-beat-052",
           "index": 51,
           "kind": "narration",
-          "rawText": "ニャル子が水面を見る。"
+          "rawText": "ニアが水面を見る。"
         },
         {
           "id": "scene-060-beat-053",
@@ -22822,7 +22822,7 @@ window.STORY_DATA = {
           "id": "scene-061-beat-004",
           "index": 3,
           "kind": "narration",
-          "rawText": "ニャル子が小さく言う。"
+          "rawText": "ニアが小さく言う。"
         },
         {
           "id": "scene-061-beat-005",
@@ -22936,7 +22936,7 @@ window.STORY_DATA = {
           "id": "scene-061-beat-023",
           "index": 22,
           "kind": "narration",
-          "rawText": "ニャル子が鈴を握る。"
+          "rawText": "ニアが鈴を握る。"
         },
         {
           "id": "scene-061-beat-024",
@@ -22972,7 +22972,7 @@ window.STORY_DATA = {
           "id": "scene-061-beat-029",
           "index": 28,
           "kind": "narration",
-          "rawText": "ニャル子の導鈴も鳴る。"
+          "rawText": "ニアの導鈴も鳴る。"
         },
         {
           "id": "scene-061-beat-030",
@@ -23131,7 +23131,7 @@ window.STORY_DATA = {
           "id": "scene-062-beat-006",
           "index": 5,
           "kind": "narration",
-          "rawText": "ニャル子が短剣を抜きながら言う。"
+          "rawText": "ニアが短剣を抜きながら言う。"
         },
         {
           "id": "scene-062-beat-007",
@@ -23239,7 +23239,7 @@ window.STORY_DATA = {
           "id": "scene-062-beat-024",
           "index": 23,
           "kind": "narration",
-          "rawText": "ニャル子が小さく呟く。"
+          "rawText": "ニアが小さく呟く。"
         },
         {
           "id": "scene-062-beat-025",
@@ -23299,7 +23299,7 @@ window.STORY_DATA = {
           "id": "scene-062-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "サトーの背の第三鍵が、布越しに脈打つ。ニャル子の導鈴も小さく鳴る。しろたまの毛も逆立っている。"
+          "rawText": "サトーの背の第三鍵が、布越しに脈打つ。ニアの導鈴も小さく鳴る。しろたまの毛も逆立っている。"
         },
         {
           "id": "scene-062-beat-035",
@@ -23422,7 +23422,7 @@ window.STORY_DATA = {
           "id": "scene-063-beat-006",
           "index": 5,
           "kind": "narration",
-          "rawText": "ニャル子が首をかしげた。"
+          "rawText": "ニアが首をかしげた。"
         },
         {
           "id": "scene-063-beat-007",
@@ -23488,7 +23488,7 @@ window.STORY_DATA = {
           "id": "scene-063-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "ニャル子が、少しだけ怒った顔になる。"
+          "rawText": "ニアが、少しだけ怒った顔になる。"
         },
         {
           "id": "scene-063-beat-018",
@@ -23731,7 +23731,7 @@ window.STORY_DATA = {
           "id": "scene-064-beat-013",
           "index": 12,
           "kind": "narration",
-          "rawText": "ニャル子が即座に返す。"
+          "rawText": "ニアが即座に返す。"
         },
         {
           "id": "scene-064-beat-014",
@@ -23803,7 +23803,7 @@ window.STORY_DATA = {
           "id": "scene-064-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "ニャル子が肩をすくめる。"
+          "rawText": "ニアが肩をすくめる。"
         },
         {
           "id": "scene-064-beat-026",
@@ -23971,7 +23971,7 @@ window.STORY_DATA = {
           "id": "scene-064-beat-053",
           "index": 52,
           "kind": "narration",
-          "rawText": "ニャル子も即答する。"
+          "rawText": "ニアも即答する。"
         },
         {
           "id": "scene-064-beat-054",
@@ -24064,7 +24064,7 @@ window.STORY_DATA = {
           "id": "scene-065-beat-005",
           "index": 4,
           "kind": "narration",
-          "rawText": "サトーを先頭に、ニャル子、しろたま、セレスティア。そして少し遅れて、レギウスとその配下らしき二人が別の橋筋から並走する。"
+          "rawText": "サトーを先頭に、ニア、しろたま、セレスティア。そして少し遅れて、レギウスとその配下らしき二人が別の橋筋から並走する。"
         },
         {
           "id": "scene-065-beat-006",
@@ -24124,7 +24124,7 @@ window.STORY_DATA = {
           "id": "scene-065-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "橋を走りながら、ニャル子が小さく言った。"
+          "rawText": "橋を走りながら、ニアが小さく言った。"
         },
         {
           "id": "scene-065-beat-016",
@@ -24280,7 +24280,7 @@ window.STORY_DATA = {
           "id": "scene-065-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "ニャル子は鈴を構える。"
+          "rawText": "ニアは鈴を構える。"
         },
         {
           "id": "scene-065-beat-042",
@@ -24328,7 +24328,7 @@ window.STORY_DATA = {
           "id": "scene-065-beat-049",
           "index": 48,
           "kind": "dialogue",
-          "rawText": "「右だ！　ニャル子、右を止める！セレスティア、中央の中身を見ろ！レギウス、左を頼む！」"
+          "rawText": "「右だ！　ニア、右を止める！セレスティア、中央の中身を見ろ！レギウス、左を頼む！」"
         },
         {
           "id": "scene-065-beat-050",
@@ -24352,7 +24352,7 @@ window.STORY_DATA = {
           "id": "scene-065-beat-053",
           "index": 52,
           "kind": "narration",
-          "rawText": "サトーのヒゲと第三鍵。ニャル子の鈴。セレスティアの魔法。レギウスの紫の楔。それぞれが水底の守護個体へぶつかる。"
+          "rawText": "サトーのヒゲと第三鍵。ニアの鈴。セレスティアの魔法。レギウスの紫の楔。それぞれが水底の守護個体へぶつかる。"
         },
         {
           "id": "scene-065-beat-054",
@@ -24397,7 +24397,7 @@ window.STORY_DATA = {
           "id": "scene-066-beat-004",
           "index": 3,
           "kind": "narration",
-          "rawText": "ニャル子が横から入る。"
+          "rawText": "ニアが横から入る。"
         },
         {
           "id": "scene-066-beat-005",
@@ -24559,7 +24559,7 @@ window.STORY_DATA = {
           "id": "scene-066-beat-031",
           "index": 30,
           "kind": "narration",
-          "rawText": "ニャル子の鈴が強く鳴る。"
+          "rawText": "ニアの鈴が強く鳴る。"
         },
         {
           "id": "scene-066-beat-032",
@@ -24736,7 +24736,7 @@ window.STORY_DATA = {
           "id": "scene-067-beat-005",
           "index": 4,
           "kind": "narration",
-          "rawText": "ニャル子はそう言いながらも、さすがに少し顔が引きつっている。セレスティアも冷静な顔を崩してはいないが、目だけは完全に警戒モードだ。しろたまは、縁から中をのぞきこんで耳をぴくぴく動かしていた。"
+          "rawText": "ニアはそう言いながらも、さすがに少し顔が引きつっている。セレスティアも冷静な顔を崩してはいないが、目だけは完全に警戒モードだ。しろたまは、縁から中をのぞきこんで耳をぴくぴく動かしていた。"
         },
         {
           "id": "scene-067-beat-006",
@@ -24856,7 +24856,7 @@ window.STORY_DATA = {
           "id": "scene-067-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "ニャル子が鈴を軽く鳴らす。"
+          "rawText": "ニアが鈴を軽く鳴らす。"
         },
         {
           "id": "scene-067-beat-026",
@@ -25033,7 +25033,7 @@ window.STORY_DATA = {
           "id": "scene-068-beat-006",
           "index": 5,
           "kind": "narration",
-          "rawText": "ニャル子が小声で言う。"
+          "rawText": "ニアが小声で言う。"
         },
         {
           "id": "scene-068-beat-007",
@@ -25111,13 +25111,13 @@ window.STORY_DATA = {
           "id": "scene-068-beat-019",
           "index": 18,
           "kind": "narration",
-          "rawText": "途中、いくつかの横道があった。どれも似て見えるが、ニャル子が鈴を鳴らすと“行くべきでない道”がなんとなく浮いてくる。しろたまも、何度か危険を察知した。"
+          "rawText": "途中、いくつかの横道があった。どれも似て見えるが、ニアが鈴を鳴らすと“行くべきでない道”がなんとなく浮いてくる。しろたまも、何度か危険を察知した。"
         },
         {
           "id": "scene-068-beat-020",
           "index": 19,
           "kind": "narration",
-          "rawText": "一度は、水の中に沈んでいた階段が突然起き上がり、逆向きに回転し始めた。ニャル子が止めなければ、そのまま下層ではなく別の閉鎖区画へ送られていたかもしれない。"
+          "rawText": "一度は、水の中に沈んでいた階段が突然起き上がり、逆向きに回転し始めた。ニアが止めなければ、そのまま下層ではなく別の閉鎖区画へ送られていたかもしれない。"
         },
         {
           "id": "scene-068-beat-021",
@@ -25201,7 +25201,7 @@ window.STORY_DATA = {
           "id": "scene-068-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "ニャル子がぼそっと言う。"
+          "rawText": "ニアがぼそっと言う。"
         },
         {
           "id": "scene-068-beat-035",
@@ -25390,7 +25390,7 @@ window.STORY_DATA = {
           "id": "scene-069-beat-016",
           "index": 15,
           "kind": "narration",
-          "rawText": "ニャル子が息をのむ。"
+          "rawText": "ニアが息をのむ。"
         },
         {
           "id": "scene-069-beat-017",
@@ -25540,7 +25540,7 @@ window.STORY_DATA = {
           "id": "scene-069-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "ニャル子が小さく呟く。"
+          "rawText": "ニアが小さく呟く。"
         },
         {
           "id": "scene-069-beat-042",
@@ -25588,7 +25588,7 @@ window.STORY_DATA = {
           "id": "scene-069-beat-049",
           "index": 48,
           "kind": "narration",
-          "rawText": "ニャル子が少しだけ笑いそうになる。でも黙って聞いている。"
+          "rawText": "ニアが少しだけ笑いそうになる。でも黙って聞いている。"
         },
         {
           "id": "scene-069-beat-050",
@@ -25606,7 +25606,7 @@ window.STORY_DATA = {
           "id": "scene-069-beat-052",
           "index": 51,
           "kind": "narration",
-          "rawText": "彼は、ニャル子としろたまを見た。"
+          "rawText": "彼は、ニアとしろたまを見た。"
         },
         {
           "id": "scene-069-beat-053",
@@ -25642,7 +25642,7 @@ window.STORY_DATA = {
           "id": "scene-069-beat-058",
           "index": 57,
           "kind": "narration",
-          "rawText": "次に、ニャル子が前へ出た。"
+          "rawText": "次に、ニアが前へ出た。"
         },
         {
           "id": "scene-069-beat-059",
@@ -25780,7 +25780,7 @@ window.STORY_DATA = {
           "id": "scene-069-beat-081",
           "index": 80,
           "kind": "narration",
-          "rawText": "ニャル子が顔をしかめる。"
+          "rawText": "ニアが顔をしかめる。"
         },
         {
           "id": "scene-069-beat-082",
@@ -25810,7 +25810,7 @@ window.STORY_DATA = {
           "id": "scene-069-beat-086",
           "index": 85,
           "kind": "narration",
-          "rawText": "でも、少しだけ笑っていた。たぶんニャル子も同じだった。"
+          "rawText": "でも、少しだけ笑っていた。たぶんニアも同じだった。"
         },
         {
           "id": "scene-069-beat-087",
@@ -25834,7 +25834,7 @@ window.STORY_DATA = {
           "id": "scene-069-beat-090",
           "index": 89,
           "kind": "narration",
-          "rawText": "ニャル子は導鈴を握る。"
+          "rawText": "ニアは導鈴を握る。"
         },
         {
           "id": "scene-069-beat-091",
@@ -25891,7 +25891,7 @@ window.STORY_DATA = {
           "id": "scene-070-beat-003",
           "index": 2,
           "kind": "narration",
-          "rawText": "サトーが前に出れば、その一歩先にいる。ニャル子が横へ回れば、その回り込みを見越して水の壁が立つ。しろたまが核を探ろうとすると、その感応の先を逆に読んでくる。"
+          "rawText": "サトーが前に出れば、その一歩先にいる。ニアが横へ回れば、その回り込みを見越して水の壁が立つ。しろたまが核を探ろうとすると、その感応の先を逆に読んでくる。"
         },
         {
           "id": "scene-070-beat-004",
@@ -25915,7 +25915,7 @@ window.STORY_DATA = {
           "id": "scene-070-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "ニャル子の短剣が、水の衣に受け流される。"
+          "rawText": "ニアの短剣が、水の衣に受け流される。"
         },
         {
           "id": "scene-070-beat-008",
@@ -25993,7 +25993,7 @@ window.STORY_DATA = {
           "id": "scene-070-beat-020",
           "index": 19,
           "kind": "narration",
-          "rawText": "サトーは前へ出て壊す。ニャル子はそれを整えて支える。しろたまは危険を読む。"
+          "rawText": "サトーは前へ出て壊す。ニアはそれを整えて支える。しろたまは危険を読む。"
         },
         {
           "id": "scene-070-beat-021",
@@ -26017,7 +26017,7 @@ window.STORY_DATA = {
           "id": "scene-070-beat-024",
           "index": 23,
           "kind": "dialogue",
-          "rawText": "「……ニャル子」"
+          "rawText": "「……ニア」"
         },
         {
           "id": "scene-070-beat-025",
@@ -26035,7 +26035,7 @@ window.STORY_DATA = {
           "id": "scene-070-beat-027",
           "index": 26,
           "kind": "narration",
-          "rawText": "ニャル子は一瞬だけ目を丸くする。"
+          "rawText": "ニアは一瞬だけ目を丸くする。"
         },
         {
           "id": "scene-070-beat-028",
@@ -26053,7 +26053,7 @@ window.STORY_DATA = {
           "id": "scene-070-beat-030",
           "index": 29,
           "kind": "narration",
-          "rawText": "ニャル子が、はっとした顔になる。"
+          "rawText": "ニアが、はっとした顔になる。"
         },
         {
           "id": "scene-070-beat-031",
@@ -26095,7 +26095,7 @@ window.STORY_DATA = {
           "id": "scene-070-beat-037",
           "index": 36,
           "kind": "narration",
-          "rawText": "ニャル子は鈴を持つ。だがまだ鳴らしきらない。"
+          "rawText": "ニアは鈴を持つ。だがまだ鳴らしきらない。"
         },
         {
           "id": "scene-070-beat-038",
@@ -26113,7 +26113,7 @@ window.STORY_DATA = {
           "id": "scene-070-beat-040",
           "index": 39,
           "kind": "narration",
-          "rawText": "サトーの中に、ニャル子の“整える感覚”が薄く流れ込む。ニャル子の中に、しろたまの“揺れの地図”が届く。しろたまの中に、サトーの“通す意志”がまっすぐ伸びる。"
+          "rawText": "サトーの中に、ニアの“整える感覚”が薄く流れ込む。ニアの中に、しろたまの“揺れの地図”が届く。しろたまの中に、サトーの“通す意志”がまっすぐ伸びる。"
         },
         {
           "id": "scene-070-beat-041",
@@ -26131,7 +26131,7 @@ window.STORY_DATA = {
           "id": "scene-070-beat-043",
           "index": 42,
           "kind": "narration",
-          "rawText": "ニャル子が微笑む。"
+          "rawText": "ニアが微笑む。"
         },
         {
           "id": "scene-070-beat-044",
@@ -26269,7 +26269,7 @@ window.STORY_DATA = {
           "id": "scene-070-beat-066",
           "index": 65,
           "kind": "narration",
-          "rawText": "ニャル子が苦笑する。"
+          "rawText": "ニアが苦笑する。"
         },
         {
           "id": "scene-070-beat-067",
@@ -26353,7 +26353,7 @@ window.STORY_DATA = {
           "id": "scene-070-beat-080",
           "index": 79,
           "kind": "narration",
-          "rawText": "ニャル子が頷く。"
+          "rawText": "ニアが頷く。"
         },
         {
           "id": "scene-070-beat-081",
@@ -26416,7 +26416,7 @@ window.STORY_DATA = {
           "id": "scene-071-beat-004",
           "index": 3,
           "kind": "narration",
-          "rawText": "ニャル子は、鈴を胸に当てた。"
+          "rawText": "ニアは、鈴を胸に当てた。"
         },
         {
           "id": "scene-071-beat-005",
@@ -26500,7 +26500,7 @@ window.STORY_DATA = {
           "id": "scene-071-beat-018",
           "index": 17,
           "kind": "narration",
-          "rawText": "ニャル子の鈴が鳴る。サトーの第三鍵が応じる。しろたまの感応が広がる。"
+          "rawText": "ニアの鈴が鳴る。サトーの第三鍵が応じる。しろたまの感応が広がる。"
         },
         {
           "id": "scene-071-beat-019",
@@ -26665,7 +26665,7 @@ window.STORY_DATA = {
           "id": "scene-072-beat-005",
           "index": 4,
           "kind": "narration",
-          "rawText": "ニャル子が振り返る。"
+          "rawText": "ニアが振り返る。"
         },
         {
           "id": "scene-072-beat-006",
@@ -26779,7 +26779,7 @@ window.STORY_DATA = {
           "id": "scene-072-beat-024",
           "index": 23,
           "kind": "narration",
-          "rawText": "そのとき、ニャル子の導鈴が小さく鳴った。"
+          "rawText": "そのとき、ニアの導鈴が小さく鳴った。"
         },
         {
           "id": "scene-072-beat-025",
@@ -26827,7 +26827,7 @@ window.STORY_DATA = {
           "id": "scene-072-beat-032",
           "index": 31,
           "kind": "narration",
-          "rawText": "代わりに、ニャル子を見る。"
+          "rawText": "代わりに、ニアを見る。"
         },
         {
           "id": "scene-072-beat-033",
@@ -26839,7 +26839,7 @@ window.STORY_DATA = {
           "id": "scene-072-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "ニャル子が驚く。"
+          "rawText": "ニアが驚く。"
         },
         {
           "id": "scene-072-beat-035",
@@ -26875,7 +26875,7 @@ window.STORY_DATA = {
           "id": "scene-072-beat-040",
           "index": 39,
           "kind": "narration",
-          "rawText": "ニャル子は、少しだけ戸惑った顔をした。"
+          "rawText": "ニアは、少しだけ戸惑った顔をした。"
         },
         {
           "id": "scene-072-beat-041",
@@ -26893,7 +26893,7 @@ window.STORY_DATA = {
           "id": "scene-072-beat-043",
           "index": 42,
           "kind": "narration",
-          "rawText": "しろたまも、ニャル子の足元で鳴く。"
+          "rawText": "しろたまも、ニアの足元で鳴く。"
         },
         {
           "id": "scene-072-beat-044",
@@ -26911,7 +26911,7 @@ window.STORY_DATA = {
           "id": "scene-072-beat-046",
           "index": 45,
           "kind": "narration",
-          "rawText": "ニャル子は、深く息を吸った。"
+          "rawText": "ニアは、深く息を吸った。"
         },
         {
           "id": "scene-072-beat-047",
@@ -27028,7 +27028,7 @@ window.STORY_DATA = {
           "id": "scene-073-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "ニャル子が目を見開く。"
+          "rawText": "ニアが目を見開く。"
         },
         {
           "id": "scene-073-beat-013",
@@ -27106,7 +27106,7 @@ window.STORY_DATA = {
           "id": "scene-073-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "ニャル子の鈴が強く鳴る。"
+          "rawText": "ニアの鈴が強く鳴る。"
         },
         {
           "id": "scene-073-beat-026",
@@ -27124,13 +27124,13 @@ window.STORY_DATA = {
           "id": "scene-073-beat-028",
           "index": 27,
           "kind": "dialogue",
-          "rawText": "「……ニャル子」"
+          "rawText": "「……ニア」"
         },
         {
           "id": "scene-073-beat-029",
           "index": 28,
           "kind": "narration",
-          "rawText": "サトーが声をかけると、ニャル子は静かに言った。"
+          "rawText": "サトーが声をかけると、ニアは静かに言った。"
         },
         {
           "id": "scene-073-beat-030",
@@ -27160,13 +27160,13 @@ window.STORY_DATA = {
           "id": "scene-073-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "サトーが第三鍵の保持者。そしてニャル子が第二鍵の適合者。"
+          "rawText": "サトーが第三鍵の保持者。そしてニアが第二鍵の適合者。"
         },
         {
           "id": "scene-073-beat-035",
           "index": 34,
           "kind": "narration",
-          "rawText": "もしそうなら、もはやニャル子は“同行者”や“補佐役”ではない。最後の選択権の半分以上を握る存在だ。"
+          "rawText": "もしそうなら、もはやニアは“同行者”や“補佐役”ではない。最後の選択権の半分以上を握る存在だ。"
         },
         {
           "id": "scene-073-beat-036",
@@ -27226,7 +27226,7 @@ window.STORY_DATA = {
           "id": "scene-073-beat-045",
           "index": 44,
           "kind": "dialogue",
-          "rawText": "「でも、ニャル子がいた」とサトー。"
+          "rawText": "「でも、ニアがいた」とサトー。"
         },
         {
           "id": "scene-073-beat-046",
@@ -27310,7 +27310,7 @@ window.STORY_DATA = {
           "id": "scene-073-beat-059",
           "index": 58,
           "kind": "narration",
-          "rawText": "ニャル子は、水哭の涙を見つめた。"
+          "rawText": "ニアは、水哭の涙を見つめた。"
         },
         {
           "id": "scene-073-beat-060",
@@ -27409,7 +27409,7 @@ window.STORY_DATA = {
           "id": "scene-074-beat-013",
           "index": 12,
           "kind": "narration",
-          "rawText": "イゼルはニャル子と水哭の涙を見て、すぐに状況を理解したらしかった。"
+          "rawText": "イゼルはニアと水哭の涙を見て、すぐに状況を理解したらしかった。"
         },
         {
           "id": "scene-074-beat-014",
@@ -27421,7 +27421,7 @@ window.STORY_DATA = {
           "id": "scene-074-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子が小さく後ずさる。"
+          "rawText": "ニアが小さく後ずさる。"
         },
         {
           "id": "scene-074-beat-016",
@@ -27607,7 +27607,7 @@ window.STORY_DATA = {
           "id": "scene-074-beat-046",
           "index": 45,
           "kind": "narration",
-          "rawText": "そしてその中心にいるのは、サトー、ニャル子、しろたま。"
+          "rawText": "そしてその中心にいるのは、サトー、ニア、しろたま。"
         },
         {
           "id": "scene-074-beat-047",
@@ -27724,7 +27724,7 @@ window.STORY_DATA = {
           "id": "scene-075-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子の顔が強張る。"
+          "rawText": "ニアの顔が強張る。"
         },
         {
           "id": "scene-075-beat-016",
@@ -27889,7 +27889,7 @@ window.STORY_DATA = {
           "id": "scene-076-beat-004",
           "index": 3,
           "kind": "dialogue",
-          "rawText": "「ニャル子！　第二鍵から離れるな！」"
+          "rawText": "「ニア！　第二鍵から離れるな！」"
         },
         {
           "id": "scene-076-beat-005",
@@ -27967,7 +27967,7 @@ window.STORY_DATA = {
           "id": "scene-076-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "一方、イゼルは王都兵を率いてニャル子の側へ一直線に迫っていた。"
+          "rawText": "一方、イゼルは王都兵を率いてニアの側へ一直線に迫っていた。"
         },
         {
           "id": "scene-076-beat-018",
@@ -27985,7 +27985,7 @@ window.STORY_DATA = {
           "id": "scene-076-beat-020",
           "index": 19,
           "kind": "narration",
-          "rawText": "ニャル子が導鈴を鳴らす。"
+          "rawText": "ニアが導鈴を鳴らす。"
         },
         {
           "id": "scene-076-beat-021",
@@ -28015,7 +28015,7 @@ window.STORY_DATA = {
           "id": "scene-076-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "イゼルだけは止まらない。彼女は鈴の影響を半歩で修正し、そのままニャル子へ剣を突きつける。"
+          "rawText": "イゼルだけは止まらない。彼女は鈴の影響を半歩で修正し、そのままニアへ剣を突きつける。"
         },
         {
           "id": "scene-076-beat-026",
@@ -28123,7 +28123,7 @@ window.STORY_DATA = {
           "id": "scene-076-beat-043",
           "index": 42,
           "kind": "narration",
-          "rawText": "ニャル子の鈴が共鳴する。サトーの第三鍵も脈打つ。しろたまは、耳を伏せて震えた。"
+          "rawText": "ニアの鈴が共鳴する。サトーの第三鍵も脈打つ。しろたまは、耳を伏せて震えた。"
         },
         {
           "id": "scene-076-beat-044",
@@ -28153,7 +28153,7 @@ window.STORY_DATA = {
           "id": "scene-076-beat-048",
           "index": 47,
           "kind": "narration",
-          "rawText": "水哭の涙が、ゆっくりニャル子の前へ移動する。"
+          "rawText": "水哭の涙が、ゆっくりニアの前へ移動する。"
         },
         {
           "id": "scene-076-beat-049",
@@ -28183,7 +28183,7 @@ window.STORY_DATA = {
           "id": "scene-076-beat-053",
           "index": 52,
           "kind": "narration",
-          "rawText": "ニャル子は、青ざめた。"
+          "rawText": "ニアは、青ざめた。"
         },
         {
           "id": "scene-076-beat-054",
@@ -28231,7 +28231,7 @@ window.STORY_DATA = {
           "id": "scene-076-beat-061",
           "index": 60,
           "kind": "narration",
-          "rawText": "ニャル子の手が震える。"
+          "rawText": "ニアの手が震える。"
         },
         {
           "id": "scene-076-beat-062",
@@ -28255,13 +28255,13 @@ window.STORY_DATA = {
           "id": "scene-076-beat-065",
           "index": 64,
           "kind": "narration",
-          "rawText": "それでも、この答えだけは、ニャル子以外の誰にも決められない。"
+          "rawText": "それでも、この答えだけは、ニア以外の誰にも決められない。"
         },
         {
           "id": "scene-076-beat-066",
           "index": 65,
           "kind": "narration",
-          "rawText": "ニャル子は鈴を握りしめた。"
+          "rawText": "ニアは鈴を握りしめた。"
         },
         {
           "id": "scene-076-beat-067",
@@ -28333,7 +28333,7 @@ window.STORY_DATA = {
           "id": "scene-076-beat-078",
           "index": 77,
           "kind": "narration",
-          "rawText": "水哭の涙が、まっすぐニャル子の胸元へ飛ぶ。"
+          "rawText": "水哭の涙が、まっすぐニアの胸元へ飛ぶ。"
         },
         {
           "id": "scene-076-beat-079",
@@ -28351,7 +28351,7 @@ window.STORY_DATA = {
           "id": "scene-076-beat-081",
           "index": 80,
           "kind": "narration",
-          "rawText": "第二鍵は、ニャル子を選んだ。"
+          "rawText": "第二鍵は、ニアを選んだ。"
         }
       ]
     },
@@ -28363,7 +28363,7 @@ window.STORY_DATA = {
       "chapterLabel": "第15章",
       "chapterTitle": "第十五章　第二鍵の涙と、三勢力激突編",
       "title": "第七十六話　最後の鍵、揃う",
-      "summary": "青い雫の紋が、ニャル子の胸元で静かに輝いていた。導鈴。第二鍵《水哭の涙》。その二つが、まるで最初からそこにあるべきだったみたいに馴染んでいる…",
+      "summary": "青い雫の紋が、ニアの胸元で静かに輝いていた。導鈴。第二鍵《水哭の涙》。その二つが、まるで最初からそこにあるべきだったみたいに馴染んでいる…",
       "image": "./images/episodes/scene-077.webp",
       "alt": "第十五章　第二鍵の涙と、三勢力激突編の第七十六話　最後の鍵、揃うをイメージしたビジュアルカード",
       "beatCount": 65,
@@ -28372,7 +28372,7 @@ window.STORY_DATA = {
           "id": "scene-077-beat-001",
           "index": 0,
           "kind": "narration",
-          "rawText": "青い雫の紋が、ニャル子の胸元で静かに輝いていた。"
+          "rawText": "青い雫の紋が、ニアの胸元で静かに輝いていた。"
         },
         {
           "id": "scene-077-beat-002",
@@ -28438,7 +28438,7 @@ window.STORY_DATA = {
           "id": "scene-077-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "第二鍵：ニャル子が承認保持"
+          "rawText": "第二鍵：ニアが承認保持"
         },
         {
           "id": "scene-077-beat-013",
@@ -28558,7 +28558,7 @@ window.STORY_DATA = {
           "id": "scene-077-beat-032",
           "index": 31,
           "kind": "narration",
-          "rawText": "その言葉の途中で、ニャル子の第二鍵が淡く光る。"
+          "rawText": "その言葉の途中で、ニアの第二鍵が淡く光る。"
         },
         {
           "id": "scene-077-beat-033",
@@ -28594,7 +28594,7 @@ window.STORY_DATA = {
           "id": "scene-077-beat-038",
           "index": 37,
           "kind": "narration",
-          "rawText": "ニャル子は、自分の胸元を見た。"
+          "rawText": "ニアは、自分の胸元を見た。"
         },
         {
           "id": "scene-077-beat-039",
@@ -28642,7 +28642,7 @@ window.STORY_DATA = {
           "id": "scene-077-beat-046",
           "index": 45,
           "kind": "narration",
-          "rawText": "第三鍵《天穿の杖槍》を構える。ニャル子は第二鍵と導鈴を胸に。しろたまは二人の間へ。三つが揃う。"
+          "rawText": "第三鍵《天穿の杖槍》を構える。ニアは第二鍵と導鈴を胸に。しろたまは二人の間へ。三つが揃う。"
         },
         {
           "id": "scene-077-beat-047",
@@ -28738,7 +28738,7 @@ window.STORY_DATA = {
           "id": "scene-077-beat-062",
           "index": 61,
           "kind": "narration",
-          "rawText": "ニャル子は苦笑した。"
+          "rawText": "ニアは苦笑した。"
         },
         {
           "id": "scene-077-beat-063",
@@ -28768,7 +28768,7 @@ window.STORY_DATA = {
       "chapterLabel": "第16章",
       "chapterTitle": "第十六章　帰還か、最終門か――継承列の選択編",
       "title": "第七十七話　三鍵が揃ったあと",
-      "summary": "第二鍵《水哭の涙》がニャル子の胸元に宿り、第三鍵《天穿の杖槍》がサトーの手にあり、第一鍵の応答はすでに済んでいる。これで、必要な鍵は揃った。",
+      "summary": "第二鍵《水哭の涙》がニアの胸元に宿り、第三鍵《天穿の杖槍》がサトーの手にあり、第一鍵の応答はすでに済んでいる。これで、必要な鍵は揃った。",
       "image": "./images/episodes/scene-078.webp",
       "alt": "第十六章　帰還か、最終門か――継承列の選択編の第七十七話　三鍵が揃ったあとをイメージしたビジュアルカード",
       "beatCount": 36,
@@ -28777,7 +28777,7 @@ window.STORY_DATA = {
           "id": "scene-078-beat-001",
           "index": 0,
           "kind": "narration",
-          "rawText": "第二鍵《水哭の涙》がニャル子の胸元に宿り、第三鍵《天穿の杖槍》がサトーの手にあり、第一鍵の応答はすでに済んでいる。"
+          "rawText": "第二鍵《水哭の涙》がニアの胸元に宿り、第三鍵《天穿の杖槍》がサトーの手にあり、第一鍵の応答はすでに済んでいる。"
         },
         {
           "id": "scene-078-beat-002",
@@ -28861,7 +28861,7 @@ window.STORY_DATA = {
           "id": "scene-078-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子が胸元の青い雫をそっと押さえる。"
+          "rawText": "ニアが胸元の青い雫をそっと押さえる。"
         },
         {
           "id": "scene-078-beat-016",
@@ -28963,7 +28963,7 @@ window.STORY_DATA = {
           "id": "scene-078-beat-032",
           "index": 31,
           "kind": "narration",
-          "rawText": "ニャル子が小さく言った。"
+          "rawText": "ニアが小さく言った。"
         },
         {
           "id": "scene-078-beat-033",
@@ -29068,7 +29068,7 @@ window.STORY_DATA = {
           "id": "scene-079-beat-011",
           "index": 10,
           "kind": "narration",
-          "rawText": "ニャル子が顔をしかめる。"
+          "rawText": "ニアが顔をしかめる。"
         },
         {
           "id": "scene-079-beat-012",
@@ -29176,7 +29176,7 @@ window.STORY_DATA = {
           "id": "scene-079-beat-029",
           "index": 28,
           "kind": "narration",
-          "rawText": "ニャル子は、そのやり取りをずっと聞いていた。"
+          "rawText": "ニアは、そのやり取りをずっと聞いていた。"
         },
         {
           "id": "scene-079-beat-030",
@@ -29188,7 +29188,7 @@ window.STORY_DATA = {
           "id": "scene-079-beat-031",
           "index": 30,
           "kind": "emphasis",
-          "rawText": "そしてその間に、自分たち三人――サトー、ニャル子、しろたまの意志が置き去りにされかけている。"
+          "rawText": "そしてその間に、自分たち三人――サトー、ニア、しろたまの意志が置き去りにされかけている。"
         },
         {
           "id": "scene-079-beat-032",
@@ -29212,7 +29212,7 @@ window.STORY_DATA = {
           "id": "scene-079-beat-035",
           "index": 34,
           "kind": "narration",
-          "rawText": "ニャル子は胸元の第二鍵を押さえたまま、はっきり言った。"
+          "rawText": "ニアは胸元の第二鍵を押さえたまま、はっきり言った。"
         },
         {
           "id": "scene-079-beat-036",
@@ -29266,7 +29266,7 @@ window.STORY_DATA = {
           "id": "scene-079-beat-044",
           "index": 43,
           "kind": "narration",
-          "rawText": "ニャル子は続ける。"
+          "rawText": "ニアは続ける。"
         },
         {
           "id": "scene-079-beat-045",
@@ -29455,7 +29455,7 @@ window.STORY_DATA = {
           "id": "scene-080-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "ニャル子が首をかしげる。"
+          "rawText": "ニアが首をかしげる。"
         },
         {
           "id": "scene-080-beat-008",
@@ -29509,7 +29509,7 @@ window.STORY_DATA = {
           "id": "scene-080-beat-016",
           "index": 15,
           "kind": "narration",
-          "rawText": "ニャル子の顔が少しだけ明るくなる。"
+          "rawText": "ニアの顔が少しだけ明るくなる。"
         },
         {
           "id": "scene-080-beat-017",
@@ -29725,7 +29725,7 @@ window.STORY_DATA = {
           "id": "scene-080-beat-052",
           "index": 51,
           "kind": "narration",
-          "rawText": "彼はニャル子を見る。"
+          "rawText": "彼はニアを見る。"
         },
         {
           "id": "scene-080-beat-053",
@@ -29818,7 +29818,7 @@ window.STORY_DATA = {
           "id": "scene-081-beat-005",
           "index": 4,
           "kind": "narration",
-          "rawText": "ニャル子がほっと息を漏らす。"
+          "rawText": "ニアがほっと息を漏らす。"
         },
         {
           "id": "scene-081-beat-006",
@@ -29860,7 +29860,7 @@ window.STORY_DATA = {
           "id": "scene-081-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "彼女は、ニャル子の胸元の青い雫と、サトーの手の第三鍵を見て、すべてを察したようだった。"
+          "rawText": "彼女は、ニアの胸元の青い雫と、サトーの手の第三鍵を見て、すべてを察したようだった。"
         },
         {
           "id": "scene-081-beat-013",
@@ -30043,7 +30043,7 @@ window.STORY_DATA = {
           "id": "scene-082-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "ニャル子は旅袋から包みを出して、机の上へ並べた。硬いパン、干し肉、乾燥果実、それに灰鐘院から持たされた小さな瓶入りのスープ。"
+          "rawText": "ニアは旅袋から包みを出して、机の上へ並べた。硬いパン、干し肉、乾燥果実、それに灰鐘院から持たされた小さな瓶入りのスープ。"
         },
         {
           "id": "scene-082-beat-013",
@@ -30073,7 +30073,7 @@ window.STORY_DATA = {
           "id": "scene-082-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "その言葉に、ニャル子の手が止まった。"
+          "rawText": "その言葉に、ニアの手が止まった。"
         },
         {
           "id": "scene-082-beat-018",
@@ -30127,7 +30127,7 @@ window.STORY_DATA = {
           "id": "scene-082-beat-026",
           "index": 25,
           "kind": "narration",
-          "rawText": "ニャル子は小さく笑ってから、静かに言った。"
+          "rawText": "ニアは小さく笑ってから、静かに言った。"
         },
         {
           "id": "scene-082-beat-027",
@@ -30214,7 +30214,7 @@ window.STORY_DATA = {
           "id": "scene-083-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "長机の片側には、サトー、ニャル子、しろたま。その少し後ろにセレスティア。向かい側にはイゼル。斜め奥にレギウス。そして部屋の端、完全な中立のような顔でマグダレナ院長が座っていた。"
+          "rawText": "長机の片側には、サトー、ニア、しろたま。その少し後ろにセレスティア。向かい側にはイゼル。斜め奥にレギウス。そして部屋の端、完全な中立のような顔でマグダレナ院長が座っていた。"
         },
         {
           "id": "scene-083-beat-008",
@@ -30298,19 +30298,19 @@ window.STORY_DATA = {
           "id": "scene-083-beat-021",
           "index": 20,
           "kind": "narration",
-          "rawText": "サトーはニャル子を見る。"
+          "rawText": "サトーはニアを見る。"
         },
         {
           "id": "scene-083-beat-022",
           "index": 21,
           "kind": "narration",
-          "rawText": "ニャル子は、胸元の青い雫にそっと触れていた。第二鍵《水哭の涙》は、今は静かだ。だが存在感だけははっきりある。"
+          "rawText": "ニアは、胸元の青い雫にそっと触れていた。第二鍵《水哭の涙》は、今は静かだ。だが存在感だけははっきりある。"
         },
         {
           "id": "scene-083-beat-023",
           "index": 22,
           "kind": "dialogue",
-          "rawText": "「……ニャル子、何か感じるか？」"
+          "rawText": "「……ニア、何か感じるか？」"
         },
         {
           "id": "scene-083-beat-024",
@@ -30439,7 +30439,7 @@ window.STORY_DATA = {
           "id": "scene-084-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "ニャル子が息をのむ。"
+          "rawText": "ニアが息をのむ。"
         },
         {
           "id": "scene-084-beat-013",
@@ -30517,7 +30517,7 @@ window.STORY_DATA = {
           "id": "scene-084-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "ニャル子は、鈴を握る手に力を込めた。"
+          "rawText": "ニアは、鈴を握る手に力を込めた。"
         },
         {
           "id": "scene-084-beat-026",
@@ -30664,7 +30664,7 @@ window.STORY_DATA = {
           "id": "scene-085-beat-010",
           "index": 9,
           "kind": "narration",
-          "rawText": "ニャル子が小さく息をのむ。"
+          "rawText": "ニアが小さく息をのむ。"
         },
         {
           "id": "scene-085-beat-011",
@@ -30718,7 +30718,7 @@ window.STORY_DATA = {
           "id": "scene-085-beat-019",
           "index": 18,
           "kind": "narration",
-          "rawText": "ニャル子は、まっすぐに彼を見ていた。"
+          "rawText": "ニアは、まっすぐに彼を見ていた。"
         },
         {
           "id": "scene-085-beat-020",
@@ -30796,7 +30796,7 @@ window.STORY_DATA = {
           "id": "scene-085-beat-032",
           "index": 31,
           "kind": "narration",
-          "rawText": "ニャル子がぼそっと言う。"
+          "rawText": "ニアがぼそっと言う。"
         },
         {
           "id": "scene-085-beat-033",
@@ -30925,7 +30925,7 @@ window.STORY_DATA = {
           "id": "scene-086-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "ニャル子が聞き返す。"
+          "rawText": "ニアが聞き返す。"
         },
         {
           "id": "scene-086-beat-013",
@@ -31027,7 +31027,7 @@ window.STORY_DATA = {
           "id": "scene-086-beat-029",
           "index": 28,
           "kind": "narration",
-          "rawText": "ニャル子は驚いたようにサトーを見る。"
+          "rawText": "ニアは驚いたようにサトーを見る。"
         },
         {
           "id": "scene-086-beat-030",
@@ -31183,7 +31183,7 @@ window.STORY_DATA = {
       "chapterLabel": "第17章",
       "chapterTitle": "第十七章　灰鐘会議――最終門を開くか、閉ざすか編",
       "title": "第八十五話　サトーの願い",
-      "summary": "会議がひと段落したあとだった。皆が少しだけ席を立ち、水を飲み、言葉を失っている時間。その中で、ニャル子がふいにサトーへ聞いた。",
+      "summary": "会議がひと段落したあとだった。皆が少しだけ席を立ち、水を飲み、言葉を失っている時間。その中で、ニアがふいにサトーへ聞いた。",
       "image": "./images/episodes/scene-087.webp",
       "alt": "第十七章　灰鐘会議――最終門を開くか、閉ざすか編の第八十五話　サトーの願いをイメージしたビジュアルカード",
       "beatCount": 32,
@@ -31198,7 +31198,7 @@ window.STORY_DATA = {
           "id": "scene-087-beat-002",
           "index": 1,
           "kind": "narration",
-          "rawText": "皆が少しだけ席を立ち、水を飲み、言葉を失っている時間。その中で、ニャル子がふいにサトーへ聞いた。"
+          "rawText": "皆が少しだけ席を立ち、水を飲み、言葉を失っている時間。その中で、ニアがふいにサトーへ聞いた。"
         },
         {
           "id": "scene-087-beat-003",
@@ -31264,7 +31264,7 @@ window.STORY_DATA = {
           "id": "scene-087-beat-013",
           "index": 12,
           "kind": "narration",
-          "rawText": "ニャル子がふっと笑う。"
+          "rawText": "ニアがふっと笑う。"
         },
         {
           "id": "scene-087-beat-014",
@@ -31300,7 +31300,7 @@ window.STORY_DATA = {
           "id": "scene-087-beat-019",
           "index": 18,
           "kind": "narration",
-          "rawText": "ニャル子の目が少しだけ揺れる。"
+          "rawText": "ニアの目が少しだけ揺れる。"
         },
         {
           "id": "scene-087-beat-020",
@@ -31348,7 +31348,7 @@ window.STORY_DATA = {
           "id": "scene-087-beat-027",
           "index": 26,
           "kind": "narration",
-          "rawText": "ニャル子は、胸元の第二鍵を押さえて笑った。"
+          "rawText": "ニアは、胸元の第二鍵を押さえて笑った。"
         },
         {
           "id": "scene-087-beat-028",
@@ -31459,7 +31459,7 @@ window.STORY_DATA = {
           "id": "scene-088-beat-011",
           "index": 10,
           "kind": "narration",
-          "rawText": "振り向くと、ニャル子だった。"
+          "rawText": "振り向くと、ニアだった。"
         },
         {
           "id": "scene-088-beat-012",
@@ -31489,7 +31489,7 @@ window.STORY_DATA = {
           "id": "scene-088-beat-016",
           "index": 15,
           "kind": "narration",
-          "rawText": "少し沈黙があって、それからニャル子が言った。"
+          "rawText": "少し沈黙があって、それからニアが言った。"
         },
         {
           "id": "scene-088-beat-017",
@@ -31579,7 +31579,7 @@ window.STORY_DATA = {
           "id": "scene-088-beat-031",
           "index": 30,
           "kind": "narration",
-          "rawText": "ニャル子は、空を見上げたまま頷く。"
+          "rawText": "ニアは、空を見上げたまま頷く。"
         },
         {
           "id": "scene-088-beat-032",
@@ -31609,7 +31609,7 @@ window.STORY_DATA = {
           "id": "scene-088-beat-036",
           "index": 35,
           "kind": "dialogue",
-          "rawText": "「でも」ニャル子は笑った。「今は、ひとりじゃないですにゃ」"
+          "rawText": "「でも」ニアは笑った。「今は、ひとりじゃないですにゃ」"
         },
         {
           "id": "scene-088-beat-037",
@@ -31639,7 +31639,7 @@ window.STORY_DATA = {
           "id": "scene-088-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "サトー、ニャル子、しろたま。三鍵と三役を揃えた継承列は、ようやく終わりへ向かう準備を始めた。"
+          "rawText": "サトー、ニア、しろたま。三鍵と三役を揃えた継承列は、ようやく終わりへ向かう準備を始めた。"
         },
         {
           "id": "scene-088-beat-042",
@@ -31702,7 +31702,7 @@ window.STORY_DATA = {
           "id": "scene-089-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "ニャル子が頷く。"
+          "rawText": "ニアが頷く。"
         },
         {
           "id": "scene-089-beat-008",
@@ -31903,7 +31903,7 @@ window.STORY_DATA = {
           "id": "scene-090-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "ニャル子が首をかしげる。"
+          "rawText": "ニアが首をかしげる。"
         },
         {
           "id": "scene-090-beat-008",
@@ -31963,7 +31963,7 @@ window.STORY_DATA = {
           "id": "scene-090-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "ニャル子がぼそっと言う。"
+          "rawText": "ニアがぼそっと言う。"
         },
         {
           "id": "scene-090-beat-018",
@@ -32242,7 +32242,7 @@ window.STORY_DATA = {
           "id": "scene-091-beat-030",
           "index": 29,
           "kind": "narration",
-          "rawText": "ニャル子が、胸元の第二鍵を押さえた。"
+          "rawText": "ニアが、胸元の第二鍵を押さえた。"
         },
         {
           "id": "scene-091-beat-031",
@@ -32314,7 +32314,7 @@ window.STORY_DATA = {
           "id": "scene-091-beat-042",
           "index": 41,
           "kind": "narration",
-          "rawText": "ニャル子が、そっと言った。"
+          "rawText": "ニアが、そっと言った。"
         },
         {
           "id": "scene-091-beat-043",
@@ -32455,7 +32455,7 @@ window.STORY_DATA = {
           "id": "scene-092-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子がぽつりと言った。"
+          "rawText": "ニアがぽつりと言った。"
         },
         {
           "id": "scene-092-beat-016",
@@ -32557,7 +32557,7 @@ window.STORY_DATA = {
           "id": "scene-092-beat-032",
           "index": 31,
           "kind": "narration",
-          "rawText": "ニャル子が、地図の中央を見つめる。"
+          "rawText": "ニアが、地図の中央を見つめる。"
         },
         {
           "id": "scene-092-beat-033",
@@ -32644,7 +32644,7 @@ window.STORY_DATA = {
           "id": "scene-093-beat-005",
           "index": 4,
           "kind": "narration",
-          "rawText": "そこへニャル子としろたまが来る。"
+          "rawText": "そこへニアとしろたまが来る。"
         },
         {
           "id": "scene-093-beat-006",
@@ -32662,13 +32662,13 @@ window.STORY_DATA = {
           "id": "scene-093-beat-008",
           "index": 7,
           "kind": "narration",
-          "rawText": "ニャル子は隣に座る。しろたまは足元へ。"
+          "rawText": "ニアは隣に座る。しろたまは足元へ。"
         },
         {
           "id": "scene-093-beat-009",
           "index": 8,
           "kind": "narration",
-          "rawText": "少しだけ沈黙があって、それからニャル子が言った。"
+          "rawText": "少しだけ沈黙があって、それからニアが言った。"
         },
         {
           "id": "scene-093-beat-010",
@@ -32716,7 +32716,7 @@ window.STORY_DATA = {
           "id": "scene-093-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "ニャル子が笑う。"
+          "rawText": "ニアが笑う。"
         },
         {
           "id": "scene-093-beat-018",
@@ -32746,7 +32746,7 @@ window.STORY_DATA = {
           "id": "scene-093-beat-022",
           "index": 21,
           "kind": "narration",
-          "rawText": "ニャル子は、静かに頷いた。"
+          "rawText": "ニアは、静かに頷いた。"
         },
         {
           "id": "scene-093-beat-023",
@@ -32776,7 +32776,7 @@ window.STORY_DATA = {
           "id": "scene-093-beat-027",
           "index": 26,
           "kind": "narration",
-          "rawText": "ニャル子は空を見上げる。灰鐘院の空は、王都より少し暗くて、星が見えやすい。"
+          "rawText": "ニアは空を見上げる。灰鐘院の空は、王都より少し暗くて、星が見えやすい。"
         },
         {
           "id": "scene-093-beat-028",
@@ -32917,7 +32917,7 @@ window.STORY_DATA = {
           "id": "scene-094-beat-004",
           "index": 3,
           "kind": "narration",
-          "rawText": "サトーの背には第三鍵《天穿の杖槍》。ニャル子の胸には第二鍵《水哭の涙》と導鈴。しろたまは小さな革ポーチを首から下げている。セレスティアは短杖と記録具。レギウスは半面の仮面をつけ直し、黒い短杖といくつかの紫の楔を腰へ。イゼルは王都へ戻るのではなく、あくまで“ここから先も見る”側として軽装備に替えていた。"
+          "rawText": "サトーの背には第三鍵《天穿の杖槍》。ニアの胸には第二鍵《水哭の涙》と導鈴。しろたまは小さな革ポーチを首から下げている。セレスティアは短杖と記録具。レギウスは半面の仮面をつけ直し、黒い短杖といくつかの紫の楔を腰へ。イゼルは王都へ戻るのではなく、あくまで“ここから先も見る”側として軽装備に替えていた。"
         },
         {
           "id": "scene-094-beat-005",
@@ -32983,7 +32983,7 @@ window.STORY_DATA = {
           "id": "scene-094-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子が小さく苦笑する。"
+          "rawText": "ニアが小さく苦笑する。"
         },
         {
           "id": "scene-094-beat-016",
@@ -33043,7 +33043,7 @@ window.STORY_DATA = {
           "id": "scene-094-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "ニャル子も頷く。"
+          "rawText": "ニアも頷く。"
         },
         {
           "id": "scene-094-beat-026",
@@ -33214,7 +33214,7 @@ window.STORY_DATA = {
           "id": "scene-095-beat-016",
           "index": 15,
           "kind": "narration",
-          "rawText": "彼は腰から紫の楔を一本抜き、床中央の見えない継ぎ目へ差し込んだ。次にイゼルが、王都側の封印符をそこへ重ねる。さらにニャル子が鈴を鳴らす。"
+          "rawText": "彼は腰から紫の楔を一本抜き、床中央の見えない継ぎ目へ差し込んだ。次にイゼルが、王都側の封印符をそこへ重ねる。さらにニアが鈴を鳴らす。"
         },
         {
           "id": "scene-095-beat-017",
@@ -33304,7 +33304,7 @@ window.STORY_DATA = {
           "id": "scene-095-beat-031",
           "index": 30,
           "kind": "narration",
-          "rawText": "ニャル子が頷く。"
+          "rawText": "ニアが頷く。"
         },
         {
           "id": "scene-095-beat-032",
@@ -33367,7 +33367,7 @@ window.STORY_DATA = {
           "id": "scene-096-beat-004",
           "index": 3,
           "kind": "narration",
-          "rawText": "ニャル子が小声で言ったつもりなのに、声がほとんど届かない。"
+          "rawText": "ニアが小声で言ったつもりなのに、声がほとんど届かない。"
         },
         {
           "id": "scene-096-beat-005",
@@ -33481,7 +33481,7 @@ window.STORY_DATA = {
           "id": "scene-096-beat-023",
           "index": 22,
           "kind": "narration",
-          "rawText": "通路の途中、三度ほど分岐があった。だがそのたびにしろたまが進むべき道を示し、ニャル子の鈴が“通ってはいけない薄い道”を浮かび上がらせた。"
+          "rawText": "通路の途中、三度ほど分岐があった。だがそのたびにしろたまが進むべき道を示し、ニアの鈴が“通ってはいけない薄い道”を浮かび上がらせた。"
         },
         {
           "id": "scene-096-beat-024",
@@ -33523,7 +33523,7 @@ window.STORY_DATA = {
           "id": "scene-096-beat-030",
           "index": 29,
           "kind": "narration",
-          "rawText": "ニャル子が呆れ顔で言う。"
+          "rawText": "ニアが呆れ顔で言う。"
         },
         {
           "id": "scene-096-beat-031",
@@ -33694,7 +33694,7 @@ window.STORY_DATA = {
           "id": "scene-097-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "ニャル子が鈴を握る。"
+          "rawText": "ニアが鈴を握る。"
         },
         {
           "id": "scene-097-beat-018",
@@ -33772,7 +33772,7 @@ window.STORY_DATA = {
           "id": "scene-097-beat-030",
           "index": 29,
           "kind": "narration",
-          "rawText": "ニャル子の表情が曇る。"
+          "rawText": "ニアの表情が曇る。"
         },
         {
           "id": "scene-097-beat-031",
@@ -33808,7 +33808,7 @@ window.STORY_DATA = {
           "id": "scene-097-beat-036",
           "index": 35,
           "kind": "dialogue",
-          "rawText": "「周期的に揺れています。完全に止まる瞬間はない。でも、ニャル子さんの鈴で“通れる幅”を作れれば――」"
+          "rawText": "「周期的に揺れています。完全に止まる瞬間はない。でも、ニアさんの鈴で“通れる幅”を作れれば――」"
         },
         {
           "id": "scene-097-beat-037",
@@ -33838,7 +33838,7 @@ window.STORY_DATA = {
           "id": "scene-097-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "ニャル子は深呼吸した。"
+          "rawText": "ニアは深呼吸した。"
         },
         {
           "id": "scene-097-beat-042",
@@ -33904,7 +33904,7 @@ window.STORY_DATA = {
           "id": "scene-097-beat-052",
           "index": 51,
           "kind": "narration",
-          "rawText": "サトーが先頭。ニャル子、しろたま、セレスティア、イゼル、レギウス。"
+          "rawText": "サトーが先頭。ニア、しろたま、セレスティア、イゼル、レギウス。"
         },
         {
           "id": "scene-097-beat-053",
@@ -34039,7 +34039,7 @@ window.STORY_DATA = {
           "id": "scene-098-beat-007",
           "index": 6,
           "kind": "narration",
-          "rawText": "ニャル子も同じことを考えたのか、小さく言った。"
+          "rawText": "ニアも同じことを考えたのか、小さく言った。"
         },
         {
           "id": "scene-098-beat-008",
@@ -34147,7 +34147,7 @@ window.STORY_DATA = {
           "id": "scene-098-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "ニャル子が小さく息をのむ。"
+          "rawText": "ニアが小さく息をのむ。"
         },
         {
           "id": "scene-098-beat-026",
@@ -34390,7 +34390,7 @@ window.STORY_DATA = {
           "id": "scene-099-beat-014",
           "index": 13,
           "kind": "narration",
-          "rawText": "ニャル子が小さくぼやく。"
+          "rawText": "ニアが小さくぼやく。"
         },
         {
           "id": "scene-099-beat-015",
@@ -34444,7 +34444,7 @@ window.STORY_DATA = {
           "id": "scene-099-beat-023",
           "index": 22,
           "kind": "narration",
-          "rawText": "女の目が、サトー、ニャル子、しろたまの順に動く。まるで品定めでもするような視線だ。"
+          "rawText": "女の目が、サトー、ニア、しろたまの順に動く。まるで品定めでもするような視線だ。"
         },
         {
           "id": "scene-099-beat-024",
@@ -34540,7 +34540,7 @@ window.STORY_DATA = {
           "id": "scene-099-beat-039",
           "index": 38,
           "kind": "narration",
-          "rawText": "ニャル子が顔をしかめる。"
+          "rawText": "ニアが顔をしかめる。"
         },
         {
           "id": "scene-099-beat-040",
@@ -34663,7 +34663,7 @@ window.STORY_DATA = {
           "id": "scene-100-beat-011",
           "index": 10,
           "kind": "narration",
-          "rawText": "一方、ニャル子は機械蜘蛛型に囲まれていた。"
+          "rawText": "一方、ニアは機械蜘蛛型に囲まれていた。"
         },
         {
           "id": "scene-100-beat-012",
@@ -34699,7 +34699,7 @@ window.STORY_DATA = {
           "id": "scene-100-beat-017",
           "index": 16,
           "kind": "narration",
-          "rawText": "ニャル子は短剣を逆手に持ち替え、あえて鈴を一度鳴らした。"
+          "rawText": "ニアは短剣を逆手に持ち替え、あえて鈴を一度鳴らした。"
         },
         {
           "id": "scene-100-beat-018",
@@ -34735,7 +34735,7 @@ window.STORY_DATA = {
           "id": "scene-100-beat-023",
           "index": 22,
           "kind": "narration",
-          "rawText": "黒い細針が関節部へ突き刺さり、脚の連動が止まる。ニャル子が続けざまに核らしき部位へ短剣を叩き込んだ。"
+          "rawText": "黒い細針が関節部へ突き刺さり、脚の連動が止まる。ニアが続けざまに核らしき部位へ短剣を叩き込んだ。"
         },
         {
           "id": "scene-100-beat-024",
@@ -35014,7 +35014,7 @@ window.STORY_DATA = {
           "id": "scene-101-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子が息をのむ。"
+          "rawText": "ニアが息をのむ。"
         },
         {
           "id": "scene-101-beat-016",
@@ -35080,7 +35080,7 @@ window.STORY_DATA = {
           "id": "scene-101-beat-026",
           "index": 25,
           "kind": "narration",
-          "rawText": "ニャル子が鈴を握る。"
+          "rawText": "ニアが鈴を握る。"
         },
         {
           "id": "scene-101-beat-027",
@@ -35182,7 +35182,7 @@ window.STORY_DATA = {
           "id": "scene-101-beat-043",
           "index": 42,
           "kind": "narration",
-          "rawText": "その迷いを断ち切ったのは、ニャル子だった。"
+          "rawText": "その迷いを断ち切ったのは、ニアだった。"
         },
         {
           "id": "scene-101-beat-044",
@@ -35284,7 +35284,7 @@ window.STORY_DATA = {
           "id": "scene-101-beat-060",
           "index": 59,
           "kind": "narration",
-          "rawText": "サトー、ニャル子、しろたまは、顔を見合わせる。"
+          "rawText": "サトー、ニア、しろたまは、顔を見合わせる。"
         },
         {
           "id": "scene-101-beat-061",
@@ -35365,7 +35365,7 @@ window.STORY_DATA = {
           "id": "scene-102-beat-010",
           "index": 9,
           "kind": "narration",
-          "rawText": "ニャル子が小さく言う。"
+          "rawText": "ニアが小さく言う。"
         },
         {
           "id": "scene-102-beat-011",
@@ -35377,7 +35377,7 @@ window.STORY_DATA = {
           "id": "scene-102-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "サトーの第三鍵が静かに震える。ニャル子の第二鍵も。しろたまが、ぴたりと前足を止める。"
+          "rawText": "サトーの第三鍵が静かに震える。ニアの第二鍵も。しろたまが、ぴたりと前足を止める。"
         },
         {
           "id": "scene-102-beat-013",
@@ -35455,7 +35455,7 @@ window.STORY_DATA = {
           "id": "scene-102-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "ニャル子も固まる。"
+          "rawText": "ニアも固まる。"
         },
         {
           "id": "scene-102-beat-026",
@@ -35545,7 +35545,7 @@ window.STORY_DATA = {
           "id": "scene-102-beat-040",
           "index": 39,
           "kind": "narration",
-          "rawText": "それは、昨日ニャル子に話した言葉そのものだったからだ。"
+          "rawText": "それは、昨日ニアに話した言葉そのものだったからだ。"
         },
         {
           "id": "scene-102-beat-041",
@@ -35668,7 +35668,7 @@ window.STORY_DATA = {
           "id": "scene-103-beat-011",
           "index": 10,
           "kind": "narration",
-          "rawText": "ニャル子が胸元の第二鍵を押さえる。しろたまも、警戒というより“理解しようとしている”目で相手を見ていた。"
+          "rawText": "ニアが胸元の第二鍵を押さえる。しろたまも、警戒というより“理解しようとしている”目で相手を見ていた。"
         },
         {
           "id": "scene-103-beat-012",
@@ -35752,7 +35752,7 @@ window.STORY_DATA = {
           "id": "scene-103-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "ニャル子が小さく呟く。"
+          "rawText": "ニアが小さく呟く。"
         },
         {
           "id": "scene-103-beat-026",
@@ -35839,7 +35839,7 @@ window.STORY_DATA = {
           "id": "scene-104-beat-005",
           "index": 4,
           "kind": "narration",
-          "rawText": "ニャル子が顔をしかめる。"
+          "rawText": "ニアが顔をしかめる。"
         },
         {
           "id": "scene-104-beat-006",
@@ -35917,7 +35917,7 @@ window.STORY_DATA = {
           "id": "scene-104-beat-018",
           "index": 17,
           "kind": "narration",
-          "rawText": "ニャル子は、三つの光景を順番に見た。"
+          "rawText": "ニアは、三つの光景を順番に見た。"
         },
         {
           "id": "scene-104-beat-019",
@@ -35935,7 +35935,7 @@ window.STORY_DATA = {
           "id": "scene-104-beat-021",
           "index": 20,
           "kind": "dialogue",
-          "rawText": "「……わたし」とニャル子は言った。「正直、最初の“全部終わる”はちょっと安心しますにゃ」"
+          "rawText": "「……わたし」とニアは言った。「正直、最初の“全部終わる”はちょっと安心しますにゃ」"
         },
         {
           "id": "scene-104-beat-022",
@@ -35953,7 +35953,7 @@ window.STORY_DATA = {
           "id": "scene-104-beat-024",
           "index": 23,
           "kind": "dialogue",
-          "rawText": "「でも」ニャル子は青い雫に触れる。「全部閉じたら、今つながってるものの中に、“残したいもの”まで閉じちゃいそうですにゃ」"
+          "rawText": "「でも」ニアは青い雫に触れる。「全部閉じたら、今つながってるものの中に、“残したいもの”まで閉じちゃいそうですにゃ」"
         },
         {
           "id": "scene-104-beat-025",
@@ -36013,7 +36013,7 @@ window.STORY_DATA = {
           "id": "scene-104-beat-034",
           "index": 33,
           "kind": "narration",
-          "rawText": "ニャル子が顔を上げる。"
+          "rawText": "ニアが顔を上げる。"
         },
         {
           "id": "scene-104-beat-035",
@@ -36055,7 +36055,7 @@ window.STORY_DATA = {
           "id": "scene-104-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "ニャル子が、隣で小さく笑う。"
+          "rawText": "ニアが、隣で小さく笑う。"
         },
         {
           "id": "scene-104-beat-042",
@@ -36232,7 +36232,7 @@ window.STORY_DATA = {
           "id": "scene-105-beat-012",
           "index": 11,
           "kind": "narration",
-          "rawText": "ニャル子は、しばらく胸元の第二鍵を見ていた。それから静かに言った。"
+          "rawText": "ニアは、しばらく胸元の第二鍵を見ていた。それから静かに言った。"
         },
         {
           "id": "scene-105-beat-013",
@@ -36316,7 +36316,7 @@ window.STORY_DATA = {
           "id": "scene-105-beat-026",
           "index": 25,
           "kind": "narration",
-          "rawText": "ニャル子がすぐに続けた。"
+          "rawText": "ニアがすぐに続けた。"
         },
         {
           "id": "scene-105-beat-027",
@@ -36424,7 +36424,7 @@ window.STORY_DATA = {
           "id": "scene-105-beat-044",
           "index": 43,
           "kind": "narration",
-          "rawText": "ニャル子が少しだけ息を吐いた。"
+          "rawText": "ニアが少しだけ息を吐いた。"
         },
         {
           "id": "scene-105-beat-045",
@@ -36460,7 +36460,7 @@ window.STORY_DATA = {
           "id": "scene-105-beat-050",
           "index": 49,
           "kind": "narration",
-          "rawText": "その返しに、ニャル子が少し笑う。しろたまも「もふ」と鳴いた。"
+          "rawText": "その返しに、ニアが少し笑う。しろたまも「もふ」と鳴いた。"
         },
         {
           "id": "scene-105-beat-051",
@@ -36595,7 +36595,7 @@ window.STORY_DATA = {
           "id": "scene-106-beat-018",
           "index": 17,
           "kind": "narration",
-          "rawText": "ニャル子は、三人のほうを見て、静かに頷いた。"
+          "rawText": "ニアは、三人のほうを見て、静かに頷いた。"
         },
         {
           "id": "scene-106-beat-019",
@@ -36607,7 +36607,7 @@ window.STORY_DATA = {
           "id": "scene-106-beat-020",
           "index": 19,
           "kind": "narration",
-          "rawText": "サトーは最後に、ニャル子としろたまを見る。"
+          "rawText": "サトーは最後に、ニアとしろたまを見る。"
         },
         {
           "id": "scene-106-beat-021",
@@ -36619,7 +36619,7 @@ window.STORY_DATA = {
           "id": "scene-106-beat-022",
           "index": 21,
           "kind": "narration",
-          "rawText": "ニャル子は、胸元の第二鍵と鈴に触れる。"
+          "rawText": "ニアは、胸元の第二鍵と鈴に触れる。"
         },
         {
           "id": "scene-106-beat-023",
@@ -36667,7 +36667,7 @@ window.STORY_DATA = {
           "id": "scene-106-beat-030",
           "index": 29,
           "kind": "narration",
-          "rawText": "ニャル子が目をぱちぱちさせる。"
+          "rawText": "ニアが目をぱちぱちさせる。"
         },
         {
           "id": "scene-106-beat-031",
@@ -36685,7 +36685,7 @@ window.STORY_DATA = {
           "id": "scene-106-beat-033",
           "index": 32,
           "kind": "narration",
-          "rawText": "ニャル子の顔が、ふわっと明るくなる。"
+          "rawText": "ニアの顔が、ふわっと明るくなる。"
         },
         {
           "id": "scene-106-beat-034",
@@ -36751,7 +36751,7 @@ window.STORY_DATA = {
           "id": "scene-106-beat-044",
           "index": 43,
           "kind": "narration",
-          "rawText": "サトーは第三鍵を構え、ニャル子は第二鍵と導鈴を胸に、しろたまは足跡の紋の上で静かに息を整えた。"
+          "rawText": "サトーは第三鍵を構え、ニアは第二鍵と導鈴を胸に、しろたまは足跡の紋の上で静かに息を整えた。"
         },
         {
           "id": "scene-106-beat-045",
@@ -36832,7 +36832,7 @@ window.STORY_DATA = {
           "id": "scene-107-beat-008",
           "index": 7,
           "kind": "narration",
-          "rawText": "ニャル子も。しろたまも。"
+          "rawText": "ニアも。しろたまも。"
         },
         {
           "id": "scene-107-beat-009",
@@ -36931,7 +36931,7 @@ window.STORY_DATA = {
           "id": "scene-108-beat-006",
           "index": 5,
           "kind": "narration",
-          "rawText": "ニャル子も小さく息をのむ。"
+          "rawText": "ニアも小さく息をのむ。"
         },
         {
           "id": "scene-108-beat-007",
@@ -36985,7 +36985,7 @@ window.STORY_DATA = {
           "id": "scene-108-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子の第二鍵が静かに震える。サトーの第三鍵も応じる。しろたまの感応が、いつもより広く澄んで流れ込んできた。"
+          "rawText": "ニアの第二鍵が静かに震える。サトーの第三鍵も応じる。しろたまの感応が、いつもより広く澄んで流れ込んできた。"
         },
         {
           "id": "scene-108-beat-016",
@@ -37045,7 +37045,7 @@ window.STORY_DATA = {
           "id": "scene-108-beat-025",
           "index": 24,
           "kind": "narration",
-          "rawText": "ニャル子がぽつりと言う。"
+          "rawText": "ニアがぽつりと言う。"
         },
         {
           "id": "scene-108-beat-026",
@@ -37135,13 +37135,13 @@ window.STORY_DATA = {
           "id": "scene-108-beat-040",
           "index": 39,
           "kind": "narration",
-          "rawText": "サトーは、ニャル子としろたまを見た。"
+          "rawText": "サトーは、ニアとしろたまを見た。"
         },
         {
           "id": "scene-108-beat-041",
           "index": 40,
           "kind": "narration",
-          "rawText": "ニャル子も、彼を見る。しろたまも、二人を見上げる。"
+          "rawText": "ニアも、彼を見る。しろたまも、二人を見上げる。"
         },
         {
           "id": "scene-108-beat-042",
@@ -37159,7 +37159,7 @@ window.STORY_DATA = {
           "id": "scene-108-beat-044",
           "index": 43,
           "kind": "narration",
-          "rawText": "ニャル子が続ける。"
+          "rawText": "ニアが続ける。"
         },
         {
           "id": "scene-108-beat-045",
@@ -37213,7 +37213,7 @@ window.STORY_DATA = {
           "id": "scene-108-beat-053",
           "index": 52,
           "kind": "narration",
-          "rawText": "ニャル子は第二鍵に触れながら言う。"
+          "rawText": "ニアは第二鍵に触れながら言う。"
         },
         {
           "id": "scene-108-beat-054",
@@ -37291,7 +37291,7 @@ window.STORY_DATA = {
           "id": "scene-108-beat-066",
           "index": 65,
           "kind": "narration",
-          "rawText": "ニャル子が、目を見開く。"
+          "rawText": "ニアが、目を見開く。"
         },
         {
           "id": "scene-108-beat-067",
@@ -37363,7 +37363,7 @@ window.STORY_DATA = {
           "id": "scene-108-beat-078",
           "index": 77,
           "kind": "narration",
-          "rawText": "ニャル子が、胸元の青い雫に触れる。サトーは第三鍵を握る。しろたまは、自分の前足を見る。"
+          "rawText": "ニアが、胸元の青い雫に触れる。サトーは第三鍵を握る。しろたまは、自分の前足を見る。"
         },
         {
           "id": "scene-108-beat-079",
@@ -37375,7 +37375,7 @@ window.STORY_DATA = {
           "id": "scene-108-beat-080",
           "index": 79,
           "kind": "narration",
-          "rawText": "この再設計を実行すれば、サトーは第三鍵の保持者ではいられなくなるかもしれない。ニャル子も第二鍵の承認保持者ではなくなる。しろたまの感応も、今のようには機能しなくなる可能性がある。"
+          "rawText": "この再設計を実行すれば、サトーは第三鍵の保持者ではいられなくなるかもしれない。ニアも第二鍵の承認保持者ではなくなる。しろたまの感応も、今のようには機能しなくなる可能性がある。"
         },
         {
           "id": "scene-108-beat-081",
@@ -37399,7 +37399,7 @@ window.STORY_DATA = {
           "id": "scene-108-beat-084",
           "index": 83,
           "kind": "narration",
-          "rawText": "ニャル子も、少しだけ寂しそうに笑った。"
+          "rawText": "ニアも、少しだけ寂しそうに笑った。"
         },
         {
           "id": "scene-108-beat-085",
@@ -37468,7 +37468,7 @@ window.STORY_DATA = {
           "id": "scene-109-beat-004",
           "index": 3,
           "kind": "narration",
-          "rawText": "その瞬間、サトーの第三鍵《天穿の杖槍》が強く震えた。ニャル子の胸元の第二鍵《水哭の涙》も光る。第一鍵の応答の記憶が、遠い場所から静かに戻ってくるような感覚がある。"
+          "rawText": "その瞬間、サトーの第三鍵《天穿の杖槍》が強く震えた。ニアの胸元の第二鍵《水哭の涙》も光る。第一鍵の応答の記憶が、遠い場所から静かに戻ってくるような感覚がある。"
         },
         {
           "id": "scene-109-beat-005",
@@ -37534,13 +37534,13 @@ window.STORY_DATA = {
           "id": "scene-109-beat-015",
           "index": 14,
           "kind": "narration",
-          "rawText": "ニャル子の胸元の青い雫が、涙の形からやわらかな紋へ変わる。完全に消えはしない。だが“この子だけが持つ絶対の拒否権”ではなくなっていくのがわかった。"
+          "rawText": "ニアの胸元の青い雫が、涙の形からやわらかな紋へ変わる。完全に消えはしない。だが“この子だけが持つ絶対の拒否権”ではなくなっていくのがわかった。"
         },
         {
           "id": "scene-109-beat-016",
           "index": 15,
           "kind": "narration",
-          "rawText": "ニャル子は、胸の奥が少し空くような寂しさを感じた。でも、それでよかった。"
+          "rawText": "ニアは、胸の奥が少し空くような寂しさを感じた。でも、それでよかった。"
         },
         {
           "id": "scene-109-beat-017",
@@ -37588,7 +37588,7 @@ window.STORY_DATA = {
           "id": "scene-109-beat-024",
           "index": 23,
           "kind": "narration",
-          "rawText": "ニャル子が涙目のまま笑う。"
+          "rawText": "ニアが涙目のまま笑う。"
         },
         {
           "id": "scene-109-beat-025",
@@ -37705,7 +37705,7 @@ window.STORY_DATA = {
           "id": "scene-110-beat-010",
           "index": 9,
           "kind": "narration",
-          "rawText": "ニャル子も、静かに前へ出た。"
+          "rawText": "ニアも、静かに前へ出た。"
         },
         {
           "id": "scene-110-beat-011",
@@ -37840,7 +37840,7 @@ window.STORY_DATA = {
           "id": "scene-111-beat-011",
           "index": 10,
           "kind": "narration",
-          "rawText": "ニャル子がゆっくり言う。"
+          "rawText": "ニアがゆっくり言う。"
         },
         {
           "id": "scene-111-beat-012",
@@ -37882,7 +37882,7 @@ window.STORY_DATA = {
           "id": "scene-111-beat-018",
           "index": 17,
           "kind": "narration",
-          "rawText": "ニャル子が頷く。"
+          "rawText": "ニアが頷く。"
         },
         {
           "id": "scene-111-beat-019",
@@ -37984,7 +37984,7 @@ window.STORY_DATA = {
           "id": "scene-111-beat-035",
           "index": 34,
           "kind": "narration",
-          "rawText": "その言葉に、ニャル子が少しだけ笑った。"
+          "rawText": "その言葉に、ニアが少しだけ笑った。"
         },
         {
           "id": "scene-111-beat-036",
@@ -38077,7 +38077,7 @@ window.STORY_DATA = {
           "id": "scene-112-beat-006",
           "index": 5,
           "kind": "narration",
-          "rawText": "ニャル子も、振り返っていた。"
+          "rawText": "ニアも、振り返っていた。"
         },
         {
           "id": "scene-112-beat-007",
@@ -38164,7 +38164,7 @@ window.STORY_DATA = {
           "id": "scene-113-beat-003",
           "index": 2,
           "kind": "narration",
-          "rawText": "サトーは反射的に周囲を見る。ニャル子。しろたま。いる。"
+          "rawText": "サトーは反射的に周囲を見る。ニア。しろたま。いる。"
         },
         {
           "id": "scene-113-beat-004",
@@ -38206,7 +38206,7 @@ window.STORY_DATA = {
           "id": "scene-113-beat-010",
           "index": 9,
           "kind": "narration",
-          "rawText": "ニャル子が胸元を見る。"
+          "rawText": "ニアが胸元を見る。"
         },
         {
           "id": "scene-113-beat-011",
@@ -38242,7 +38242,7 @@ window.STORY_DATA = {
           "id": "scene-113-beat-016",
           "index": 15,
           "kind": "dialogue",
-          "rawText": "「気のせいじゃないですにゃ」とニャル子。"
+          "rawText": "「気のせいじゃないですにゃ」とニア。"
         },
         {
           "id": "scene-113-beat-017",
@@ -38461,7 +38461,7 @@ window.STORY_DATA = {
           "id": "scene-114-beat-010",
           "index": 9,
           "kind": "narration",
-          "rawText": "ニャル子は変わらずそこにいて、しろたまも変わらずころころしていて、サトーのヒゲ魔法も、完全には消えなかった。ただし前よりだいぶ“暮らし向き”になった。"
+          "rawText": "ニアは変わらずそこにいて、しろたまも変わらずころころしていて、サトーのヒゲ魔法も、完全には消えなかった。ただし前よりだいぶ“暮らし向き”になった。"
         },
         {
           "id": "scene-114-beat-011",
@@ -38545,7 +38545,7 @@ window.STORY_DATA = {
           "id": "scene-114-beat-024",
           "index": 23,
           "kind": "narration",
-          "rawText": "シチュー。焼きたてのパン。しろたま用の小皿。ニャル子の笑い声。"
+          "rawText": "シチュー。焼きたてのパン。しろたま用の小皿。ニアの笑い声。"
         },
         {
           "id": "scene-114-beat-025",
@@ -38581,7 +38581,7 @@ window.STORY_DATA = {
           "id": "scene-114-beat-030",
           "index": 29,
           "kind": "narration",
-          "rawText": "ニャル子も笑う。"
+          "rawText": "ニアも笑う。"
         },
         {
           "id": "scene-114-beat-031",

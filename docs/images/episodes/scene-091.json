@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-091.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十八章　王都地下、中央座標前夜編. Episode title: 第八十九話　先代の最後の会話. Episode summary: 「次はこれを見てほしい」レギウスが出したのは、薄い金属板だった。端が焼け、表面に細かな傷がある。かなり無理をして持ち出した記録らしい。 Beat excerpt: 「次はこれを見てほしい」 レギウスが出したのは、薄い金属板だった。端が焼け、表面に細かな傷がある。かなり無理をして持ち出した記録らしい。 「先代継承列の、最後の会話記録だ。王都の正式文書には残っていない」 イゼルが、それを見て一瞬だけ顔をしかめた。 「……まだ持っていたのね」 「捨てられるものか」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十八章　王都地下、中央座標前夜編. Episode title: 第八十九話　先代の最後の会話. Episode summary: 「次はこれを見てほしい」レギウスが出したのは、薄い金属板だった。端が焼け、表面に細かな傷がある。かなり無理をして持ち出した記録らしい。 Beat excerpt: 「次はこれを見てほしい」 レギウスが出したのは、薄い金属板だった。端が焼け、表面に細かな傷がある。かなり無理をして持ち出した記録らしい。 「先代継承列の、最後の会話記録だ。王都の正式文書には残っていない」 イゼルが、それを見て一瞬だけ顔をしかめた。 「……まだ持っていたのね」 「捨てられるものか」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
   "responseTexts": []
 }

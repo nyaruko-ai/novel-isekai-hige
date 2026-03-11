@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" role="img" aria-labelledby="scene-002-title scene-002-desc">
-  <title id="scene-002-title">第二話　猫耳メイドニャル子、仕える</title>
-  <desc id="scene-002-desc">第一章　はじまりの第二話　猫耳メイドニャル子、仕えるをイメージしたビジュアルカード</desc>
+  <title id="scene-002-title">第二話　猫耳メイドニア、仕える</title>
+  <desc id="scene-002-desc">第一章　はじまりの第二話　猫耳メイドニア、仕えるをイメージしたビジュアルカード</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#f8d7a8" />
@@ -30,6 +30,6 @@
   </g>
   <text x="88" y="1290" font-size="28" font-weight="700" letter-spacing="8" fill="#fff9ef" opacity="0.92" font-family="'Avenir Next', 'Hiragino Sans', sans-serif">第1章</text>
   <text x="88" y="1348" font-size="42" font-weight="500" letter-spacing="2" fill="#fff9ef" opacity="0.88" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第一章　はじまり</tspan></text>
-  <text x="88" y="1496" font-size="74" font-weight="700" letter-spacing="2" fill="#ffffff" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第二話　猫耳メイドニャル子、</tspan><tspan x="88" dy="88">仕える</tspan></text>
+  <text x="88" y="1496" font-size="74" font-weight="700" letter-spacing="2" fill="#ffffff" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif"><tspan x="88" dy="0">第二話　猫耳メイドニア、</tspan><tspan x="88" dy="88">仕える</tspan></text>
   <rect x="88" y="1600" width="280" height="2" fill="#fff9ef" opacity="0.85" />
 </svg>

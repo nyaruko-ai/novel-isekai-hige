@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-044.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第九章　灰鐘の修道院と、鈴の系譜編. Episode title: 第四十四話　霧域の道しるべ. Episode summary: 灰鐘の修道院への道は、最初からまともではなかった。昼を過ぎるころ、一行は旧王都圏の外縁に広がる丘陵地へ入った。そこは地図の上ではただの荒れ地… Beat excerpt: 灰鐘の修道院への道は、最初からまともではなかった。 昼を過ぎるころ、一行は旧王都圏の外縁に広がる丘陵地へ入った。そこは地図の上ではただの荒れ地に見える。けれど実際には、白い霧が地面の近くを這い、音の響き方までおかしかった。 遠くの岩が近く見える。近くの木立が、歩いてもなかなか近づかない。しかも空の色まで少し薄い。 「……嫌だな、ここ」 サトーが素直にそう言うと、セレスティアが答えた。 「正常な感想です」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第九章　灰鐘の修道院と、鈴の系譜編. Episode title: 第四十四話　霧域の道しるべ. Episode summary: 灰鐘の修道院への道は、最初からまともではなかった。昼を過ぎるころ、一行は旧王都圏の外縁に広がる丘陵地へ入った。そこは地図の上ではただの荒れ地… Beat excerpt: 灰鐘の修道院への道は、最初からまともではなかった。 昼を過ぎるころ、一行は旧王都圏の外縁に広がる丘陵地へ入った。そこは地図の上ではただの荒れ地に見える。けれど実際には、白い霧が地面の近くを這い、音の響き方までおかしかった。 遠くの岩が近く見える。近くの木立が、歩いてもなかなか近づかない。しかも空の色まで少し薄い。 「……嫌だな、ここ」 サトーが素直にそう言うと、セレスティアが答えた。 「正常な感想です」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

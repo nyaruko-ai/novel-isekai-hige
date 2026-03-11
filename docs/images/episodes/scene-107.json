@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-107.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/final-confirmer.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "final-confirmer"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二十一章　最終確認者と、最後の問い編. Episode title: 第百五話　門の向こうの光. Episode summary: 最終門が開く音は、静かだった。巨大な何かが動く轟音ではない。むしろ、長いあいだ閉じていた呼吸が、ようやく整うような音。 Beat excerpt: 最終門が開く音は、静かだった。 巨大な何かが動く轟音ではない。むしろ、長いあいだ閉じていた呼吸が、ようやく整うような音。 円環の向こうに、白とも青ともつかない光が満ちる。 それは眩しいのに痛くない。遠いのに、妙に近い。まるで空の色と深い水の色を、一緒にしたみたいな光。 最終確認者が、最後に言った。 「ここから先で、君たちは最後に“何を残すか”を選ぶ。鍵を揃える旅の終わりは、鍵をどう終わらせるかで決まる」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, final-confirmer. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二十一章　最終確認者と、最後の問い編. Episode title: 第百五話　門の向こうの光. Episode summary: 最終門が開く音は、静かだった。巨大な何かが動く轟音ではない。むしろ、長いあいだ閉じていた呼吸が、ようやく整うような音。 Beat excerpt: 最終門が開く音は、静かだった。 巨大な何かが動く轟音ではない。むしろ、長いあいだ閉じていた呼吸が、ようやく整うような音。 円環の向こうに、白とも青ともつかない光が満ちる。 それは眩しいのに痛くない。遠いのに、妙に近い。まるで空の色と深い水の色を、一緒にしたみたいな光。 最終確認者が、最後に言った。 「ここから先で、君たちは最後に“何を残すか”を選ぶ。鍵を揃える旅の終わりは、鍵をどう終わらせるかで決まる」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, final-confirmer. Continuity notes: This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
   "responseTexts": []
 }

@@ -8,17 +8,17 @@
   "rawOutput": "docs/images/episodes/scene-003.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/village-chief.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "village-chief"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第一章　はじまり. Episode title: 第三話　ヒゲ、盗賊を縛る. Episode summary: 平和な時間は、長くは続かなかった。その日の夕方、村の入口が騒がしくなった。怒号と悲鳴が飛び交い、馬のいななきが響く。 Beat excerpt: 平和な時間は、長くは続かなかった。 その日の夕方、村の入口が騒がしくなった。怒号と悲鳴が飛び交い、馬のいななきが響く。 宿屋の窓から外を見たニャル子の耳が、ぴんと立つ。 「まずいですにゃ！　山賊団《赤狼》ですにゃ！」 「テンプレみたいなの来たな……！」 「テンプレでも普通に危険ですにゃ！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, village-chief. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第一章　はじまり. Episode title: 第三話　ヒゲ、盗賊を縛る. Episode summary: 平和な時間は、長くは続かなかった。その日の夕方、村の入口が騒がしくなった。怒号と悲鳴が飛び交い、馬のいななきが響く。 Beat excerpt: 平和な時間は、長くは続かなかった。 その日の夕方、村の入口が騒がしくなった。怒号と悲鳴が飛び交い、馬のいななきが響く。 宿屋の窓から外を見たニアの耳が、ぴんと立つ。 「まずいですにゃ！　山賊団《赤狼》ですにゃ！」 「テンプレみたいなの来たな……！」 「テンプレでも普通に危険ですにゃ！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, village-chief. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

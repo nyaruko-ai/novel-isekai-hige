@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-025.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第五章　古道の地下遺構と、空から来る追跡者編. Episode title: 第二十五話　追跡者の青い目. Episode summary: 最初の一体が突っ込んできた。速い。 Beat excerpt: 最初の一体が突っ込んできた。 速い。 翼というより滑空刃のような膜を震わせ、音もなく一直線にサトーの喉元を狙ってくる。剣で斬るというより、捕獲用の鉤爪で抑え込むつもりらしい。 「――《ヒゲ絡》！」 伸びたヒゲが空中で輪を描き、飛び込んできた機体の片翼を絡め取る。だが軽い。しかも、捕まえた瞬間に反転してくる。 「うおっ、器用だな！？」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第五章　古道の地下遺構と、空から来る追跡者編. Episode title: 第二十五話　追跡者の青い目. Episode summary: 最初の一体が突っ込んできた。速い。 Beat excerpt: 最初の一体が突っ込んできた。 速い。 翼というより滑空刃のような膜を震わせ、音もなく一直線にサトーの喉元を狙ってくる。剣で斬るというより、捕獲用の鉤爪で抑え込むつもりらしい。 「――《ヒゲ絡》！」 伸びたヒゲが空中で輪を描き、飛び込んできた機体の片翼を絡め取る。だが軽い。しかも、捕まえた瞬間に反転してくる。 「うおっ、器用だな！？」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

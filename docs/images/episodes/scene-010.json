@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-010.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/village-chief.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "village-chief"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二章　森のダンジョンと、もふもふの予感. Episode title: 第十話　ダンジョンの奥から聞こえるもの. Episode summary: テイムを終えたあと、三人――いや二人と一匹は、その場でいったん引き返すことにした。本来の目的は偵察だ。第一階層で従魔契約までしてしまった時点… Beat excerpt: テイムを終えたあと、三人――いや二人と一匹は、その場でいったん引き返すことにした。 本来の目的は偵察だ。第一階層で従魔契約までしてしまった時点で十分すぎる収穫である。 だが、帰り道。 ダンジョン入口へ戻る少し前で、サトーが足を止めた。 「……聞こえる」 ニャル子も真顔になる。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, village-chief. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二章　森のダンジョンと、もふもふの予感. Episode title: 第十話　ダンジョンの奥から聞こえるもの. Episode summary: テイムを終えたあと、三人――いや二人と一匹は、その場でいったん引き返すことにした。本来の目的は偵察だ。第一階層で従魔契約までしてしまった時点… Beat excerpt: テイムを終えたあと、三人――いや二人と一匹は、その場でいったん引き返すことにした。 本来の目的は偵察だ。第一階層で従魔契約までしてしまった時点で十分すぎる収穫である。 だが、帰り道。 ダンジョン入口へ戻る少し前で、サトーが足を止めた。 「……聞こえる」 ニアも真顔になる。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, village-chief. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

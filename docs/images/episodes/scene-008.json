@@ -8,15 +8,15 @@
   "rawOutput": "docs/images/episodes/scene-008.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png"
+    "docs/images/characters/nia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko"
+    "nia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二章　森のダンジョンと、もふもふの予感. Episode title: 第八話　第一階層、ふわふわ足跡. Episode summary: ダンジョンの中は、意外にも暗すぎなかった。壁に埋め込まれた淡い青色の石が、一定間隔で周囲を照らしている。石造りの通路はひんやりとしており、床… Beat excerpt: ダンジョンの中は、意外にも暗すぎなかった。 壁に埋め込まれた淡い青色の石が、一定間隔で周囲を照らしている。石造りの通路はひんやりとしており、床には古い模様が走っていた。湿っぽさはない。むしろ妙に整っていて、管理された遺跡のようですらある。 「思ったより歩きやすいな」 「ですにゃ。罠の匂いも今のところ薄いですにゃ」 「罠の匂いってなんだ」 「なんとなくですにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二章　森のダンジョンと、もふもふの予感. Episode title: 第八話　第一階層、ふわふわ足跡. Episode summary: ダンジョンの中は、意外にも暗すぎなかった。壁に埋め込まれた淡い青色の石が、一定間隔で周囲を照らしている。石造りの通路はひんやりとしており、床… Beat excerpt: ダンジョンの中は、意外にも暗すぎなかった。 壁に埋め込まれた淡い青色の石が、一定間隔で周囲を照らしている。石造りの通路はひんやりとしており、床には古い模様が走っていた。湿っぽさはない。むしろ妙に整っていて、管理された遺跡のようですらある。 「思ったより歩きやすいな」 「ですにゃ。罠の匂いも今のところ薄いですにゃ」 「罠の匂いってなんだ」 「なんとなくですにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

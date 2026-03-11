@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-049.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十章　灰鐘院防衛戦と、地下鐘堂の記憶編. Episode title: 第四十九話　地下鐘堂. Episode summary: 一方その頃。ニャル子、セレスティア、しろたま、そしてマグダレナは、修道院のさらに奥、地下へ降りていた。 Beat excerpt: 一方その頃。 ニャル子、セレスティア、しろたま、そしてマグダレナは、修道院のさらに奥、地下へ降りていた。 階段は細く、古い。壁に埋め込まれた灯りは蝋燭ではなく、小さな灰色の結晶だった。歩くたびに、微かな鈴の音のような反響がある。 「……ほんとに鐘堂なんですにゃ」 「そうさ」とマグダレナ。「昔は、ここで導き手たちが“道を外さないための記録”を受け取った」 「道を外さない……」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十章　灰鐘院防衛戦と、地下鐘堂の記憶編. Episode title: 第四十九話　地下鐘堂. Episode summary: 一方その頃。ニア、セレスティア、しろたま、そしてマグダレナは、修道院のさらに奥、地下へ降りていた。 Beat excerpt: 一方その頃。 ニア、セレスティア、しろたま、そしてマグダレナは、修道院のさらに奥、地下へ降りていた。 階段は細く、古い。壁に埋め込まれた灯りは蝋燭ではなく、小さな灰色の結晶だった。歩くたびに、微かな鈴の音のような反響がある。 「……ほんとに鐘堂なんですにゃ」 「そうさ」とマグダレナ。「昔は、ここで導き手たちが“道を外さないための記録”を受け取った」 「道を外さない……」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

@@ -8,17 +8,17 @@
   "rawOutput": "docs/images/episodes/scene-112.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 最終章　中央座標と、サトーたちが選ぶ終わり編. Episode title: 第百十話　ただ、帰るために. Episode summary: 帰還の光路は、来たときよりあたたかかった。中央座標そのものが、敵でも試練でもなくなったからかもしれない。 Beat excerpt: 帰還の光路は、来たときよりあたたかかった。 中央座標そのものが、敵でも試練でもなくなったからかもしれない。 サトーは、最後に一度だけ振り返った。 白青の光。ほどけていく三本の集中線。静かに眠りへ入る中央座標。 もうここへ、今までと同じ形で来ることはないだろう。 ニャル子も、振り返っていた。 Choose one grounded emotional image: Sato, Nyaruko, and Shirotama walking home along a warm glowing return path inside ancient fantasy ruins, with Sato and Nyaruko glancing back over their shoulders one final time at a distant white-blue central coordinate that is quietly shutting down. Keep the central coordinate small and far in the background. The main subject must be the three returning companions, not abstract light effects. Use the supplied reference images as mandatory canonical references for character identity and costume continuity. Sato must match his reference portrait: rugged Japanese man, medium dark hair, beard, calm dependable face, layered dark fantasy traveler clothing, not modern casual wear. Nyaruko must match her reference portrait exactly: petite silver bob hair, cat ears, warm amber eyes, black-and-white maid outfit, pale tail, bell at upper chest, blue teardrop mark below the bell. Shirotama must match the reference exactly: small white fluffy round fur-ball, huge black eyes, tiny tail, no visible legs, not a normal cat. Mood is relief, warmth, and quiet closure after a long struggle. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 最終章　中央座標と、サトーたちが選ぶ終わり編. Episode title: 第百十話　ただ、帰るために. Episode summary: 帰還の光路は、来たときよりあたたかかった。中央座標そのものが、敵でも試練でもなくなったからかもしれない。 Beat excerpt: 帰還の光路は、来たときよりあたたかかった。 中央座標そのものが、敵でも試練でもなくなったからかもしれない。 サトーは、最後に一度だけ振り返った。 白青の光。ほどけていく三本の集中線。静かに眠りへ入る中央座標。 もうここへ、今までと同じ形で来ることはないだろう。 ニアも、振り返っていた。 Choose one grounded emotional image: Sato, Nia, and Shirotama walking home along a warm glowing return path inside ancient fantasy ruins, with Sato and Nia glancing back over their shoulders one final time at a distant white-blue central coordinate that is quietly shutting down. Keep the central coordinate small and far in the background. The main subject must be the three returning companions, not abstract light effects. Use the supplied reference images as mandatory canonical references for character identity and costume continuity. Sato must match his reference portrait: rugged Japanese man, medium dark hair, beard, calm dependable face, layered dark fantasy traveler clothing, not modern casual wear. Nia must match her reference portrait exactly: petite silver bob hair, cat ears, warm amber eyes, black-and-white maid outfit, pale tail, bell at upper chest, blue teardrop mark below the bell. Shirotama must match the reference exactly: small white fluffy round fur-ball, huge black eyes, tiny tail, no visible legs, not a normal cat. Mood is relief, warmth, and quiet closure after a long struggle. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition.",
   "responseTexts": []
 }

@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-029.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第六章　第七座標の記録庫と、サトーに似た“先代”の影編. Episode title: 第二十九話　白の記録と、先代の影. Episode summary: 視界が白く塗り潰される。だが次の瞬間、サトーたちは“映像の中”に立っていた。 Beat excerpt: 視界が白く塗り潰される。 だが次の瞬間、サトーたちは“映像の中”に立っていた。 第七座標と似た場所。ただし今よりもずっと明るく、ずっと活気がある。通路には光が走り、遠くでは誰かが行き交っている。空の向こうには巨大な円環都市の一部らしき景色も見える。 「記録投影ですにゃ……」 ニャル子が小声で言った。 サトーの前方に、一人の男がいた。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第六章　第七座標の記録庫と、サトーに似た“先代”の影編. Episode title: 第二十九話　白の記録と、先代の影. Episode summary: 視界が白く塗り潰される。だが次の瞬間、サトーたちは“映像の中”に立っていた。 Beat excerpt: 視界が白く塗り潰される。 だが次の瞬間、サトーたちは“映像の中”に立っていた。 第七座標と似た場所。ただし今よりもずっと明るく、ずっと活気がある。通路には光が走り、遠くでは誰かが行き交っている。空の向こうには巨大な円環都市の一部らしき景色も見える。 「記録投影ですにゃ……」 ニアが小声で言った。 サトーの前方に、一人の男がいた。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

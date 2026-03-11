@@ -8,17 +8,17 @@
   "rawOutput": "docs/images/episodes/scene-111.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 最終章　中央座標と、サトーたちが選ぶ終わり編. Episode title: 第百九話　中央座標の終わり方. Episode summary: やがて、中央座標の再設計は終盤に入った。光核の中心で、今まで最も強く巡っていた三本の線――第一、第二、第三の集中経路が、ほぼ完全に分散されて… Beat excerpt: やがて、中央座標の再設計は終盤に入った。 光核の中心で、今まで最も強く巡っていた三本の線――第一、第二、第三の集中経路が、ほぼ完全に分散されていく。 『旧継承列制度、解除完了まで残り一工程』 サトーが顔を上げる。 「まだあるのか」 『中央座標の常時起動を終了するか、限定待機へ移行するかを選択せよ』 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 最終章　中央座標と、サトーたちが選ぶ終わり編. Episode title: 第百九話　中央座標の終わり方. Episode summary: やがて、中央座標の再設計は終盤に入った。光核の中心で、今まで最も強く巡っていた三本の線――第一、第二、第三の集中経路が、ほぼ完全に分散されて… Beat excerpt: やがて、中央座標の再設計は終盤に入った。 光核の中心で、今まで最も強く巡っていた三本の線――第一、第二、第三の集中経路が、ほぼ完全に分散されていく。 『旧継承列制度、解除完了まで残り一工程』 サトーが顔を上げる。 「まだあるのか」 『中央座標の常時起動を終了するか、限定待機へ移行するかを選択せよ』 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama. Continuity notes: This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
   "responseTexts": []
 }

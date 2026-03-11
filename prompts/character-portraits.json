@@ -31,8 +31,8 @@
       "negativePrompt": "comedic beard tentacles, exaggerated superhero pose, teenage face, modern business clothes, plain peasant shirt only, gaudy king costume, heavy full plate armor"
     },
     {
-      "id": "nyaruko",
-      "name": "ニャル子",
+      "id": "nia",
+      "name": "ニア",
       "tier": "premium",
       "model": "gemini-3-pro-image-preview",
       "role": "main heroine",
@@ -43,7 +43,7 @@
       ],
       "sourceSummary": "A cheerful cat-eared maid girl with silver hair, a large tail, and a lovable expression. The novel explicitly says amber eyes, a black-and-white maid outfit, and a bell worn at her chest. Later she bears the blue teardrop mark of the second key directly below that bell.",
       "referencePolicy": "Use the user-provided reference image as the primary design source for face shape, hair length, cat ears, tail volume, and overall silhouette. Do not copy the pink costume colors from the reference. Keep the result photorealistic instead of anime.",
-      "prompt": "Create a photorealistic full-body portrait of Nyaruko, a cat-eared maid heroine, based primarily on the supplied reference image but translated into realistic live-action fantasy style. She is petite and bright, with soft silver bob hair, expressive cat ears, a fluffy pale tail, and a lovable mischievous smile. Her eyes should be warm amber, matching the novel text. Keep the facial impression, ear shape, tail volume, youthful silhouette, and friendly charm from the reference image, but change the outfit to match the novel: a black-and-white maid dress for a fantasy village inn, elegant but practical, with a modest neckline, white apron, believable fabric, and a skirt length around the knees. The overall look should read as a real working maid in a warm inn, not stage costume or idol costume. A small but clearly visible bell must be attached at the upper chest or collar area as part of her signature design. Add the later-story blue teardrop emblem or jewel-like mark directly below the bell, so both the bell and the blue mark are visible together. Preserve ribbon and lace balance only if it still reads as a believable black-and-white maid uniform. Mood should be warm, lively, loyal, and slightly playful. Absolutely not anime; realistic human proportions and facial structure.",
+      "prompt": "Create a photorealistic full-body portrait of Nia, a cat-eared maid heroine, based primarily on the supplied reference image but translated into realistic live-action fantasy style. She is petite and bright, with soft silver bob hair, expressive cat ears, a fluffy pale tail, and a lovable mischievous smile. Her eyes should be warm amber, matching the novel text. Keep the facial impression, ear shape, tail volume, youthful silhouette, and friendly charm from the reference image, but change the outfit to match the novel: a black-and-white maid dress for a fantasy village inn, elegant but practical, with a modest neckline, white apron, believable fabric, and a skirt length around the knees. The overall look should read as a real working maid in a warm inn, not stage costume or idol costume. A small but clearly visible bell must be attached at the upper chest or collar area as part of her signature design. Add the later-story blue teardrop emblem or jewel-like mark directly below the bell, so both the bell and the blue mark are visible together. Preserve ribbon and lace balance only if it still reads as a believable black-and-white maid uniform. Mood should be warm, lively, loyal, and slightly playful. Absolutely not anime; realistic human proportions and facial structure.",
       "negativePrompt": "anime face, doll joints, cosplay photography feel, fetish framing, overly sexualized maid pose, exposed upper thighs, ultra short skirt, lingerie styling, pin-up pose, missing bell, hidden bell, necklace only without bell"
     },
     {

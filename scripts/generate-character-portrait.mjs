@@ -9,7 +9,7 @@ const envPath = path.join(rootDir, ".env");
 const promptPath = path.join(rootDir, "prompts", "character-portraits.json");
 const outputDir = path.join(rootDir, "docs", "images", "characters");
 const defaultReferenceImages = new Map([
-  ["nyaruko", path.join(rootDir, "sample", "nyaruko-default.png")],
+  ["nia", path.join(rootDir, "sample", "nia-default.png")],
 ]);
 
 function usage() {

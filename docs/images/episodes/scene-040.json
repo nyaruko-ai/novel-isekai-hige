@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-040.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第八章　金の記録――動き出した第三鍵と、王都へ届く前の奪還戦編. Episode title: 第四十話　第三鍵との初接触. Episode summary: 着地と同時に、地面が揺れた。中央の馬車は半壊していた。封印鎖に巻かれた長い箱――いや、もはや箱と呼ぶべきかも怪しい。その表面は金属にも石にも… Beat excerpt: 着地と同時に、地面が揺れた。 中央の馬車は半壊していた。封印鎖に巻かれた長い箱――いや、もはや箱と呼ぶべきかも怪しい。その表面は金属にも石にも見えるが、生き物の殻のようにも見える。脈打っているのだ。まるで内部に心臓があるように。 封印班の指揮官がサトーへ剣を向ける。 「貴様、何者だ！」 「説明してる暇あるか！？　それより今はこれを止める！」 「信用できるか！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第八章　金の記録――動き出した第三鍵と、王都へ届く前の奪還戦編. Episode title: 第四十話　第三鍵との初接触. Episode summary: 着地と同時に、地面が揺れた。中央の馬車は半壊していた。封印鎖に巻かれた長い箱――いや、もはや箱と呼ぶべきかも怪しい。その表面は金属にも石にも… Beat excerpt: 着地と同時に、地面が揺れた。 中央の馬車は半壊していた。封印鎖に巻かれた長い箱――いや、もはや箱と呼ぶべきかも怪しい。その表面は金属にも石にも見えるが、生き物の殻のようにも見える。脈打っているのだ。まるで内部に心臓があるように。 封印班の指揮官がサトーへ剣を向ける。 「貴様、何者だ！」 「説明してる暇あるか！？　それより今はこれを止める！」 「信用できるか！」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

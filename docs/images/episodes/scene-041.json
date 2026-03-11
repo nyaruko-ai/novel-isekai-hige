@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-041.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第八章　金の記録――動き出した第三鍵と、王都へ届く前の奪還戦編. Episode title: 第四十一話　まだ抜けない. Episode summary: 光の中で、サトーは“声”を聞いた。男でも女でもない。機械でも、生き物でもない。それでいて、不思議と冷たすぎない声。 Beat excerpt: 光の中で、サトーは“声”を聞いた。 男でも女でもない。機械でも、生き物でもない。それでいて、不思議と冷たすぎない声。 『第三鍵、仮接続』 『応答者を確認』 『現段階では、完全解放は許可されない』 「……は？」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第八章　金の記録――動き出した第三鍵と、王都へ届く前の奪還戦編. Episode title: 第四十一話　まだ抜けない. Episode summary: 光の中で、サトーは“声”を聞いた。男でも女でもない。機械でも、生き物でもない。それでいて、不思議と冷たすぎない声。 Beat excerpt: 光の中で、サトーは“声”を聞いた。 男でも女でもない。機械でも、生き物でもない。それでいて、不思議と冷たすぎない声。 『第三鍵、仮接続』 『応答者を確認』 『現段階では、完全解放は許可されない』 「……は？」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-020.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第四章　村長への報告と、王都からの使者編. Episode title: 第二十話　道の途中、まだ名前のない影. Episode summary: 王都への道を外れて半日ほど進んだ頃には、景色はすっかり変わっていた。街道ではなく、古い石畳の残骸がところどころ土に埋もれた道。人の往来は少な… Beat excerpt: 王都への道を外れて半日ほど進んだ頃には、景色はすっかり変わっていた。 街道ではなく、古い石畳の残骸がところどころ土に埋もれた道。人の往来は少ない。だが妙に整備されている箇所がある。まるで“昔は重要だった道”が、今は半ば忘れられているような場所だった。 昼下がり、隊は小高い丘の陰で短い休憩を取ることになった。 護衛たちが周囲を警戒し、書記官の青年が地図を広げている。セレスティアは少し離れた場所で通信結晶らしきものを使っていた。 サトーは水筒を開けながら呟く。 「王都に行くはずなのに、秘密の逃避行みたいになってきたな」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第四章　村長への報告と、王都からの使者編. Episode title: 第二十話　道の途中、まだ名前のない影. Episode summary: 王都への道を外れて半日ほど進んだ頃には、景色はすっかり変わっていた。街道ではなく、古い石畳の残骸がところどころ土に埋もれた道。人の往来は少な… Beat excerpt: 王都への道を外れて半日ほど進んだ頃には、景色はすっかり変わっていた。 街道ではなく、古い石畳の残骸がところどころ土に埋もれた道。人の往来は少ない。だが妙に整備されている箇所がある。まるで“昔は重要だった道”が、今は半ば忘れられているような場所だった。 昼下がり、隊は小高い丘の陰で短い休憩を取ることになった。 護衛たちが周囲を警戒し、書記官の青年が地図を広げている。セレスティアは少し離れた場所で通信結晶らしきものを使っていた。 サトーは水筒を開けながら呟く。 「王都に行くはずなのに、秘密の逃避行みたいになってきたな」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

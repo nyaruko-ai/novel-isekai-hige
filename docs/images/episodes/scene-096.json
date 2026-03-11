@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-096.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十九章　沈黙路と、王都地下潜入編. Episode title: 第九十四話　音を捨てた道. Episode summary: 沈黙路は、その名の通り“音が死ぬ道”だった。最初の数分は、ただの狭い通路に思えた。だが進むほどに異様さが増していく。 Beat excerpt: 沈黙路は、その名の通り“音が死ぬ道”だった。 最初の数分は、ただの狭い通路に思えた。だが進むほどに異様さが増していく。 足音がしない。服の擦れる音もしない。息の音さえ、自分の耳に遠い。 ニャル子が小声で言ったつもりなのに、声がほとんど届かない。 「……ご主人様」 サトーも口を開くが、自分の声が水の中みたいに吸われる。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十九章　沈黙路と、王都地下潜入編. Episode title: 第九十四話　音を捨てた道. Episode summary: 沈黙路は、その名の通り“音が死ぬ道”だった。最初の数分は、ただの狭い通路に思えた。だが進むほどに異様さが増していく。 Beat excerpt: 沈黙路は、その名の通り“音が死ぬ道”だった。 最初の数分は、ただの狭い通路に思えた。だが進むほどに異様さが増していく。 足音がしない。服の擦れる音もしない。息の音さえ、自分の耳に遠い。 ニアが小声で言ったつもりなのに、声がほとんど届かない。 「……ご主人様」 サトーも口を開くが、自分の声が水の中みたいに吸われる。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
   "responseTexts": []
 }

@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-078.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十六章　帰還か、最終門か――継承列の選択編. Episode title: 第七十七話　三鍵が揃ったあと. Episode summary: 第二鍵《水哭の涙》がニャル子の胸元に宿り、第三鍵《天穿の杖槍》がサトーの手にあり、第一鍵の応答はすでに済んでいる。これで、必要な鍵は揃った。 Beat excerpt: 第二鍵《水哭の涙》がニャル子の胸元に宿り、第三鍵《天穿の杖槍》がサトーの手にあり、第一鍵の応答はすでに済んでいる。 これで、必要な鍵は揃った。 だが、その事実が場を静かにしたのは、ほんの数秒だけだった。 水底の間に浮かぶ文字が、ゆっくりと変化する。 《三鍵確認》《継承列確認》《最終門権限、仮開放》《移行先候補：中央座標》 セレスティアが低く息を呑む。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十六章　帰還か、最終門か――継承列の選択編. Episode title: 第七十七話　三鍵が揃ったあと. Episode summary: 第二鍵《水哭の涙》がニアの胸元に宿り、第三鍵《天穿の杖槍》がサトーの手にあり、第一鍵の応答はすでに済んでいる。これで、必要な鍵は揃った。 Beat excerpt: 第二鍵《水哭の涙》がニアの胸元に宿り、第三鍵《天穿の杖槍》がサトーの手にあり、第一鍵の応答はすでに済んでいる。 これで、必要な鍵は揃った。 だが、その事実が場を静かにしたのは、ほんの数秒だけだった。 水底の間に浮かぶ文字が、ゆっくりと変化する。 《三鍵確認》《継承列確認》《最終門権限、仮開放》《移行先候補：中央座標》 セレスティアが低く息を呑む。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
   "responseTexts": []
 }

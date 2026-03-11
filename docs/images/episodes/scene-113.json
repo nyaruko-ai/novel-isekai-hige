@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-113.raw.jpg",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 最終章　中央座標と、サトーたちが選ぶ終わり編. Episode title: 第百十一話　帰還. Episode summary: 光がほどける。気づけば、最終門前室だった。 Beat excerpt: 光がほどける。 気づけば、最終門前室だった。 サトーは反射的に周囲を見る。ニャル子。しろたま。いる。 その奥には、イゼル、セレスティア、レギウス。みんな立っていた。 セレスティアが、誰より先にほっと息を吐く。 「……戻ってきた」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 最終章　中央座標と、サトーたちが選ぶ終わり編. Episode title: 第百十一話　帰還. Episode summary: 光がほどける。気づけば、最終門前室だった。 Beat excerpt: 光がほどける。 気づけば、最終門前室だった。 サトーは反射的に周囲を見る。ニア。しろたま。いる。 その奥には、イゼル、セレスティア、レギウス。みんな立っていた。 セレスティアが、誰より先にほっと息を吐く。 「……戻ってきた」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
   "responseTexts": []
 }

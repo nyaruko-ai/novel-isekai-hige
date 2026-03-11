@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-028.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第六章　第七座標の記録庫と、サトーに似た“先代”の影編. Episode title: 第二十八話　空の下の記録庫. Episode summary: 薄紫の空が、静かに揺れていた。風はある。だが草木の匂いはしない。空気は澄んでいるのに、生きた世界というより、何かを保存するために切り取られた… Beat excerpt: 薄紫の空が、静かに揺れていた。 風はある。だが草木の匂いはしない。空気は澄んでいるのに、生きた世界というより、何かを保存するために切り取られた場所のような静けさがあった。 サトーたちは、白い石でできた円形の広場――“第七座標の待機領域”と表示された場所で、しばし息を整えていた。 「……で、ここからどうする」 サトーが言うと、セレスティアは水盤の縁に手を置いたまま答えた。 「まずは周囲の確認です。こういう場所には、たいてい主機能に繋がる中枢区画があります」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第六章　第七座標の記録庫と、サトーに似た“先代”の影編. Episode title: 第二十八話　空の下の記録庫. Episode summary: 薄紫の空が、静かに揺れていた。風はある。だが草木の匂いはしない。空気は澄んでいるのに、生きた世界というより、何かを保存するために切り取られた… Beat excerpt: 薄紫の空が、静かに揺れていた。 風はある。だが草木の匂いはしない。空気は澄んでいるのに、生きた世界というより、何かを保存するために切り取られた場所のような静けさがあった。 サトーたちは、白い石でできた円形の広場――“第七座標の待機領域”と表示された場所で、しばし息を整えていた。 「……で、ここからどうする」 サトーが言うと、セレスティアは水盤の縁に手を置いたまま答えた。 「まずは周囲の確認です。こういう場所には、たいてい主機能に繋がる中枢区画があります」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

@@ -8,15 +8,15 @@
   "rawOutput": "docs/images/episodes/scene-007.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png"
+    "docs/images/characters/nia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko"
+    "nia"
   ],
   "continuityNotes": [
-    "This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
+    "This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二章　森のダンジョンと、もふもふの予感. Episode title: 第七話　霧深き森と、石の門. Episode summary: 昼前には準備が整った。サトーは村で借りた丈夫な革の上着を羽織り、腰には短剣を一本だけ差した。使うつもりはほとんどない。主武装は当然ヒゲだ。ニ… Beat excerpt: 昼前には準備が整った。 サトーは村で借りた丈夫な革の上着を羽織り、腰には短剣を一本だけ差した。使うつもりはほとんどない。主武装は当然ヒゲだ。ニャル子は小型の革バッグに薬草、保存食、火打ち石、小さな地図帳のようなものを詰めている。 「なんか、ちゃんとしてるな」 「メイドは準備力が命ですにゃ」 「冒険者じゃなくて？」 「ご主人様付きメイド兼、生活サポート兼、現地案内兼、臨時ダンジョンサポーターですにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko. Continuity notes: This is before Nyaruko permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第二章　森のダンジョンと、もふもふの予感. Episode title: 第七話　霧深き森と、石の門. Episode summary: 昼前には準備が整った。サトーは村で借りた丈夫な革の上着を羽織り、腰には短剣を一本だけ差した。使うつもりはほとんどない。主武装は当然ヒゲだ。ニ… Beat excerpt: 昼前には準備が整った。 サトーは村で借りた丈夫な革の上着を羽織り、腰には短剣を一本だけ差した。使うつもりはほとんどない。主武装は当然ヒゲだ。ニアは小型の革バッグに薬草、保存食、火打ち石、小さな地図帳のようなものを詰めている。 「なんか、ちゃんとしてるな」 「メイドは準備力が命ですにゃ」 「冒険者じゃなくて？」 「ご主人様付きメイド兼、生活サポート兼、現地案内兼、臨時ダンジョンサポーターですにゃ」 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia. Continuity notes: This is before Nia permanently gains the blue teardrop mark. Keep the bell at the chest, but omit the blue mark.",
   "responseTexts": []
 }

@@ -8,19 +8,19 @@
   "rawOutput": "docs/images/episodes/scene-079.raw.png",
   "referenceImages": [
     "docs/images/characters/sato.png",
-    "docs/images/characters/nyaruko.png",
+    "docs/images/characters/nia.png",
     "docs/images/characters/shirotama.png",
     "docs/images/characters/celestia.png"
   ],
   "referenceCharacterIds": [
     "sato",
-    "nyaruko",
+    "nia",
     "shirotama",
     "celestia"
   ],
   "continuityNotes": [
-    "This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it."
+    "This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it."
   ],
-  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十六章　帰還か、最終門か――継承列の選択編. Episode title: 第七十八話　王都の中と外. Episode summary: 水底の間の空気は重いままだった。サトーは、イゼル、セレスティア、レギウスを順番に見た。 Beat excerpt: 水底の間の空気は重いままだった。 サトーは、イゼル、セレスティア、レギウスを順番に見た。 「まず確認したい」 「何を？」とイゼル。 「王都は、三鍵が揃った継承列をどうするつもりなんだ」 イゼルは少しも目をそらさなかった。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nyaruko, shirotama, celestia. Continuity notes: This is after Nyaruko gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
+  "prompt": "Create one photorealistic fantasy novel insert image for this episode. Chapter: 第十六章　帰還か、最終門か――継承列の選択編. Episode title: 第七十八話　王都の中と外. Episode summary: 水底の間の空気は重いままだった。サトーは、イゼル、セレスティア、レギウスを順番に見た。 Beat excerpt: 水底の間の空気は重いままだった。 サトーは、イゼル、セレスティア、レギウスを順番に見た。 「まず確認したい」 「何を？」とイゼル。 「王都は、三鍵が揃った継承列をどうするつもりなんだ」 イゼルは少しも目をそらさなかった。 Choose the single strongest visual moment from this episode rather than showing multiple moments at once. Use cinematic natural light, strong depth, readable silhouettes, and vertical smartphone-friendly composition. Use the supplied reference images to preserve the canonical appearance of sato, nia, shirotama, celestia. Continuity notes: This is after Nia gains the second key. Keep both the chest bell and the blue teardrop mark below it.",
   "responseTexts": []
 }
